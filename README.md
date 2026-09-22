@@ -2,18 +2,15 @@
 
 Public desk files. Confirm-only. Stats still print the side. Cipher never moves q.
 
-## Live weblink
+## Weblinks
 
-**[corebets.grok.me/archive](https://corebets.grok.me/archive)**
-
-| File | URL |
+| What | URL |
 |---|---|
-| Archive hub | https://corebets.grok.me/archive |
-| NFL 2026 ACT table | https://corebets.grok.me/archive/nfl |
-| NFL CSV | https://corebets.grok.me/archive/nfl-2026-act.csv |
-| NFL JSON | https://corebets.grok.me/archive/nfl-2026-act.json |
-
-This repo is the public clone of the files.
+| This repo | https://github.com/ElohDragons/corebets-archive |
+| NFL CSV | https://github.com/ElohDragons/corebets-archive/blob/main/nfl-2026-act.csv |
+| NFL JSON | https://github.com/ElohDragons/corebets-archive/blob/main/nfl-2026-act.json |
+| Raw CSV | https://raw.githubusercontent.com/ElohDragons/corebets-archive/main/nfl-2026-act.csv |
+| Live desk | https://corebets.grok.me/archive |
 
 ## NFL 2026 ACT
 
