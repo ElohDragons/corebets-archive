@@ -1,0 +1,1547 @@
+id,name,team,position,jersey,dob,age,western,chinese,chineseEnglish,chineseYearOnly,cnyDiffers,lifePath,lifePathDigitSum,natalCompound,yearsExp,college
+00-0035378,Andrew Wingard,ARI,DB,28,1996-12-05,29,Sagittarius,Rat,Fire Rat,Rat,false,42/6,33,33,7,Wyoming
+00-0037157,Bam Knight,ARI,RB,20,2001-04-11,25,Aries,Snake,Metal Snake,Snake,false,18/9,9,9,4,N.C. State
+00-0036995,Baron Browning,ARI,LB,5,1999-02-19,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,49/13/4,40/4,40/4,5,Ohio State
+00-0035859,Blake Gillikin,ARI,P,12,1998-01-21,28,Aquarius,Ox,Fire Ox,Tiger,true,49/13/4,31/4,31/4,6,Penn State
+00-0033890,Budda Baker,ARI,DB,3,1996-01-10,30,Capricorn,Pig,Wood Pig,Rat,true,36/9,27/9,27/9,9,Washington
+00-0030957,Casey Kreiter,ARI,LS,59,1990-08-13,36,Leo,Horse,Metal Horse,Horse,false,40/4,31/4,31/4,12,Iowa
+00-0038567,Chad Ryland,ARI,K,38,1999-10-15,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,53/8,35/8,35/8,3,Maryland; Eastern Michigan
+00-0040645,Cody Simon,ARI,LB,0,2002-04-01,24,Aries,Horse,Water Horse,Horse,false,9,9,9,1,Ohio State
+00-0039864,Dadrion Taylor-Demerson,ARI,DB,42,2001-01-20,25,Aquarius,Dragon,Metal Dragon,Snake,true,24/6,6,6,2,Texas Tech
+00-0038623,Dante Stills,ARI,DL,55,1999-12-14,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,54/9,36/9,36/9,3,West Virginia
+00-0039854,Darius Robinson,ARI,DL,56,2001-09-13,25,Virgo,Snake,Metal Snake,Snake,false,25/7,16/7,16/7,2,Missouri
+00-0040195,Denzel Burke,ARI,DB,29,2002-11-10,23,Scorpio,Horse,Water Horse,Horse,false,25/7,7,7,1,Ohio State
+00-0036331,Devin Duvernay,ARI,WR,81,1997-09-12,29,Virgo,Ox,Fire Ox,Ox,false,47/11,38/11,38/11,6,Texas
+00-0038782,Eku Leota,ARI,LB,54,1999-05-11,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,44/8,35/8,35/8,3,Auburn
+00-0039041,Elijah Higgins,ARI,TE,84,2000-10-27,25,Scorpio,Dragon,Metal Dragon,Dragon,false,39/12/3,12/3,12/3,3,Stanford
+00-0033676,Elijah Wilkinson,ARI,OL,65,1995-02-10,31,Aquarius,Pig,Wood Pig,Pig,false,36/9,27/9,27/9,9,UMass Amherst
+00-0035289,Gardner Minshew,ARI,QB,15,1996-05-16,30,Taurus,Rat,Fire Rat,Rat,false,46/10/1,37/10/1,37/10/1,7,Washington State
+00-0040219,Hayden Conner,ARI,OL,58,2002-04-26,24,Taurus,Horse,Water Horse,Horse,false,34/7,16/7,16/7,1,Texas
+00-0035258,Hjalte Froholdt,ARI,OL,72,1996-08-20,30,Leo,Rat,Fire Rat,Rat,false,53/8,35/8,35/8,7,Arkansas
+00-0037004,Hunter Long,ARI,TE,89,1998-08-19,28,Leo,Tiger,Earth Tiger,Tiger,false,54/9,45/9,45/9,5,Boston College
+00-0032954,Isaac Seumalo,ARI,OL,73,1993-10-29,32,Scorpio,Rooster,Water Rooster,Rooster,false,61/7,34/7,34/7,10,Oregon State
+00-0039808,Isaiah Adams,ARI,OL,74,2000-07-21,26,Cancer,Dragon,Metal Dragon,Dragon,false,30/3,12/3,12/3,2,Illinois; Garden City CC
+00-0037596,Jack Gibbens,ARI,LB,50,1998-11-24,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,62/8,35/8,35/8,4,Minnesota; Abilene Christian
+00-0033119,Jacoby Brissett,ARI,QB,7,1992-12-11,33,Sagittarius,Monkey,Water Monkey,Monkey,false,44/8,26/8,26/8,10,N.C. State; Florida
+00-0038640,Jalen Brooks,ARI,WR,86,2000-05-07,26,Taurus,Dragon,Metal Dragon,Dragon,false,14/5,14/5,14/5,3,South Carolina; Tarleton State; Wingate
+00-0041113,Jayden Williams,ARI,OL,66,2003-04-10,23,Aries,Goat,Water Goat,Goat,false,19/10/1,10/1,10/1,0,Mississippi
+00-0041027,Jeremiyah Love,ARI,RB,4,2005-05-31,21,Gemini,Rooster,Wood Rooster,Rooster,false,43/7,16/7,16/7,0,Notre Dame
+00-0038571,Jon Gaines II,ARI,OL,71,1999-05-24,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,57/12/3,39/12/3,39/12/3,3,UCLA
+00-0040137,Jordan Burch,ARI,LB,52,2001-10-10,24,Libra,Snake,Metal Snake,Snake,false,23/5,5,5,1,Oregon; South Carolina
+00-0034381,Josh Sweat,ARI,LB,10,1997-03-29,29,Aries,Ox,Fire Ox,Ox,false,58/13/4,40/4,40/4,8,Florida State
+00-0039239,Kalen King,ARI,DB,35,2003-01-28,23,Aquarius,Horse,Water Horse,Goat,true,34/7,16/7,16/7,2,Penn State
+00-0041093,Karson Sharar,ARI,LB,43,2003-03-07,23,Pisces,Goat,Water Goat,Goat,false,15/6,15/6,15/6,0,Iowa
+00-0038984,Kei'Trel Clark,ARI,DB,13,2001-03-19,25,Pisces,Snake,Metal Snake,Snake,false,25/7,16/7,16/7,3,Louisville
+00-0033307,Kendrick Bourne,ARI,WR,17,1995-08-04,31,Leo,Pig,Wood Pig,Pig,false,36/9,36/9,36/9,9,Eastern Washington
+00-0035636,L.J. Collier,ARI,DL,91,1995-09-12,31,Virgo,Pig,Wood Pig,Pig,false,45/9,36/9,36/9,7,TCU
+00-0035144,Mack Wilson,ARI,LB,1,1998-02-14,28,Aquarius,Tiger,Earth Tiger,Tiger,false,43/7,34/7,34/7,7,Alabama
+00-0039849,Marvin Harrison Jr.,ARI,WR,18,2002-08-11,24,Leo,Horse,Water Horse,Horse,false,23/5,14/5,14/5,2,Ohio State
+00-0039807,Max Melton,ARI,DB,16,2002-04-15,24,Aries,Horse,Water Horse,Horse,false,23/5,14/5,14/5,2,Rutgers
+00-0038559,Michael Wilson,ARI,WR,14,2000-02-23,26,Pisces,Dragon,Metal Dragon,Dragon,false,27/9,9,9,3,Stanford
+00-0038540,Paris Johnson Jr.,ARI,OL,70,2001-07-03,25,Cancer,Snake,Metal Snake,Snake,false,13/4,13/4,13/4,3,Ohio State
+00-0036568,Roy Lopez,ARI,DL,51,1997-08-07,29,Leo,Ox,Fire Ox,Ox,false,41/5,41/5,41/5,5,Arizona
+00-0036646,Simi Fehoko,ARI,WR,80,1997-11-05,28,Scorpio,Ox,Fire Ox,Ox,false,42/6,33,33,5,Stanford
+00-0037744,Trey McBride,ARI,TE,85,1999-11-22,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,61/7,34/7,34/7,4,Colorado State
+00-0037263,Tyler Allgeier,ARI,RB,22,2000-04-15,26,Aries,Dragon,Metal Dragon,Dragon,false,21/3,12/3,12/3,4,BYU
+00-0040706,Walter Nolen,ARI,DL,97,2003-10-14,22,Libra,Goat,Water Goat,Goat,false,29/11,11,11,1,Mississippi; Texas A&M
+00-0040751,Will Johnson,ARI,DB,2,2003-03-29,23,Aries,Goat,Water Goat,Goat,false,37/10/1,19/10/1,19/10/1,1,Michigan
+00-0041370,Wydett Williams Jr.,ARI,DB,31,2003-12-05,22,Sagittarius,Goat,Water Goat,Goat,false,22,13/4,13/4,0,Mississippi; Louisiana-Monroe; Delta State University
+00-0036933,Zaven Collins,ARI,LB,25,1999-05-19,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,52/7,43/7,43/7,5,Tulsa
+00-0036285,A.J. Terrell,ATL,DB,24,1998-09-23,27,Libra,Tiger,Earth Tiger,Tiger,false,59/14/5,41/5,41/5,6,Clemson
+00-0032392,Austin Hooper,ATL,TE,81,1994-10-29,31,Scorpio,Dog,Wood Dog,Dog,false,62/8,35/8,35/8,10,Stanford
+00-0041469,Avieon Terrell,ATL,DB,12,2005-01-11,21,Capricorn,Monkey,Wood Monkey,Rooster,true,19/10/1,10/1,10/1,0,Clemson
+00-0038542,Bijan Robinson,ATL,RB,7,2002-01-30,24,Aquarius,Snake,Metal Snake,Horse,true,35/8,8,8,3,Texas
+00-0039859,Brandon Dorlus,ATL,DL,54,2001-03-22,25,Aries,Snake,Metal Snake,Snake,false,28/10/1,10/1,10/1,2,Oregon
+00-0037746,Brian Robinson,ATL,RB,15,1999-03-22,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,53/8,35/8,35/8,4,Alabama
+00-0036281,C.J. Henderson,ATL,DB,26,1998-09-30,27,Libra,Tiger,Earth Tiger,Tiger,false,66/12/3,39/12/3,39/12/3,6,Florida
+00-0037815,Cameron Thomas,ATL,DL,99,2000-07-01,26,Cancer,Dragon,Metal Dragon,Dragon,false,10/1,10/1,10/1,4,San Diego State
+00-0036429,Charlie Woerner,ATL,TE,89,1997-10-16,28,Libra,Ox,Fire Ox,Ox,false,52/7,34/7,34/7,6,Georgia
+00-0036463,Chris Blair,ATL,WR,19,1997-10-06,28,Libra,Ox,Fire Ox,Ox,false,42/6,33,33,6,Alcorn State
+00-0035630,Chris Lindstrom,ATL,OL,63,1997-02-28,29,Pisces,Ox,Fire Ox,Ox,false,56/11,38/11,38/11,7,Boston College
+00-0037823,Christian Harris,ATL,LB,45,2001-01-16,25,Capricorn,Dragon,Metal Dragon,Snake,true,20/2,11,11,4,Alabama
+00-0033662,Cooper Rush,ATL,QB,13,1993-11-21,32,Scorpio,Rooster,Water Rooster,Rooster,false,54/9,27/9,27/9,9,Central Michigan; Tarrant County JC
+00-0033793,Corey Levin,ATL,OL,62,1994-08-12,32,Leo,Dog,Wood Dog,Dog,false,43/7,34/7,34/7,9,Tennessee-Chattanooga
+00-0038628,DeMarcco Hellams,ATL,DB,23,2000-06-05,26,Gemini,Dragon,Metal Dragon,Dragon,false,13/4,13/4,13/4,3,Alabama
+00-0036990,Divine Deablo,ATL,LB,0,1998-08-17,28,Leo,Tiger,Earth Tiger,Tiger,false,52/7,43/7,43/7,5,Virginia Tech
+00-0037238,Drake London,ATL,WR,5,2001-07-24,25,Leo,Snake,Metal Snake,Snake,false,34/7,16/7,16/7,4,USC
+00-0039070,Gervon Dexter Sr.,ATL,DL,95,2000-10-05,25,Libra,Dragon,Metal Dragon,Dragon,false,17/8,8,8,3,Florida
+00-0041112,Harold Perkins Jr.,ATL,LB,56,2004-09-10,22,Virgo,Monkey,Wood Monkey,Monkey,false,25/7,16/7,16/7,0,LSU
+00-0041194,Jack Strand,ATL,QB,18,2004-06-23,22,Cancer,Monkey,Wood Monkey,Monkey,false,35/8,17/8,17/8,0,Minnesota State
+00-0037741,Jahan Dotson,ATL,WR,4,2000-03-22,26,Aries,Dragon,Metal Dragon,Dragon,false,27/9,9,9,4,Penn State
+00-0035280,Jake Bailey,ATL,P,16,1997-06-18,29,Gemini,Ox,Fire Ox,Ox,false,50/5,41/5,41/5,7,Stanford
+00-0031279,Jake Matthews,ATL,OL,70,1992-02-11,34,Aquarius,Monkey,Water Monkey,Monkey,false,34/7,25/7,25/7,12,Texas A&M
+00-0040056,Jared Ivey,ATL,DL,51,2001-12-05,24,Sagittarius,Snake,Metal Snake,Snake,false,20/2,11,11,1,Mississippi; Georgia Tech
+00-0035237,Jawaan Taylor,ATL,OL,71,1997-11-25,28,Sagittarius,Ox,Fire Ox,Ox,false,62/8,35/8,35/8,7,Florida
+00-0034675,Jessie Bates,ATL,DB,3,1997-02-26,29,Pisces,Ox,Fire Ox,Ox,false,54/9,36/9,36/9,8,Wake Forest
+00-0034801,Josh Woods,ATL,LB,42,1996-07-01,30,Cancer,Rat,Fire Rat,Rat,false,33,33,33,8,Maryland
+00-0041066,Kendal Daniels,ATL,LB,53,2002-12-16,23,Sagittarius,Horse,Water Horse,Horse,false,32/5,14/5,14/5,0,Oklahoma; Oklahoma State
+00-0036354,Kyle Hinton,ATL,OL,68,1998-02-27,28,Pisces,Tiger,Earth Tiger,Tiger,false,56/11,38/11,38/11,6,Washburn
+00-0036970,Kyle Pitts,ATL,TE,8,2000-10-06,25,Libra,Dragon,Metal Dragon,Dragon,false,18/9,9,9,5,Florida
+00-0036204,LaCale London,ATL,DL,94,1997-08-05,29,Leo,Ox,Fire Ox,Ox,false,39/12/3,39/12/3,39/12/3,6,Western Illinois
+00-0036082,Liam McCullough,ATL,LS,49,1997-06-05,29,Gemini,Ox,Fire Ox,Ox,false,37/10/1,37/10/1,37/10/1,6,Ohio State
+00-0039889,Maason Smith,ATL,DL,92,2002-10-13,23,Libra,Horse,Water Horse,Horse,false,27/9,9,9,2,LSU
+00-0039048,Matthew Bergeron,ATL,OL,65,2000-02-26,26,Pisces,Dragon,Metal Dragon,Dragon,false,30/3,12/3,12/3,3,Syracuse
+00-0039842,Michael Jerrell,ATL,OL,72,1999-08-18,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,54/9,45/9,45/9,2,Findlay
+00-0034639,Mike Ford,ATL,DB,28,1995-08-04,31,Leo,Pig,Wood Pig,Pig,false,36/9,36/9,36/9,8,Southeast Missouri State
+00-0034843,Mike Hughes,ATL,DB,21,1997-02-11,29,Aquarius,Ox,Fire Ox,Ox,false,39/12/3,30/3,30/3,8,UCF; Garden City CC; North Carolina
+00-0025565,Nick Folk,ATL,K,6,1984-11-05,41,Scorpio,Rat,Wood Rat,Rat,false,38/11,29/11,29/11,19,Arizona
+00-0037317,Nick Muse,ATL,TE,87,1998-11-25,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,63/9,36/9,36/9,4,South Carolina
+00-0035208,Olamide Zaccheaus,ATL,WR,14,1997-07-23,29,Leo,Ox,Fire Ox,Ox,false,56/11,38/11,38/11,7,Virginia
+00-0036833,Ryan Neuzil,ATL,OL,64,1997-07-31,29,Leo,Ox,Fire Ox,Ox,false,64/10/1,37/10/1,37/10/1,5,Appalachian State
+00-0033945,Samson Ebukam,ATL,DL,52,1995-05-09,31,Taurus,Pig,Wood Pig,Pig,false,38/11,38/11,38/11,9,Eastern Washington
+00-0039002,Sydney Brown,ATL,DB,29,2000-03-21,26,Aries,Dragon,Metal Dragon,Dragon,false,26/8,8,8,3,Illinois
+00-0040148,Xavier Watts,ATL,DB,31,2001-11-22,24,Sagittarius,Snake,Metal Snake,Snake,false,36/9,9,9,1,Notre Dame
+00-0038580,Yasir Abdullah,ATL,LB,22,2000-04-12,26,Aries,Dragon,Metal Dragon,Dragon,false,18/9,9,9,3,Louisville
+00-0031576,Za'Darius Smith,ATL,LB,55,1992-09-08,34,Virgo,Monkey,Water Monkey,Monkey,false,38/11,38/11,38/11,11,Kentucky; East Mississippi JC
+00-0038980,Zach Harrison,ATL,DL,96,2001-08-14,25,Leo,Snake,Metal Snake,Snake,false,25/7,16/7,16/7,3,Ohio State
+00-0041044,Zachariah Branch,ATL,WR,17,2004-03-29,22,Aries,Monkey,Wood Monkey,Monkey,false,38/11,20/2,20/2,0,Georgia; USC
+00-0040076,Aeneas Peebles,BAL,DL,90,2001-09-03,25,Virgo,Snake,Metal Snake,Snake,false,15/6,15/6,15/6,1,Virginia Tech; Duke
+00-0036081,Broderick Washington,BAL,DL,96,1996-12-04,29,Sagittarius,Rat,Fire Rat,Rat,false,41/5,32/5,32/5,6,Texas Tech
+00-0026190,Calais Campbell,BAL,DL,93,1986-09-01,40,Virgo,Tiger,Fire Tiger,Tiger,false,34/7,34/7,34/7,18,Miami
+00-0039460,Carl Jones,BAL,LB,48,2001-08-08,25,Leo,Snake,Metal Snake,Snake,false,19/10/1,19/10/1,19/10/1,2,UCLA
+00-0040070,Carson Vinson,BAL,OL,76,2001-11-13,24,Scorpio,Snake,Metal Snake,Snake,false,27/9,9,9,1,Alabama A&M
+00-0040885,Chandler Rivers,BAL,DB,29,2003-10-17,22,Libra,Goat,Water Goat,Goat,false,32/5,14/5,14/5,0,Duke
+00-0033548,Chidobe Awuzie,BAL,DB,3,1995-05-24,31,Gemini,Pig,Wood Pig,Pig,false,53/8,35/8,35/8,9,Colorado
+00-0032398,Chris Moore,BAL,WR,17,1993-06-16,33,Gemini,Rooster,Water Rooster,Rooster,false,44/8,35/8,35/8,10,Cincinnati
+00-0032764,Derrick Henry,BAL,RB,22,1994-01-04,32,Capricorn,Rooster,Water Rooster,Dog,true,28/10/1,28/10/1,28/10/1,10,Alabama
+00-0039792,Devontez Walker,BAL,WR,81,2001-06-19,25,Gemini,Snake,Metal Snake,Snake,false,28/10/1,19/10/1,19/10/1,2,North Carolina; Kent State; North Carolina Central
+00-0034798,Durham Smythe,BAL,TE,80,1995-08-09,31,Leo,Pig,Wood Pig,Pig,false,41/5,41/5,41/5,8,Notre Dame
+00-0040876,Elijah Sarratt,BAL,WR,13,2003-05-28,23,Gemini,Goat,Water Goat,Goat,false,38/11,20/2,20/2,0,Indiana; James Madison; St. Francis PA
+00-0040068,Emery Jones Jr.,BAL,OL,51,2004-03-05,22,Pisces,Monkey,Wood Monkey,Monkey,false,14/5,14/5,14/5,1,LSU
+00-0040978,Ethan Burke,BAL,LB,97,2003-06-20,23,Gemini,Goat,Water Goat,Goat,false,31/4,13/4,13/4,0,Texas
+00-0033901,Ethan Pocic,BAL,OL,77,1995-08-05,31,Leo,Pig,Wood Pig,Pig,false,37/10/1,37/10/1,37/10/1,9,LSU
+00-0040100,Jay Higgins,BAL,LB,49,2002-02-14,24,Aquarius,Horse,Water Horse,Horse,false,20/2,11,11,1,Iowa
+00-0036302,Jaylinn Hawkins,BAL,DB,21,1997-08-27,29,Virgo,Ox,Fire Ox,Ox,false,61/7,43/7,43/7,6,California
+00-0030070,John Jenkins,BAL,DL,94,1989-07-11,37,Cancer,Snake,Earth Snake,Snake,false,45/9,36/9,36/9,13,Georgia; Gulf Coast CC; Mississippi
+00-0036369,John Simpson,BAL,OL,74,1997-08-19,29,Leo,Ox,Fire Ox,Ox,false,53/8,44/8,44/8,6,Clemson
+00-0040887,Josh Cuevas,BAL,TE,85,2002-09-25,23,Libra,Horse,Water Horse,Horse,false,38/11,20/2,20/2,0,Alabama; Washington; Pomona State
+00-0038629,Jovaughn Gwyn,BAL,OL,54,1999-03-18,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,49/13/4,40/4,40/4,3,South Carolina
+00-0034975,Justice Hill,BAL,RB,43,1997-11-14,28,Scorpio,Ox,Fire Ox,Ox,false,51/6,33,33,7,Oklahoma State
+00-0040104,Keondre Jackson,BAL,DB,39,2002-05-02,24,Taurus,Horse,Water Horse,Horse,false,11,11,11,1,Illinois State
+00-0040636,Keyon Martin,BAL,DB,38,2001-05-16,25,Taurus,Snake,Metal Snake,Snake,false,24/6,15/6,15/6,1,Louisiana-Lafayette; Youngstown State
+00-0038038,Kyle Hamilton,BAL,DB,14,2001-03-16,25,Pisces,Snake,Metal Snake,Snake,false,22,13/4,13/4,4,Notre Dame
+00-0040075,LaJohntay Wester,BAL,WR,10,2002-03-29,24,Aries,Horse,Water Horse,Horse,false,36/9,18/9,18/9,1,Colorado; Florida Atlantic
+00-0034796,Lamar Jackson,BAL,QB,8,1997-01-07,29,Capricorn,Rat,Fire Rat,Ox,true,34/7,34/7,34/7,8,Louisville
+00-0040688,Malaki Starks,BAL,DB,24,2003-11-13,22,Scorpio,Goat,Water Goat,Goat,false,29/11,11,11,1,Georgia
+00-0034753,Mark Andrews,BAL,TE,89,1995-09-06,31,Virgo,Pig,Wood Pig,Pig,false,39/12/3,39/12/3,39/12/3,8,Oklahoma
+00-0033281,Marlon Humphrey,BAL,DB,44,1996-07-08,30,Cancer,Rat,Fire Rat,Rat,false,40/4,40/4,40/4,9,Alabama
+00-0040879,Matthew Hibner,BAL,TE,88,2002-03-09,24,Pisces,Horse,Water Horse,Horse,false,16/7,16/7,16/7,0,SMU; Michigan
+00-0040722,Mike Green,BAL,LB,15,2003-07-28,23,Leo,Goat,Water Goat,Goat,false,40/4,22,22,1,Marshall; Virginia
+00-0039232,Nate Wiggins,BAL,DB,2,2003-08-28,23,Virgo,Goat,Water Goat,Goat,false,41/5,23/5,23/5,2,Clemson
+00-0035408,Nick Moore,BAL,LS,46,1992-12-09,33,Sagittarius,Monkey,Water Monkey,Monkey,false,42/6,33,33,7,Georgia
+00-0040866,Olaivavega Ioane,BAL,OL,71,2004-04-17,22,Aries,Monkey,Wood Monkey,Monkey,false,27/9,18/9,18/9,0,Penn State
+00-0039796,Rasheen Ali,BAL,RB,26,2001-02-16,25,Aquarius,Snake,Metal Snake,Snake,false,21/3,12/3,12/3,2,Marshall
+00-0036550,Rashod Bateman,BAL,WR,7,1999-11-29,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,68/14/5,41/5,41/5,5,Minnesota
+00-0039233,Roger Rosengarten,BAL,OL,70,2002-06-03,24,Gemini,Horse,Water Horse,Horse,false,13/4,13/4,13/4,2,Washington
+00-0032965,Ronnie Stanley,BAL,OL,79,1994-03-18,32,Pisces,Dog,Wood Dog,Dog,false,44/8,35/8,35/8,10,Notre Dame
+00-0034874,Roquan Smith,BAL,LB,0,1997-04-08,29,Aries,Ox,Fire Ox,Ox,false,38/11,38/11,38/11,8,Georgia
+00-0040898,Ryan Eckley,BAL,P,30,2004-02-16,22,Aquarius,Monkey,Wood Monkey,Monkey,false,24/6,15/6,15/6,0,Michigan State
+00-0038505,Tavius Robinson,BAL,LB,95,1999-01-03,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,32/5,32/5,32/5,3,Mississippi
+00-0037756,Travis Jones,BAL,DL,98,1999-10-15,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,53/8,35/8,35/8,4,Connecticut
+00-0038504,Trenton Simpson,BAL,LB,32,2001-06-14,25,Gemini,Snake,Metal Snake,Snake,false,23/5,14/5,14/5,3,Clemson
+00-0033935,Trey Hendrickson,BAL,LB,91,1994-12-05,31,Sagittarius,Dog,Wood Dog,Dog,false,40/4,31/4,31/4,9,Florida Atlantic
+00-0035993,Tyler Huntley,BAL,QB,5,1998-02-03,28,Aquarius,Tiger,Earth Tiger,Tiger,false,32/5,32/5,32/5,6,Utah
+00-0040074,Tyler Loop,BAL,K,33,2001-08-04,25,Leo,Snake,Metal Snake,Snake,false,15/6,15/6,15/6,1,Arizona
+00-0041494,Zion Young,BAL,LB,9,2004-03-18,22,Pisces,Monkey,Wood Monkey,Monkey,false,27/9,18/9,18/9,0,Missouri; Michigan State
+00-0037428,Alec Anderson,BUF,OL,70,1999-10-03,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,41/5,32/5,32/5,4,UCLA
+00-0034261,Austin Corbett,BUF,OL,63,1995-09-05,31,Virgo,Pig,Wood Pig,Pig,false,38/11,38/11,38/11,8,Nevada
+00-0034832,Bradley Chubb,BUF,LB,9,1996-06-24,30,Cancer,Rat,Fire Rat,Rat,false,55/10/1,37/10/1,37/10/1,8,N.C. State
+00-0035253,C.J. Gardner-Johnson,BUF,DB,22,1997-12-20,28,Sagittarius,Ox,Fire Ox,Ox,false,58/13/4,31/4,31/4,7,Florida
+00-0037288,Christian Benford,BUF,DB,47,2000-09-21,26,Virgo,Dragon,Metal Dragon,Dragon,false,32/5,14/5,14/5,4,Villanova
+00-0039872,Cole Bishop,BUF,DB,24,2002-10-24,23,Scorpio,Horse,Water Horse,Horse,false,38/11,11,11,2,Utah
+00-0035679,Connor McGovern,BUF,OL,66,1997-11-03,28,Scorpio,Ox,Fire Ox,Ox,false,40/4,31/4,31/4,7,Penn State
+00-0038933,Dalton Kincaid,BUF,TE,86,1999-10-18,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,56/11,38/11,38/11,3,Utah; Univ of California-San Diego
+00-0036888,Damar Hamlin,BUF,DB,3,1998-03-24,28,Aries,Tiger,Earth Tiger,Tiger,false,54/9,36/9,36/9,5,Pittsburgh
+00-0041391,Davison Igbinosun,BUF,DB,21,2004-04-11,22,Aries,Monkey,Wood Monkey,Monkey,false,21/3,12/3,12/3,0,Ohio State; Mississippi
+00-0035689,Dawson Knox,BUF,TE,88,1996-11-14,29,Scorpio,Rat,Fire Rat,Rat,false,50/5,32/5,32/5,7,Mississippi
+00-0037034,Dee Alford,BUF,DB,23,1997-11-05,28,Scorpio,Ox,Fire Ox,Ox,false,42/6,33,33,6,Tusculum College
+00-0040710,Deone Walker,BUF,DL,96,2004-03-11,22,Pisces,Monkey,Wood Monkey,Monkey,false,20/2,11,11,1,Kentucky
+00-0039873,DeWayne Carter,BUF,DL,90,2000-12-10,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,24/6,6,6,2,Duke
+00-0033904,Dion Dawkins,BUF,OL,73,1994-04-26,32,Taurus,Dog,Wood Dog,Dog,false,53/8,35/8,35/8,9,Temple
+00-0034827,DJ Moore,BUF,WR,2,1997-04-14,29,Aries,Ox,Fire Ox,Ox,false,44/8,35/8,35/8,8,Maryland
+00-0038557,Dorian Williams,BUF,LB,42,2001-06-28,25,Cancer,Snake,Metal Snake,Snake,false,37/10/1,19/10/1,19/10/1,3,Tulane
+00-0039471,Frank Gore Jr.,BUF,RB,20,2002-03-13,24,Pisces,Horse,Water Horse,Horse,false,20/2,11,11,2,Southern Mississippi
+00-0035500,Greg Dortch,BUF,WR,19,1998-05-29,28,Gemini,Tiger,Earth Tiger,Tiger,false,61/7,43/7,43/7,7,Wake Forest
+00-0035667,Greg Gaines,BUF,DL,97,1996-05-06,30,Taurus,Rat,Fire Rat,Rat,false,36/9,36/9,36/9,7,Washington
+00-0036914,Greg Rousseau,BUF,LB,15,2000-04-05,26,Aries,Dragon,Metal Dragon,Dragon,false,11,11,11,5,Miami
+00-0040194,Jackson Hawes,BUF,TE,85,2000-12-06,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,20/2,11,11,1,Georgia Tech; Yale
+00-0037248,James Cook,BUF,RB,4,1999-09-25,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,62/8,44/8,44/8,4,Georgia
+00-0039879,Javon Solomon,BUF,LB,56,2001-01-17,25,Capricorn,Dragon,Metal Dragon,Snake,true,21/3,12/3,12/3,2,Troy
+00-0039763,Joe Andreessen,BUF,LB,44,2000-02-07,26,Aquarius,Dragon,Metal Dragon,Dragon,false,11,11,11,2,Buffalo
+00-0040192,Jordan Hancock,BUF,DB,37,2003-08-12,23,Leo,Goat,Water Goat,Goat,false,25/7,16/7,16/7,1,Ohio State
+00-0034857,Josh Allen,BUF,QB,17,1996-05-21,30,Gemini,Rat,Fire Rat,Rat,false,51/6,33,33,8,Wyoming; Reedley
+00-0036988,Josh Palmer,BUF,WR,5,1999-09-22,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,59/14/5,41/5,41/5,5,Tennessee
+00-0041444,Kaleb Elarms-Orr,BUF,LB,52,2003-08-29,23,Virgo,Goat,Water Goat,Goat,false,42/6,24/6,24/6,0,TCU; California
+00-0040363,Keleki Latu,BUF,TE,83,2002-08-13,24,Leo,Horse,Water Horse,Horse,false,25/7,16/7,16/7,1,Washington; Nevada
+00-0039901,Keon Coleman,BUF,WR,0,2003-05-17,23,Taurus,Goat,Water Goat,Goat,false,27/9,18/9,18/9,2,Florida State; Michigan State
+00-0037261,Khalil Shakir,BUF,WR,10,2000-02-03,26,Aquarius,Rabbit,Earth Rabbit,Dragon,true,7,7,7,4,Boise State
+00-0034577,Kyle Allen,BUF,QB,11,1996-03-08,30,Pisces,Rat,Fire Rat,Rat,false,36/9,36/9,36/9,8,Houston; Texas A&M
+00-0040132,Landon Jackson,BUF,DL,94,2003-01-02,23,Capricorn,Horse,Water Horse,Goat,true,8,8,8,1,Arkansas; LSU
+00-0036391,Lloyd Cushenberry III,BUF,OL,53,1997-11-22,28,Sagittarius,Ox,Fire Ox,Ox,false,59/14/5,32/5,32/5,6,LSU
+00-0040709,Maxwell Hairston,BUF,DB,1,2003-08-06,23,Leo,Goat,Water Goat,Goat,false,19/10/1,19/10/1,19/10/1,1,Kentucky
+00-0036378,Michael Danna,BUF,LB,51,1997-12-04,28,Sagittarius,Ox,Fire Ox,Ox,false,42/6,33,33,6,Michigan
+00-0035933,Michael Hoecht,BUF,LB,55,1997-10-05,28,Libra,Ox,Fire Ox,Ox,false,41/5,32/5,32/5,6,Brown
+00-0038548,O'Cyrus Torrence,BUF,OL,64,2000-01-20,26,Aquarius,Rabbit,Earth Rabbit,Dragon,true,23/5,5,5,3,Florida; Louisiana-Lafayette
+00-0039875,Ray Davis,BUF,RB,7,1999-11-20,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,59/14/5,32/5,32/5,2,Kentucky; Vanderbilt; Temple
+00-0032497,Reid Ferguson,BUF,LS,69,1994-03-24,32,Aries,Dog,Wood Dog,Dog,false,50/5,32/5,32/5,10,LSU
+00-0036037,Sam Franklin Jr.,BUF,DB,28,1996-02-02,30,Aquarius,Pig,Wood Pig,Rat,true,29/11,29/11,29/11,6,Temple
+00-0036976,Spencer Brown,BUF,OL,79,1998-02-28,28,Pisces,Tiger,Earth Tiger,Tiger,false,57/12/3,39/12/3,39/12/3,5,Northern Iowa
+00-0037254,Terrel Bernard,BUF,LB,8,1999-05-07,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,40/4,40/4,40/4,4,Baylor
+00-0041036,TJ Parker,BUF,LB,99,2004-09-19,22,Virgo,Monkey,Wood Monkey,Monkey,false,34/7,25/7,25/7,0,Clemson
+00-0041126,Tommy Doman Jr.,BUF,P,39,2002-09-01,24,Virgo,Horse,Water Horse,Horse,false,14/5,14/5,14/5,0,Florida; Michigan
+00-0039882,Tylan Grable,BUF,OL,68,1999-10-04,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,42/6,33,33,2,UCF; Jacksonville State
+00-0036162,Tyler Bass,BUF,K,16,1997-02-14,29,Aquarius,Ox,Fire Ox,Ox,false,42/6,33,33,6,Georgia Southern
+00-0041148,Aaron Hall,CAR,DL,94,2003-04-18,23,Aries,Goat,Water Goat,Goat,false,27/9,18/9,18/9,0,Duke
+00-0036265,AJ Dillon,CAR,RB,28,1998-05-02,28,Taurus,Tiger,Earth Tiger,Tiger,false,34/7,34/7,34/7,6,Boston College
+00-0038101,Akayleb Evans,CAR,DB,29,1999-06-22,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,56/11,38/11,38/11,4,Missouri
+00-0035687,Bobby Okereke,CAR,LB,58,1996-07-29,30,Leo,Rat,Fire Rat,Rat,false,61/7,43/7,43/7,7,Stanford
+00-0039150,Bryce Young,CAR,QB,9,2001-07-25,25,Leo,Snake,Metal Snake,Snake,false,35/8,17/8,17/8,3,Alabama
+00-0038840,Brycen Tremayne,CAR,WR,87,1999-11-18,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,57/12/3,39/12/3,39/12/3,3,Stanford
+00-0040174,Cam Jackson,CAR,DL,99,2002-08-07,24,Leo,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,1,Florida; Memphis
+00-0036555,Chuba Hubbard,CAR,RB,30,1999-06-11,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,45/9,36/9,36/9,5,Oklahoma State
+00-0038493,Claudin Cherelus,CAR,LB,53,1999-02-09,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,39/12/3,39/12/3,39/12/3,3,Alcorn State; UMass Amherst
+00-0039242,Corey Bullock,CAR,OL,67,2001-12-09,24,Sagittarius,Snake,Metal Snake,Snake,false,24/6,15/6,15/6,2,Maryland; North Carolina Central
+00-0036417,Damien Lewis,CAR,OL,68,1997-03-21,29,Aries,Ox,Fire Ox,Ox,false,50/5,32/5,32/5,6,LSU; Northwest Mississippi CC
+00-0031610,Darren Waller,CAR,TE,88,1992-09-13,34,Virgo,Monkey,Water Monkey,Monkey,false,43/7,34/7,34/7,11,Georgia Tech
+00-0036220,Derrick Brown,CAR,DL,95,1998-04-15,28,Aries,Tiger,Earth Tiger,Tiger,false,46/10/1,37/10/1,37/10/1,6,Auburn
+00-0037244,Devin Lloyd,CAR,LB,55,1998-09-30,27,Libra,Tiger,Earth Tiger,Tiger,false,66/12/3,39/12/3,39/12/3,4,Utah
+00-0036825,Feleipe Franks,CAR,TE,81,1997-12-22,28,Capricorn,Ox,Fire Ox,Ox,false,60/6,33,33,5,Arkansas
+00-0036356,Isaiah Simmons,CAR,DB,27,1998-07-26,28,Leo,Tiger,Earth Tiger,Tiger,false,60/6,42/6,42/6,6,Clemson
+00-0026027,J.J. Jansen,CAR,LS,44,1986-01-20,40,Aquarius,Ox,Wood Ox,Tiger,true,45/9,27/9,27/9,18,Notre Dame
+00-0041119,Jackson Kuwatch,CAR,LB,46,2003-05-19,23,Taurus,Goat,Water Goat,Goat,false,29/11,20/2,20/2,0,Miami (Ohio); Ohio State
+00-0036934,Jaelan Phillips,CAR,LB,5,1999-05-28,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,61/7,43/7,43/7,5,Miami
+00-0039491,Jalen Coker,CAR,WR,18,2001-10-30,24,Scorpio,Snake,Metal Snake,Snake,false,43/7,7,7,2,Holy Cross
+00-0036944,Jaycee Horn,CAR,DB,8,1999-11-26,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,65/11,38/11,38/11,5,South Carolina
+00-0037179,Jeremiah Moon,CAR,LB,56,1998-08-18,28,Leo,Tiger,Earth Tiger,Tiger,false,53/8,44/8,44/8,4,Florida
+00-0037614,John Metchie III,CAR,WR,13,2000-07-18,26,Cancer,Dragon,Metal Dragon,Dragon,false,27/9,18/9,18/9,4,Alabama
+00-0039344,Jonathon Brooks,CAR,RB,25,2003-07-21,23,Cancer,Goat,Water Goat,Goat,false,33,15/6,15/6,2,Texas
+00-0038102,Kenny Pickett,CAR,QB,12,1998-06-06,28,Gemini,Tiger,Earth Tiger,Tiger,false,39/12/3,39/12/3,39/12/3,4,Pittsburgh
+00-0040159,Lathan Ransom,CAR,DB,22,2002-07-16,24,Cancer,Horse,Water Horse,Horse,false,27/9,18/9,18/9,1,Ohio State
+00-0041478,Lee Hunter,CAR,DL,92,2002-07-02,24,Cancer,Horse,Water Horse,Horse,false,13/4,13/4,13/4,0,Texas Tech; UCF; Auburn
+00-0037814,Luke Fortner,CAR,OL,77,1998-05-15,28,Taurus,Tiger,Earth Tiger,Tiger,false,47/11,38/11,38/11,4,Kentucky
+00-0035277,Mike Jackson,CAR,DB,2,1997-01-10,29,Capricorn,Rat,Fire Rat,Ox,true,37/10/1,28/10/1,28/10/1,7,Miami
+00-0040187,Mitchell Evans,CAR,TE,84,2003-05-18,23,Taurus,Goat,Water Goat,Goat,false,28/10/1,19/10/1,19/10/1,1,Notre Dame
+00-0041034,Monroe Freeling,CAR,OL,57,2004-07-25,22,Leo,Monkey,Wood Monkey,Monkey,false,38/11,20/2,20/2,0,Georgia
+00-0035669,Nick Scott,CAR,DB,21,1995-05-17,31,Taurus,Pig,Wood Pig,Pig,false,46/10/1,37/10/1,37/10/1,7,Penn State
+00-0040136,Princely Umanmielen,CAR,LB,3,2002-04-18,24,Aries,Horse,Water Horse,Horse,false,26/8,17/8,17/8,1,Mississippi; Florida
+00-0037196,Rasheed Walker,CAR,OL,63,2000-02-13,26,Aquarius,Dragon,Metal Dragon,Dragon,false,17/8,8,8,4,Penn State
+00-0036325,Robert Hunt,CAR,OL,50,1996-08-25,30,Virgo,Rat,Fire Rat,Rat,false,58/13/4,40/4,40/4,6,Louisiana-Lafayette
+00-0040279,Ryan Fitzgerald,CAR,K,10,2000-08-13,26,Leo,Dragon,Metal Dragon,Dragon,false,23/5,14/5,14/5,1,Florida State
+00-0041071,Sam Hecht,CAR,OL,75,2003-04-03,23,Aries,Goat,Water Goat,Goat,false,12/3,12/3,12/3,0,Kansas State
+00-0030092,Sam Martin,CAR,P,6,1990-02-27,36,Pisces,Horse,Metal Horse,Horse,false,48/12/3,30/3,30/3,13,Appalachian State
+00-0036653,Stone Forsythe,CAR,OL,73,1997-12-29,28,Capricorn,Ox,Fire Ox,Ox,false,67/13/4,40/4,40/4,5,Florida
+00-0040458,TeRah Edwards,CAR,DL,93,2001-06-03,25,Gemini,Snake,Metal Snake,Snake,false,12/3,12/3,12/3,1,Illinois; Northwestern
+00-0040124,Tetairoa McMillan,CAR,WR,4,2003-04-05,23,Aries,Goat,Water Goat,Goat,false,14/5,14/5,14/5,1,Arizona
+00-0038791,Thomas Incoom,CAR,LB,48,1999-02-01,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,31/4,31/4,31/4,3,Central Michigan; Valdosta State
+00-0037005,Tommy Tremble,CAR,TE,82,2000-06-02,26,Gemini,Dragon,Metal Dragon,Dragon,false,10/1,10/1,10/1,5,Notre Dame
+00-0036962,Tre'von Moehrig,CAR,DB,7,1999-06-16,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,50/5,41/5,41/5,5,TCU
+00-0036305,Trevis Gipson,CAR,LB,52,1997-06-13,29,Gemini,Ox,Fire Ox,Ox,false,45/9,36/9,36/9,6,Tulsa
+00-0041063,Will Lee III,CAR,DB,24,2003-04-09,23,Aries,Goat,Water Goat,Goat,false,18/9,18/9,18/9,0,Texas A&M; Kansas State
+00-0039342,Xavier Legette,CAR,WR,17,2001-01-29,25,Aquarius,Snake,Metal Snake,Snake,false,33,15/6,15/6,2,South Carolina
+00-0041076,Zakee Wheatley,CAR,DB,20,2002-02-28,24,Pisces,Horse,Water Horse,Horse,false,34/7,16/7,16/7,0,Penn State
+00-0039840,Austin Booker,CHI,DL,94,2002-12-14,23,Sagittarius,Horse,Water Horse,Horse,false,30/3,12/3,12/3,2,Kansas; Minnesota
+00-0041167,Beau Gardner,CHI,LS,45,2001-12-26,24,Capricorn,Snake,Metal Snake,Snake,false,41/5,14/5,14/5,0,Georgia; UCLA
+00-0037081,Braxton Jones,CHI,OL,70,1999-03-27,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,58/13/4,40/4,40/4,4,Southern Utah State
+00-0031203,Cairo Santos,CHI,K,8,1991-11-12,34,Scorpio,Goat,Metal Goat,Goat,false,43/7,25/7,25/7,12,Tulane
+00-0039918,Caleb Williams,CHI,QB,18,2001-11-18,24,Scorpio,Snake,Metal Snake,Snake,false,32/5,14/5,14/5,2,USC; Oklahoma
+00-0035357,Cam Lewis,CHI,DB,21,1997-04-13,29,Aries,Ox,Fire Ox,Ox,false,43/7,34/7,34/7,7,Buffalo
+00-0038568,Clark Phillips III,CHI,DB,20,2001-12-19,24,Sagittarius,Snake,Metal Snake,Snake,false,34/7,16/7,16/7,3,Utah
+00-0036290,Cole Kmet,CHI,TE,85,1999-03-10,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,41/5,32/5,32/5,6,Notre Dame
+00-0040126,Colston Loveland,CHI,TE,84,2004-04-09,22,Aries,Monkey,Wood Monkey,Monkey,false,19/10/1,19/10/1,19/10/1,1,Michigan
+00-0036275,D'Andre Swift,CHI,RB,4,1999-01-14,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,43/7,34/7,34/7,6,Georgia
+00-0037271,D'Marco Jackson,CHI,LB,48,1998-07-20,28,Cancer,Tiger,Earth Tiger,Tiger,false,54/9,36/9,36/9,4,Appalachian State
+00-0037843,Daniel Hardy,CHI,DL,92,1998-12-15,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,54/9,36/9,36/9,4,Montana State
+00-0038932,Darnell Wright,CHI,OL,58,2001-08-10,25,Leo,Snake,Metal Snake,Snake,false,21/3,12/3,12/3,3,Tennessee
+00-0036480,Dayo Odeyingbo,CHI,DL,55,1999-09-24,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,61/7,43/7,43/7,5,Vanderbilt
+00-0035525,Devin Bush,CHI,LB,12,1998-07-18,28,Cancer,Tiger,Earth Tiger,Tiger,false,52/7,43/7,43/7,7,Michigan
+00-0041538,Dillon Thieneman,CHI,DB,31,2004-08-08,22,Leo,Monkey,Wood Monkey,Monkey,false,22,22,22,0,Oregon; Purdue
+00-0037096,Elijah Hicks,CHI,DB,22,1997-09-16,29,Virgo,Ox,Fire Ox,Ox,false,51/6,42/6,42/6,4,California
+00-0035588,Garrett Bradbury,CHI,OL,67,1995-06-20,31,Gemini,Pig,Wood Pig,Pig,false,50/5,32/5,32/5,7,N.C. State
+00-0031583,Grady Jarrett,CHI,DL,50,1993-04-28,33,Taurus,Rooster,Water Rooster,Rooster,false,54/9,36/9,36/9,11,Clemson
+00-0037109,Jack Sanborn,CHI,LB,57,2000-07-29,26,Leo,Dragon,Metal Dragon,Dragon,false,38/11,20/2,20/2,4,Wisconsin
+00-0040277,Jahdae Walker,CHI,WR,9,2002-07-05,24,Cancer,Horse,Water Horse,Horse,false,16/7,16/7,16/7,1,Texas A&M; Grand Valley
+00-0036337,James Lynch,CHI,DL,97,1999-01-20,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,49/13/4,31/4,31/4,6,Baylor
+00-0036292,Jaylon Johnson,CHI,DB,1,1999-04-19,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,51/6,42/6,42/6,6,Utah
+00-0032391,Joe Thuney,CHI,OL,62,1992-11-18,33,Scorpio,Monkey,Water Monkey,Monkey,false,50/5,32/5,32/5,10,N.C. State
+00-0036258,Jonah Jackson,CHI,OL,73,1997-02-05,29,Aquarius,Rat,Fire Rat,Ox,true,33,33,33,6,Ohio State; Rutgers
+00-0041110,Jordan van den Berg,CHI,DL,96,2002-04-12,24,Aries,Horse,Water Horse,Horse,false,20/2,11,11,0,Georgia Tech; Penn State; Iowa Western CC
+00-0037129,Josh Blackwell,CHI,DB,39,1999-04-05,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,37/10/1,37/10/1,37/10/1,4,Duke
+00-0032464,Kalif Raymond,CHI,WR,14,1994-08-08,32,Leo,Dog,Wood Dog,Dog,false,39/12/3,39/12/3,39/12/3,10,Holy Cross
+00-0034320,Kentavius Street,CHI,DL,93,1996-05-08,30,Taurus,Rat,Fire Rat,Rat,false,38/11,38/11,38/11,8,N.C. State
+00-0041085,Keyshaun Elliott,CHI,LB,49,2003-12-12,22,Sagittarius,Goat,Water Goat,Goat,false,29/11,11,11,0,Arizona State; New Mexico State
+00-0040236,Kyle Monangai,CHI,RB,25,2002-06-06,24,Gemini,Horse,Water Horse,Horse,false,16/7,16/7,16/7,1,Rutgers
+00-0041539,Logan Jones,CHI,OL,54,2001-10-29,24,Scorpio,Snake,Metal Snake,Snake,false,42/6,15/6,15/6,0,Iowa
+00-0040210,Luke Newman,CHI,OL,65,2002-03-03,24,Pisces,Horse,Water Horse,Horse,false,10/1,10/1,10/1,1,Michigan State; Holy Cross
+00-0040735,Luther Burden III,CHI,WR,10,2003-12-12,22,Sagittarius,Goat,Water Goat,Goat,false,29/11,11,11,1,Missouri
+00-0041060,Malik Muhammad,CHI,DB,24,2004-09-14,22,Virgo,Monkey,Wood Monkey,Monkey,false,29/11,20/2,20/2,0,Texas
+00-0035647,Montez Sweat,CHI,DL,98,1996-09-04,30,Virgo,Rat,Fire Rat,Rat,false,38/11,38/11,38/11,7,Mississippi State; Copiah-Lincoln Junior College; Michigan State
+00-0036366,Neville Gallimore,CHI,DL,90,1997-01-17,29,Capricorn,Rat,Fire Rat,Ox,true,44/8,35/8,35/8,6,Oklahoma
+00-0039919,Rome Odunze,CHI,WR,15,2002-06-03,24,Gemini,Horse,Water Horse,Horse,false,13/4,13/4,13/4,2,Washington
+00-0039021,Roschon Johnson,CHI,RB,23,2001-01-31,25,Aquarius,Snake,Metal Snake,Snake,false,35/8,8,8,3,Texas
+00-0041558,Sam Roush,CHI,TE,87,2003-09-06,23,Virgo,Goat,Water Goat,Goat,false,20/2,20/2,20/2,0,Stanford
+00-0041175,Skyler Thomas,CHI,DB,38,2003-09-17,23,Virgo,Goat,Water Goat,Goat,false,31/4,22,22,0,Oregon State
+00-0035386,T.J. Edwards,CHI,LB,53,1996-08-12,30,Leo,Rat,Fire Rat,Rat,false,45/9,36/9,36/9,7,Wisconsin
+00-0039459,Theo Benedet,CHI,OL,79,2001-12-10,24,Sagittarius,Snake,Metal Snake,Snake,false,25/7,7,7,2,University of British Columbia
+00-0039745,Tory Taylor,CHI,P,19,1997-07-10,29,Cancer,Ox,Fire Ox,Ox,false,43/7,34/7,34/7,2,Iowa
+00-0039071,Tyrique Stevenson,CHI,DB,29,2000-05-26,26,Gemini,Dragon,Metal Dragon,Dragon,false,33,15/6,15/6,3,Miami; Georgia
+00-0038416,Tyson Bagent,CHI,QB,17,2000-06-08,26,Gemini,Dragon,Metal Dragon,Dragon,false,16/7,16/7,16/7,3,Shepherd
+00-0033579,Xavier Woods,CHI,DB,32,1995-07-26,31,Leo,Pig,Wood Pig,Pig,false,57/12/3,39/12/3,39/12/3,9,Louisiana Tech
+00-0041051,Zavion Thomas,CHI,WR,13,2004-02-14,22,Aquarius,Monkey,Wood Monkey,Monkey,false,22,13/4,13/4,0,LSU; Mississippi State
+00-0039925,Amarius Mims,CIN,OL,71,2002-10-14,23,Libra,Horse,Water Horse,Horse,false,28/10/1,10/1,10/1,2,Georgia
+00-0038619,Andrei Iosivas,CIN,WR,80,1999-10-15,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,53/8,35/8,35/8,3,Princeton
+00-0040157,Barrett Carter,CIN,LB,49,2002-10-23,23,Scorpio,Horse,Water Horse,Horse,false,37/10/1,10/1,10/1,1,Clemson
+00-0038133,Boye Mafe,CIN,DL,53,1998-11-30,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,68/14/5,32/5,32/5,4,Minnesota
+00-0037193,Bryan Cook,CIN,DB,6,1999-09-07,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,44/8,44/8,44/8,4,Cincinnati; Howard
+00-0041546,Cashius Howell,CIN,DL,55,2003-04-16,23,Aries,Goat,Water Goat,Goat,false,25/7,16/7,16/7,0,Texas A&M; Bowling Green
+00-0039752,Cedric Johnson,CIN,DL,52,2002-09-06,24,Virgo,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,2,Mississippi
+00-0038597,Chase Brown,CIN,RB,30,2000-03-21,26,Aries,Dragon,Metal Dragon,Dragon,false,26/8,8,8,3,Illinois; Western Michigan
+00-0041069,Colbie Young,CIN,WR,86,2002-07-24,24,Leo,Horse,Water Horse,Horse,false,35/8,17/8,17/8,0,Georgia; Miami; Lackawanna JC
+00-0038642,D.J. Ivey,CIN,DB,38,2000-02-25,26,Pisces,Dragon,Metal Dragon,Dragon,false,29/11,11,11,3,Miami
+00-0035702,Dalton Risner,CIN,OL,66,1995-07-13,31,Cancer,Pig,Wood Pig,Pig,false,44/8,35/8,35/8,7,Kansas State
+00-0037743,Daxton Hill,CIN,DB,23,2000-09-29,25,Libra,Dragon,Metal Dragon,Dragon,false,40/4,22,22,4,Michigan
+00-0040738,Demetrius Knight Jr.,CIN,LB,44,2000-07-21,26,Cancer,Dragon,Metal Dragon,Dragon,false,30/3,12/3,12/3,1,South Carolina; Charlotte
+00-0035683,Dexter Lawrence,CIN,DL,97,1997-11-12,28,Scorpio,Ox,Fire Ox,Ox,false,49/13/4,31/4,31/4,7,Clemson
+00-0038549,DJ Turner II,CIN,DB,0,2000-11-09,25,Scorpio,Dragon,Metal Dragon,Dragon,false,22,13/4,13/4,3,Michigan
+00-0040785,Dohnte Meyers,CIN,WR,81,2000-07-06,26,Cancer,Dragon,Metal Dragon,Dragon,false,15/6,15/6,15/6,0,Delta State University; Presbyterian College
+00-0035631,Drew Sample,CIN,TE,89,1996-04-16,30,Aries,Rat,Fire Rat,Rat,false,45/9,36/9,36/9,7,Washington
+00-0040140,Dylan Fairchild,CIN,OL,63,2003-05-08,23,Taurus,Goat,Water Goat,Goat,false,18/9,18/9,18/9,1,Georgia
+00-0039814,Erick All,CIN,TE,83,2000-09-13,26,Virgo,Dragon,Metal Dragon,Dragon,false,24/6,15/6,15/6,2,Iowa; Michigan
+00-0036854,Evan McPherson,CIN,K,2,1999-07-21,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,56/11,38/11,38/11,5,Florida
+00-0036900,Ja'Marr Chase,CIN,WR,1,2000-03-01,26,Pisces,Dragon,Metal Dragon,Dragon,false,6,6,6,5,LSU
+00-0041116,Jack Endries,CIN,TE,84,2004-03-26,22,Aries,Monkey,Wood Monkey,Monkey,false,35/8,17/8,17/8,0,Texas; California
+00-0040359,Jacob Bayer,CIN,OL,69,2002-12-12,23,Sagittarius,Horse,Water Horse,Horse,false,28/10/1,10/1,10/1,1,Arkansas State; Lamar
+00-0034446,Jalen Davis,CIN,DB,35,1996-02-02,30,Aquarius,Pig,Wood Pig,Rat,true,29/11,29/11,29/11,8,Utah State
+00-0040180,Jalen Rivers,CIN,OL,74,2002-09-12,24,Virgo,Horse,Water Horse,Horse,false,25/7,16/7,16/7,1,Miami
+00-0039742,Javon Foster,CIN,OL,73,2000-03-31,26,Aries,Dragon,Metal Dragon,Dragon,false,36/9,9,9,2,Missouri
+00-0036442,Joe Burrow,CIN,QB,9,1996-12-10,29,Sagittarius,Rat,Fire Rat,Rat,false,47/11,29/11,29/11,6,LSU; Ohio State
+00-0026158,Joe Flacco,CIN,QB,16,1985-01-16,41,Capricorn,Rat,Wood Rat,Ox,true,40/4,31/4,31/4,18,Delaware; Pittsburgh
+00-0035363,Joe Giles-Harris,CIN,LB,43,1997-04-01,29,Aries,Ox,Fire Ox,Ox,false,31/4,31/4,31/4,7,Duke
+00-0033523,Jonathan Allen,CIN,DL,93,1995-01-16,31,Capricorn,Dog,Wood Dog,Pig,true,41/5,32/5,32/5,9,Alabama
+00-0038560,Jordan Battle,CIN,DB,27,2000-12-14,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,28/10/1,10/1,10/1,3,Alabama
+00-0039908,Kris Jenkins,CIN,DL,90,2001-10-10,24,Libra,Snake,Metal Snake,Snake,false,23/5,5,5,2,Michigan
+00-0036231,Kyle Dugger,CIN,DB,29,1996-03-22,30,Aries,Rat,Fire Rat,Rat,false,50/5,32/5,32/5,6,Lenoir Rhyne
+00-0034829,Mike Gesicki,CIN,TE,88,1995-10-03,30,Libra,Pig,Wood Pig,Pig,false,37/10/1,28/10/1,28/10/1,8,Penn State
+00-0038546,Myles Murphy,CIN,DL,99,2002-01-03,24,Capricorn,Snake,Metal Snake,Horse,true,8,8,8,3,Clemson
+00-0034754,Oren Burks,CIN,LB,42,1995-03-21,31,Aries,Pig,Wood Pig,Pig,false,48/12/3,30/3,30/3,8,Vanderbilt
+00-0034752,Orlando Brown,CIN,OL,75,1996-05-02,30,Taurus,Rat,Fire Rat,Rat,false,32/5,32/5,32/5,8,Oklahoma
+00-0039632,PJ Jules,CIN,DB,37,2001-05-14,25,Taurus,Snake,Metal Snake,Snake,false,22,13/4,13/4,2,Southern Illinois
+00-0039323,Ryan Rehkow,CIN,P,8,1998-09-11,28,Virgo,Tiger,Earth Tiger,Tiger,false,47/11,38/11,38/11,2,BYU
+00-0033526,Samaje Perine,CIN,RB,34,1995-09-16,31,Virgo,Pig,Wood Pig,Pig,false,49/13/4,40/4,40/4,9,Oklahoma
+00-0040756,Shemar Stewart,CIN,DL,94,2003-11-12,22,Scorpio,Goat,Water Goat,Goat,false,28/10/1,10/1,10/1,1,Texas A&M
+00-0039313,Swayze Bozeman,CIN,LB,47,1998-11-02,27,Scorpio,Tiger,Earth Tiger,Tiger,false,40/4,31/4,31/4,2,Southern Mississippi; Copiah-Lincoln Junior College
+00-0041464,Tacario Davis,CIN,DB,20,2004-08-17,22,Leo,Monkey,Wood Monkey,Monkey,false,31/4,22,22,0,Washington; Arizona
+00-0040208,Tahj Brooks,CIN,RB,25,2002-05-13,24,Taurus,Horse,Water Horse,Horse,false,22,13/4,13/4,1,Texas Tech
+00-0032445,Ted Karras,CIN,OL,64,1993-03-15,33,Pisces,Rooster,Water Rooster,Rooster,false,40/4,31/4,31/4,10,Illinois
+00-0036642,Tedarrell Slaton,CIN,DL,98,1997-10-03,28,Libra,Ox,Fire Ox,Ox,false,39/12/3,30/3,30/3,5,Florida
+00-0036410,Tee Higgins,CIN,WR,5,1999-01-18,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,47/11,38/11,38/11,6,Clemson
+00-0040379,William Wagner,CIN,LS,46,2000-12-20,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,34/7,7,7,1,Michigan
+00-0040255,Adin Huntington,CLE,DL,98,2002-03-18,24,Pisces,Horse,Water Horse,Horse,false,25/7,16/7,16/7,1,Tulane; Louisiana-Monroe; Kent State
+00-0038428,Andre Szmyt,CLE,K,25,1998-09-26,27,Libra,Tiger,Earth Tiger,Tiger,false,62/8,44/8,44/8,3,Syracuse
+00-0041049,Austin Barber,CLE,OL,58,2003-05-20,23,Taurus,Goat,Water Goat,Goat,false,30/3,12/3,12/3,0,Florida
+00-0038710,Blake Whiteheart,CLE,TE,86,2000-03-22,26,Aries,Dragon,Metal Dragon,Dragon,false,27/9,9,9,3,Wake Forest
+00-0041131,Carsen Ryan,CLE,TE,48,2003-08-21,23,Leo,Goat,Water Goat,Goat,false,34/7,16/7,16/7,0,BYU; Utah; UCLA
+00-0040579,Carson Schwesinger,CLE,LB,49,2003-02-24,23,Pisces,Goat,Water Goat,Goat,false,31/4,13/4,13/4,1,UCLA
+00-0034721,Corey Bojorquez,CLE,P,13,1996-09-13,30,Virgo,Rat,Fire Rat,Rat,false,47/11,38/11,38/11,8,New Mexico; Cerritos College
+00-0039014,Dawand Jones,CLE,OL,79,2001-08-06,25,Leo,Snake,Metal Snake,Snake,false,17/8,17/8,17/8,3,Ohio State
+00-0041037,Denzel Boston,CLE,WR,12,2003-12-06,22,Sagittarius,Goat,Water Goat,Goat,false,23/5,14/5,14/5,0,Washington
+00-0034856,Denzel Ward,CLE,DB,21,1997-04-28,29,Taurus,Ox,Fire Ox,Ox,false,58/13/4,40/4,40/4,8,Ohio State
+00-0033876,Derek Barnett,CLE,DL,97,1996-06-25,30,Cancer,Rat,Fire Rat,Rat,false,56/11,38/11,38/11,9,Tennessee
+00-0033537,Deshaun Watson,CLE,QB,4,1995-09-14,31,Virgo,Pig,Wood Pig,Pig,false,47/11,38/11,38/11,9,Clemson
+00-0040263,Donovan McMillon,CLE,DB,31,2002-06-18,24,Gemini,Horse,Water Horse,Horse,false,28/10/1,19/10/1,19/10/1,1,Pittsburgh; Florida
+00-0040261,Easton Mascarenas-Arnold,CLE,LB,42,2002-09-13,24,Virgo,Horse,Water Horse,Horse,false,26/8,17/8,17/8,1,USC; Oregon State
+00-0035526,Elgton Jenkins,CLE,OL,74,1995-12-26,30,Capricorn,Pig,Wood Pig,Pig,false,62/8,35/8,35/8,7,Mississippi State
+00-0041471,Emmanuel McNeil-Warren,CLE,DB,28,2004-01-08,22,Capricorn,Goat,Water Goat,Monkey,true,15/6,15/6,15/6,0,Toledo
+00-0036282,Grant Delpit,CLE,DB,9,1998-09-20,28,Virgo,Tiger,Earth Tiger,Tiger,false,56/11,38/11,38/11,6,LSU
+00-0040663,Harold Fannin Jr.,CLE,TE,44,2004-07-20,22,Cancer,Monkey,Wood Monkey,Monkey,false,33,15/6,15/6,1,Bowling Green
+00-0040782,Isaiah Bond,CLE,WR,0,2004-03-15,22,Pisces,Monkey,Wood Monkey,Monkey,false,24/6,15/6,15/6,1,Texas; Alabama
+00-0038574,Isaiah McGuire,CLE,DL,57,2001-07-27,25,Leo,Snake,Metal Snake,Snake,false,37/10/1,19/10/1,19/10/1,3,Missouri
+00-0038794,Jaleel McLaughlin,CLE,RB,38,2000-09-13,26,Virgo,Dragon,Metal Dragon,Dragon,false,24/6,15/6,15/6,3,Youngstown State
+00-0039852,Jared Verse,CLE,DL,8,2000-11-04,25,Scorpio,Dragon,Metal Dragon,Dragon,false,17/8,8,8,2,Florida State; Albany
+00-0036407,Jerry Jeudy,CLE,WR,3,1999-04-24,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,56/11,38/11,38/11,6,Alabama
+00-0041547,KC Concepcion,CLE,WR,1,2004-09-24,21,Libra,Monkey,Wood Monkey,Monkey,false,39/12/3,21/3,21/3,0,Texas A&M; N.C. State
+00-0038609,Luke Wypler,CLE,OL,56,2001-05-03,25,Taurus,Snake,Metal Snake,Snake,false,11,11,11,3,Ohio State
+00-0039920,Malachi Corley,CLE,WR,11,2002-03-21,24,Aries,Horse,Water Horse,Horse,false,28/10/1,10/1,10/1,2,Western Kentucky
+00-0033131,Maliek Collins,CLE,DL,96,1995-04-08,31,Aries,Pig,Wood Pig,Pig,false,36/9,36/9,36/9,10,Nebraska
+00-0040685,Mason Graham,CLE,DL,94,2003-09-03,23,Virgo,Goat,Water Goat,Goat,false,17/8,17/8,17/8,1,Michigan
+00-0038565,Mekhi Blackmon,CLE,DB,29,1999-03-18,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,49/13/4,40/4,40/4,3,USC; Colorado
+00-0031595,Michael Burton,CLE,RB,34,1992-02-01,34,Aquarius,Goat,Metal Goat,Monkey,true,24/6,24/6,24/6,11,Rutgers
+00-0039895,Mike Hall Jr.,CLE,DL,51,2003-06-13,23,Gemini,Goat,Water Goat,Goat,false,24/6,15/6,15/6,2,Ohio State
+00-0039417,Myles Harden,CLE,DB,26,2001-12-13,24,Sagittarius,Snake,Metal Snake,Snake,false,28/10/1,10/1,10/1,2,South Dakota
+00-0039406,Nathaniel Watson,CLE,LB,40,2000-09-01,26,Virgo,Dragon,Metal Dragon,Dragon,false,12/3,12/3,12/3,2,Mississippi State
+00-0036287,Noah Igbinoghene,CLE,DB,20,1999-11-27,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,66/12/3,39/12/3,39/12/3,6,Auburn
+00-0035680,Quincy Williams,CLE,LB,5,1996-08-28,30,Virgo,Rat,Fire Rat,Rat,false,61/7,43/7,43/7,7,Murray State
+00-0040784,Quinshon Judkins,CLE,RB,10,2003-10-29,22,Scorpio,Goat,Water Goat,Goat,false,44/8,17/8,17/8,1,Ohio State; Mississippi
+00-0040466,Raheim Sanders,CLE,RB,23,2002-06-08,24,Gemini,Horse,Water Horse,Horse,false,18/9,18/9,18/9,1,South Carolina; Arkansas
+00-0036443,Rex Sunahara,CLE,LS,50,1996-10-09,29,Libra,Rat,Fire Rat,Rat,false,44/8,35/8,35/8,6,West Virginia
+00-0038715,Ronnie Hickman Jr.,CLE,DB,33,2001-10-11,24,Libra,Snake,Metal Snake,Snake,false,24/6,6,6,3,Ohio State
+00-0037665,Sam Williams,CLE,DL,54,1999-03-31,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,62/8,35/8,35/8,4,Mississippi
+00-0040668,Shedeur Sanders,CLE,QB,2,2002-02-07,24,Aquarius,Snake,Metal Snake,Horse,true,13/4,13/4,13/4,1,Colorado; Jackson State University
+00-0041030,Spencer Fano,CLE,OL,55,2004-11-04,21,Scorpio,Monkey,Wood Monkey,Monkey,false,21/3,12/3,12/3,0,Utah
+00-0036630,Tylan Wallace,CLE,WR,16,1999-05-13,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,46/10/1,37/10/1,37/10/1,5,Oklahoma State
+00-0036974,Tyson Campbell,CLE,DB,7,2000-03-17,26,Pisces,Dragon,Metal Dragon,Dragon,false,22,13/4,13/4,5,Georgia
+00-0035234,Tytus Howard,CLE,OL,71,1996-05-23,30,Gemini,Rat,Fire Rat,Rat,false,53/8,35/8,35/8,7,Alabama State
+00-0039515,Winston Reid,CLE,LB,59,1999-08-03,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,39/12/3,39/12/3,39/12/3,2,Weber State
+00-0039350,Zak Zinter,CLE,OL,70,2001-04-17,25,Aries,Snake,Metal Snake,Snake,false,24/6,15/6,15/6,2,Michigan
+00-0037818,Zion Johnson,CLE,OL,77,1999-11-18,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,57/12/3,39/12/3,39/12/3,4,Boston College; Davidson
+00-0040045,Alijah Clark,DAL,DB,11,2003-07-11,23,Cancer,Goat,Water Goat,Goat,false,23/5,14/5,14/5,1,Syracuse; Rutgers
+00-0038624,Ameer Speed,DAL,DB,23,1999-10-11,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,49/13/4,31/4,31/4,3,Michigan State; Georgia
+00-0037692,Brandon Aubrey,DAL,K,17,1995-03-14,31,Pisces,Pig,Wood Pig,Pig,false,41/5,32/5,32/5,4,Notre Dame
+00-0039530,Brevyn Spann-Ford,DAL,TE,89,1999-12-27,26,Capricorn,Rabbit,Earth Rabbit,Rabbit,false,67/13/4,40/4,40/4,2,Minnesota
+00-0039109,Broderick Jones,DAL,OL,77,2001-05-16,25,Taurus,Snake,Metal Snake,Snake,false,24/6,15/6,15/6,3,Georgia
+00-0029692,Bryan Anger,DAL,P,5,1988-10-06,37,Libra,Dragon,Earth Dragon,Dragon,false,42/6,33,33,14,California
+00-0040865,Caleb Downs,DAL,DB,13,2004-12-10,21,Sagittarius,Monkey,Wood Monkey,Monkey,false,28/10/1,10/1,10/1,0,Ohio State
+00-0036358,CeeDee Lamb,DAL,WR,88,1999-04-08,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,40/4,40/4,40/4,6,Oklahoma
+00-0037839,Cobie Durant,DAL,DB,2,1998-02-09,28,Aquarius,Tiger,Earth Tiger,Tiger,false,38/11,38/11,38/11,4,South Carolina State
+00-0039348,Cooper Beebe,DAL,OL,56,2001-05-19,25,Taurus,Snake,Metal Snake,Snake,false,27/9,18/9,18/9,2,Kansas State
+00-0036728,Curtis Robinson,DAL,LB,42,1998-06-02,28,Gemini,Tiger,Earth Tiger,Tiger,false,35/8,35/8,35/8,5,Stanford
+00-0033077,Dak Prescott,DAL,QB,4,1993-07-29,33,Leo,Rooster,Water Rooster,Rooster,false,58/13/4,40/4,40/4,10,Mississippi State
+00-0037275,DaRon Bland,DAL,DB,26,1999-07-12,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,47/11,38/11,38/11,4,Fresno State
+00-0038625,Dee Winters,DAL,LB,53,2000-10-17,25,Libra,Dragon,Metal Dragon,Dragon,false,29/11,11,11,3,TCU
+00-0040725,Donovan Ezeiruaku,DAL,LB,6,2003-05-25,23,Gemini,Goat,Water Goat,Goat,false,35/8,17/8,17/8,1,Boston College
+00-0040874,Drew Shelton,DAL,OL,67,2003-12-26,22,Capricorn,Goat,Water Goat,Goat,false,43/7,16/7,16/7,0,Penn State
+00-0038705,Emari Demercado,DAL,RB,31,1999-01-20,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,49/13/4,31/4,31/4,3,TCU
+00-0037247,George Pickens,DAL,WR,3,2001-03-04,25,Pisces,Snake,Metal Snake,Snake,false,10/1,10/1,10/1,4,Georgia
+00-0038738,Hunter Luepke,DAL,RB,30,2000-02-28,26,Pisces,Dragon,Metal Dragon,Dragon,false,32/5,14/5,14/5,3,North Dakota State
+00-0040872,Jaishawn Barham,DAL,LB,55,2004-02-02,22,Aquarius,Monkey,Wood Monkey,Monkey,false,10/1,10/1,10/1,0,Michigan; Maryland
+00-0038041,Jake Ferguson,DAL,TE,87,1999-01-18,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,47/11,38/11,38/11,4,Wisconsin
+00-0035705,Jalen Thompson,DAL,DB,34,1998-07-18,28,Cancer,Tiger,Earth Tiger,Tiger,false,52/7,43/7,43/7,7,Washington State
+00-0036997,Javonte Williams,DAL,RB,33,2000-04-25,26,Taurus,Dragon,Metal Dragon,Dragon,false,31/4,13/4,13/4,5,North Carolina
+00-0033093,Jonathan Bullard,DAL,DL,90,1993-10-22,32,Libra,Rooster,Water Rooster,Rooster,false,54/9,27/9,27/9,10,Florida
+00-0039062,Jonathan Mingo,DAL,WR,18,2001-04-20,25,Taurus,Snake,Metal Snake,Snake,false,27/9,9,9,3,Mississippi
+00-0040043,Justin Barron,DAL,LB,45,2001-10-25,24,Scorpio,Snake,Metal Snake,Snake,false,38/11,11,11,1,Syracuse
+00-0037801,KaVontae Turpin,DAL,WR,9,1996-08-02,30,Leo,Rat,Fire Rat,Rat,false,35/8,35/8,35/8,7,TCU
+00-0033120,Kenny Clark,DAL,DL,97,1995-10-04,30,Libra,Pig,Wood Pig,Pig,false,38/11,29/11,29/11,10,UCLA
+00-0040880,LT Overton,DAL,DL,99,2004-10-11,21,Libra,Monkey,Wood Monkey,Monkey,false,27/9,9,9,0,Alabama
+00-0038547,Luke Schoonmaker,DAL,TE,86,1998-09-28,27,Libra,Tiger,Earth Tiger,Tiger,false,64/10/1,46/10/1,46/10/1,3,Michigan
+00-0041537,Malachi Lawrence,DAL,LB,57,2003-07-21,23,Cancer,Goat,Water Goat,Goat,false,33,15/6,15/6,0,UCF
+00-0037561,Markquese Bell,DAL,DB,14,1999-01-06,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,35/8,35/8,35/8,4,Florida A&M
+00-0036105,Nick Leverett,DAL,OL,51,1997-11-11,28,Scorpio,Ox,Fire Ox,Ox,false,48/12/3,30/3,30/3,6,Rice; North Carolina Central
+00-0037270,Otito Ogbonnia,DAL,DL,91,2000-08-25,26,Virgo,Dragon,Metal Dragon,Dragon,false,35/8,17/8,17/8,4,UCLA
+00-0035227,P.J. Locke,DAL,DB,1,1997-02-12,29,Aquarius,Ox,Fire Ox,Ox,false,40/4,31/4,31/4,7,Texas
+00-0035718,Quinnen Williams,DAL,DL,92,1997-12-21,28,Sagittarius,Ox,Fire Ox,Ox,false,59/14/5,32/5,32/5,7,Alabama
+00-0034967,Rashan Gary,DAL,LB,7,1997-12-03,28,Sagittarius,Ox,Fire Ox,Ox,false,41/5,32/5,32/5,7,Michigan
+00-0039410,Ryan Flournoy,DAL,WR,19,1999-10-27,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,65/11,38/11,38/11,2,Southeast Missouri State; Iowa Western CC
+00-0037077,Sam Howell,DAL,QB,16,2000-09-16,26,Virgo,Dragon,Metal Dragon,Dragon,false,27/9,18/9,18/9,4,North Carolina
+00-0040008,Shavon Revel Jr.,DAL,DB,28,2002-04-12,24,Aries,Horse,Water Horse,Horse,false,20/2,11,11,1,East Carolina; Louisburg
+00-0040011,Shemar James,DAL,LB,50,2004-06-24,22,Cancer,Monkey,Wood Monkey,Monkey,false,36/9,18/9,18/9,1,Florida
+00-0036036,Terence Steele,DAL,OL,78,1997-06-04,29,Gemini,Ox,Fire Ox,Ox,false,36/9,36/9,36/9,6,Texas Tech
+00-0038731,TJ Bass,DAL,OL,66,1999-03-31,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,62/8,35/8,35/8,3,Oregon; Butte College
+00-0034198,Trent Sieg,DAL,LS,44,1995-05-19,31,Taurus,Pig,Wood Pig,Pig,false,48/12/3,39/12/3,39/12/3,8,Colorado State
+00-0040007,Tyler Booker,DAL,OL,52,2004-04-12,22,Aries,Monkey,Wood Monkey,Monkey,false,22,13/4,13/4,1,Alabama
+00-0039341,Tyler Guyton,DAL,OL,60,2002-06-11,24,Gemini,Horse,Water Horse,Horse,false,21/3,12/3,12/3,2,Oklahoma; TCU
+00-0038742,Tyrus Wheat,DAL,LB,59,1999-12-08,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,48/12/3,39/12/3,39/12/3,3,Mississippi State
+00-0027940,Von Miller,DAL,LB,40,1989-03-26,37,Aries,Snake,Earth Snake,Snake,false,56/11,38/11,38/11,15,Texas A&M
+00-0036727,Adam Prentice,DEN,RB,46,1997-01-16,29,Capricorn,Rat,Fire Rat,Ox,true,43/7,34/7,34/7,5,South Carolina
+00-0036422,Adam Trautman,DEN,TE,82,1997-02-05,29,Aquarius,Rat,Fire Rat,Ox,true,33,33,33,6,Dayton
+00-0038649,Alex Forsyth,DEN,OL,54,1999-02-13,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,43/7,34/7,34/7,3,Oregon
+00-0038796,Alex Palczewski,DEN,OL,63,1999-08-03,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,39/12/3,39/12/3,39/12/3,3,Illinois
+00-0031898,Alex Singleton,DEN,LB,49,1993-12-07,32,Sagittarius,Rooster,Water Rooster,Rooster,false,41/5,32/5,32/5,11,Montana State
+00-0034978,Ben Powers,DEN,OL,74,1996-10-29,29,Scorpio,Rat,Fire Rat,Rat,false,64/10/1,37/10/1,37/10/1,7,Oklahoma; Butler County JC
+00-0039732,Bo Nix,DEN,QB,10,2000-02-25,26,Pisces,Dragon,Metal Dragon,Dragon,false,29/11,11,11,2,Oregon; Auburn
+00-0036221,Brandon Jones,DEN,DB,22,1998-04-02,28,Aries,Tiger,Earth Tiger,Tiger,false,33,33,33,6,Texas
+00-0034348,Courtland Sutton,DEN,WR,14,1995-10-10,30,Libra,Pig,Wood Pig,Pig,false,44/8,26/8,26/8,8,SMU
+00-0033297,D.J. Jones,DEN,DL,93,1995-01-19,31,Capricorn,Dog,Wood Dog,Pig,true,44/8,35/8,35/8,9,Mississippi; East Mississippi JC
+00-0036683,Devon Key,DEN,DB,26,1997-10-28,28,Scorpio,Ox,Fire Ox,Ox,false,64/10/1,37/10/1,37/10/1,5,Western Kentucky
+00-0037799,Dondrea Tillman,DEN,LB,92,1998-04-30,28,Taurus,Tiger,Earth Tiger,Tiger,false,61/7,34/7,34/7,6,"Indiana PA,  University of"
+00-0033881,Evan Engram,DEN,TE,1,1994-09-02,32,Virgo,Dog,Wood Dog,Dog,false,34/7,34/7,34/7,9,Mississippi
+00-0038106,Eyioma Uwazurike,DEN,DL,96,1998-05-06,28,Taurus,Tiger,Earth Tiger,Tiger,false,38/11,38/11,38/11,4,Iowa State
+00-0033538,Garett Bolles,DEN,OL,72,1992-05-27,34,Gemini,Monkey,Water Monkey,Monkey,false,53/8,35/8,35/8,9,Utah; Snow
+00-0036158,J.K. Dobbins,DEN,RB,27,1998-12-17,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,56/11,38/11,38/11,6,Ohio State
+00-0037384,Ja'Quan McMillian,DEN,DB,29,2000-06-04,26,Gemini,Dragon,Metal Dragon,Dragon,false,12/3,12/3,12/3,4,East Carolina
+00-0040720,Jahdae Barron,DEN,DB,23,2001-12-04,24,Sagittarius,Snake,Metal Snake,Snake,false,19/10/1,10/1,10/1,1,Texas
+00-0035264,Jarrett Stidham,DEN,QB,8,1996-08-08,30,Leo,Rat,Fire Rat,Rat,false,41/5,41/5,41/5,7,Auburn; McLennan CC; Baylor
+00-0036613,Jaylen Waddle,DEN,WR,17,1998-11-25,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,63/9,36/9,36/9,5,Alabama
+00-0040223,Jeremy Crawshaw,DEN,P,16,2001-05-22,25,Gemini,Snake,Metal Snake,Snake,false,30/3,12/3,12/3,1,Florida
+00-0038605,JL Skinner,DEN,DB,34,2001-04-16,25,Aries,Snake,Metal Snake,Snake,false,23/5,14/5,14/5,3,Boise State
+00-0041496,Jonah Coleman,DEN,RB,20,2003-08-20,23,Leo,Goat,Water Goat,Goat,false,33,15/6,15/6,0,Washington; Arizona
+00-0039809,Jonah Elliss,DEN,LB,52,2003-04-03,23,Aries,Goat,Water Goat,Goat,false,12/3,12/3,12/3,2,Utah
+00-0040634,Jordan Turner,DEN,LB,55,2001-12-13,24,Sagittarius,Snake,Metal Snake,Snake,false,28/10/1,10/1,10/1,1,Michigan State; Wisconsin
+00-0036428,Justin Strnad,DEN,LB,40,1996-08-21,30,Leo,Rat,Fire Rat,Rat,false,54/9,36/9,36/9,6,Wake Forest
+00-0040449,Karene Reid,DEN,LB,47,2000-02-19,26,Pisces,Dragon,Metal Dragon,Dragon,false,23/5,14/5,14/5,1,Utah
+00-0039371,Kris Abrams-Draine,DEN,DB,31,2001-10-04,24,Libra,Snake,Metal Snake,Snake,false,17/8,8,8,2,Missouri
+00-0035406,Lil'Jordan Humphrey,DEN,WR,5,1998-04-19,28,Aries,Tiger,Earth Tiger,Tiger,false,50/5,41/5,41/5,7,Texas
+00-0037278,Luke Wattenberg,DEN,OL,60,1997-09-10,29,Virgo,Ox,Fire Ox,Ox,false,45/9,36/9,36/9,4,Washington
+00-0035763,Malcolm Roach,DEN,DL,97,1998-06-09,28,Gemini,Tiger,Earth Tiger,Tiger,false,42/6,42/6,42/6,6,Texas
+00-0036392,Matt Peart,DEN,OL,79,1997-06-11,29,Gemini,Ox,Fire Ox,Ox,false,43/7,34/7,34/7,6,Connecticut
+00-0034847,Mike McGlinchey,DEN,OL,69,1995-01-12,31,Capricorn,Dog,Wood Dog,Pig,true,37/10/1,28/10/1,28/10/1,8,Notre Dame
+00-0036943,Mitchell Fraboni,DEN,LS,48,1996-10-28,29,Scorpio,Rat,Fire Rat,Rat,false,63/9,36/9,36/9,5,Arizona State
+00-0038783,Nate Adkins,DEN,TE,45,1999-07-09,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,44/8,44/8,44/8,3,South Carolina
+00-0037249,Nik Bonitto,DEN,LB,15,1999-09-26,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,63/9,45/9,45/9,4,Oklahoma
+00-0040134,Pat Bryant,DEN,WR,13,2002-12-10,23,Sagittarius,Horse,Water Horse,Horse,false,26/8,8,8,1,Illinois
+00-0036874,Pat Surtain II,DEN,DB,2,2000-04-14,26,Aries,Dragon,Metal Dragon,Dragon,false,20/2,11,11,5,Alabama
+00-0040168,Que Robinson,DEN,LB,51,2001-05-12,25,Taurus,Snake,Metal Snake,Snake,false,20/2,11,11,1,Alabama
+00-0037001,Quinn Meinerz,DEN,OL,77,1998-11-15,27,Scorpio,Tiger,Earth Tiger,Tiger,false,53/8,35/8,35/8,5,Wisconsin-Whitewater
+00-0038552,Riley Moss,DEN,DB,21,2000-03-03,26,Pisces,Dragon,Metal Dragon,Dragon,false,8,8,8,3,Iowa
+00-0040153,Sai'vion Jones,DEN,DL,95,2003-07-03,23,Cancer,Goat,Water Goat,Goat,false,15/6,15/6,15/6,1,LSU
+00-0036564,Talanoa Hufanga,DEN,DB,9,2000-02-01,26,Aquarius,Rabbit,Earth Rabbit,Dragon,true,5,5,5,5,USC
+00-0039868,Troy Franklin,DEN,WR,11,2003-02-06,23,Aquarius,Goat,Water Goat,Goat,false,13/4,13/4,13/4,2,Oregon
+00-0037752,Tycen Anderson,DEN,DB,6,1999-06-13,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,47/11,38/11,38/11,4,Toledo
+00-0037085,Tyler Badie,DEN,RB,28,1999-02-07,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,37/10/1,37/10/1,37/10/1,4,Missouri
+00-0032569,Wil Lutz,DEN,K,3,1994-07-07,32,Cancer,Dog,Wood Dog,Dog,false,37/10/1,37/10/1,37/10/1,10,Georgia State
+00-0035248,Zach Allen,DEN,DL,99,1997-08-20,29,Leo,Ox,Fire Ox,Ox,false,54/9,36/9,36/9,7,Boston College
+00-0037236,Aidan Hutchinson,DET,DL,97,2000-08-09,26,Leo,Dragon,Metal Dragon,Dragon,false,19/10/1,19/10/1,19/10/1,4,Michigan
+00-0036624,Alim McNeill,DET,DL,54,2000-05-11,26,Taurus,Dragon,Metal Dragon,Dragon,false,18/9,9,9,5,N.C. State
+00-0036963,Amon-Ra St. Brown,DET,WR,14,1999-10-24,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,62/8,35/8,35/8,5,USC
+00-0034377,Avonte Maddox,DET,DB,29,1996-03-31,30,Aries,Rat,Fire Rat,Rat,false,59/14/5,32/5,32/5,8,Pittsburgh
+00-0036272,Ben Bartch,DET,OL,78,1998-07-22,28,Cancer,Tiger,Earth Tiger,Tiger,false,56/11,38/11,38/11,6,St. John's (MN)
+00-0036754,Brock Wright,DET,TE,89,1998-11-27,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,65/11,38/11,38/11,5,Notre Dame
+00-0038820,Christian Izien,DET,DB,5,2000-06-08,26,Gemini,Dragon,Metal Dragon,Dragon,false,16/7,16/7,16/7,3,Rutgers
+00-0033294,Chuck Clark,DET,DB,36,1995-04-19,31,Aries,Pig,Wood Pig,Pig,false,47/11,38/11,38/11,9,Virginia Tech
+00-0034384,D.J. Reed,DET,DB,4,1996-11-11,29,Scorpio,Rat,Fire Rat,Rat,false,47/11,29/11,29/11,8,Kansas State; Cerritos College; Fresno State
+00-0036335,D.J. Wonnum,DET,LB,98,1997-10-31,28,Scorpio,Ox,Fire Ox,Ox,false,67/13/4,31/4,31/4,6,South Carolina
+00-0036964,Derrick Barnes,DET,LB,55,1999-05-29,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,62/8,44/8,44/8,5,Purdue
+00-0041441,Derrick Moore,DET,LB,8,2002-12-06,23,Sagittarius,Horse,Water Horse,Horse,false,22,13/4,13/4,0,Michigan
+00-0037414,Devin Cochran,DET,OL,77,1998-07-17,28,Cancer,Tiger,Earth Tiger,Tiger,false,51/6,42/6,42/6,4,Georgia Tech
+00-0035707,Devin White,DET,LB,45,1998-02-17,28,Aquarius,Tiger,Earth Tiger,Tiger,false,46/10/1,37/10/1,37/10/1,7,LSU
+00-0041459,Eric O'Neill,DET,DL,66,2003-07-01,23,Cancer,Goat,Water Goat,Goat,false,13/4,13/4,13/4,0,Rutgers; Long Island Coll.-Brooklyn
+00-0039445,Hogan Hatten,DET,LS,49,2000-08-06,26,Leo,Dragon,Metal Dragon,Dragon,false,16/7,16/7,16/7,2,Idaho
+00-0040669,Isaac TeSlaa,DET,WR,18,2002-02-20,24,Pisces,Horse,Water Horse,Horse,false,26/8,8,8,1,Arkansas; Hillsdale
+00-0039018,Jack Campbell,DET,LB,46,2000-08-22,26,Leo,Dragon,Metal Dragon,Dragon,false,32/5,14/5,14/5,3,Iowa
+00-0035156,Jack Fox,DET,P,3,1996-09-01,30,Virgo,Rat,Fire Rat,Rat,false,35/8,35/8,35/8,7,Rice
+00-0040390,Jackson Meeks,DET,TE,13,2003-03-24,23,Aries,Goat,Water Goat,Goat,false,32/5,14/5,14/5,1,Syracuse
+00-0038896,Jacob Saylors,DET,RB,25,2000-03-08,26,Pisces,Dragon,Metal Dragon,Dragon,false,13/4,13/4,13/4,3,East Tennessee State
+00-0039139,Jahmyr Gibbs,DET,RB,0,2002-03-20,24,Pisces,Horse,Water Horse,Horse,false,27/9,9,9,3,Alabama; Georgia Tech
+00-0039172,Jake Bates,DET,K,39,1999-03-03,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,34/7,34/7,34/7,3,Arkansas; Central Arkansas
+00-0037240,Jameson Williams,DET,WR,1,2001-03-26,25,Aries,Snake,Metal Snake,Snake,false,32/5,14/5,14/5,4,Alabama; Ohio State
+00-0033106,Jared Goff,DET,QB,16,1994-10-14,31,Libra,Dog,Wood Dog,Dog,false,47/11,29/11,29/11,10,California
+00-0035895,Joe Bachie,DET,LB,35,1998-02-26,28,Pisces,Tiger,Earth Tiger,Tiger,false,55/10/1,37/10/1,37/10/1,6,Michigan State
+00-0033949,Joshua Dobbs,DET,QB,11,1995-01-26,31,Aquarius,Dog,Wood Dog,Pig,true,51/6,33,33,9,Tennessee
+00-0038936,Juice Scruggs,DET,OL,70,2000-01-19,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,22,13/4,13/4,3,Penn State
+00-0036124,Khalil Dorsey,DET,DB,30,1998-03-31,28,Aries,Tiger,Earth Tiger,Tiger,false,61/7,34/7,34/7,6,Northern Arizona
+00-0036905,Larry Borom,DET,OL,79,1999-03-30,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,61/7,34/7,34/7,5,Missouri
+00-0036954,Levi Onwuzurike,DET,DL,95,1998-03-02,28,Pisces,Tiger,Earth Tiger,Tiger,false,32/5,32/5,32/5,5,Washington
+00-0037289,Malcolm Rodriguez,DET,LB,44,1999-03-29,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,60/6,42/6,42/6,4,Oklahoma State
+00-0040193,Miles Frazier,DET,OL,71,2001-09-12,25,Virgo,Snake,Metal Snake,Snake,false,24/6,15/6,15/6,1,LSU; Florida International
+00-0036880,Penei Sewell,DET,OL,58,2000-10-09,25,Libra,Dragon,Metal Dragon,Dragon,false,21/3,12/3,12/3,5,Oregon
+00-0035637,Rock Ya-Sin,DET,DB,23,1996-05-23,30,Gemini,Rat,Fire Rat,Rat,false,53/8,35/8,35/8,7,Temple
+00-0038125,Roger McCreary,DET,DB,21,2000-02-10,26,Aquarius,Dragon,Metal Dragon,Dragon,false,14/5,5,5,4,Auburn
+00-0039065,Sam LaPorta,DET,TE,87,2001-01-12,25,Capricorn,Dragon,Metal Dragon,Snake,true,16/7,7,7,3,Iowa
+00-0040374,Seth McLaughlin,DET,OL,65,2001-08-27,25,Virgo,Snake,Metal Snake,Snake,false,38/11,20/2,20/2,1,Ohio State; Alabama
+00-0039364,Sione Vaki,DET,RB,33,2001-07-30,25,Leo,Snake,Metal Snake,Snake,false,40/4,13/4,13/4,2,Utah
+00-0041447,Skyler Gill-Howard,DET,DL,50,2002-10-13,23,Libra,Horse,Water Horse,Horse,false,27/9,9,9,0,Texas Tech
+00-0040728,Tate Ratledge,DET,OL,69,2001-04-26,25,Taurus,Snake,Metal Snake,Snake,false,33,15/6,15/6,1,Georgia
+00-0037524,Tay Martin,DET,WR,17,1997-12-14,28,Sagittarius,Ox,Fire Ox,Ox,false,52/7,34/7,34/7,4,Oklahoma State
+00-0039660,Thomas Harper,DET,DB,12,2000-11-05,25,Scorpio,Dragon,Metal Dragon,Dragon,false,18/9,9,9,2,Notre Dame; Oklahoma State
+00-0035544,Tom Kennedy,DET,WR,85,1996-07-29,30,Leo,Rat,Fire Rat,Rat,false,61/7,43/7,43/7,7,Bryant
+00-0038660,Trevor Nowaske,DET,LB,53,1998-11-07,27,Scorpio,Tiger,Earth Tiger,Tiger,false,45/9,36/9,36/9,3,Saginaw Valley State
+00-0040672,Tyleik Williams,DET,DL,91,2003-02-24,23,Pisces,Goat,Water Goat,Goat,false,31/4,13/4,13/4,1,Ohio State
+00-0034270,Tyler Conklin,DET,TE,83,1995-07-30,31,Leo,Pig,Wood Pig,Pig,false,61/7,34/7,34/7,8,Central Michigan; Northwood
+00-0038940,Tyler Lacy,DET,DL,93,1999-11-10,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,49/13/4,31/4,31/4,3,Oklahoma State
+00-0036551,Aaron Banks,GB,OL,65,1997-09-03,29,Virgo,Ox,Fire Ox,Ox,false,38/11,38/11,38/11,5,Notre Dame
+00-0040726,Anthony Belton,GB,OL,71,2001-02-23,25,Pisces,Snake,Metal Snake,Snake,false,28/10/1,10/1,10/1,1,N.C. State; Georgia Military
+00-0040689,Anthony Campbell,GB,DL,93,2000-09-09,26,Virgo,Dragon,Metal Dragon,Dragon,false,20/2,20/2,20/2,1,Miami; Louisiana-Monroe; Independence Comm. College
+00-0040010,Barryn Sorrell,GB,LB,99,2002-12-22,23,Capricorn,Horse,Water Horse,Horse,false,38/11,11,11,1,Texas
+00-0037091,Bo Melton,GB,WR,16,1999-05-18,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,51/6,42/6,42/6,4,Rutgers
+00-0041470,Brandon Cisse,GB,DB,2,2005-07-03,21,Cancer,Rooster,Wood Rooster,Rooster,false,17/8,17/8,17/8,0,South Carolina; N.C. State
+00-0038463,Brenton Cox Jr.,GB,LB,57,2000-01-30,26,Aquarius,Rabbit,Earth Rabbit,Dragon,true,33,6,6,3,Florida; Georgia
+00-0038408,Carrington Valentine,GB,DB,24,2001-09-09,25,Virgo,Snake,Metal Snake,Snake,false,21/3,21/3,21/3,3,Kentucky
+00-0038685,Chris Brooks,GB,RB,30,2000-01-11,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,14/5,5,5,3,BYU; California
+00-0040869,Chris McClellan,GB,DL,55,2003-10-17,22,Libra,Goat,Water Goat,Goat,false,32/5,14/5,14/5,0,Missouri; Florida
+00-0038124,Christian Watson,GB,WR,9,1999-05-12,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,45/9,36/9,36/9,4,North Dakota State
+00-0040877,Dani Dennis-Sutton,GB,LB,51,2003-12-23,22,Capricorn,Goat,Water Goat,Goat,false,40/4,13/4,13/4,0,Penn State
+00-0037547,Daniel Whelan,GB,P,19,1999-02-10,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,40/4,31/4,31/4,4,UC Davis
+00-0037075,Devonte Wyatt,GB,DL,95,1998-03-31,28,Aries,Tiger,Earth Tiger,Tiger,false,61/7,34/7,34/7,4,Georgia
+00-0039272,Donovan Jennings,GB,OL,67,1999-11-24,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,63/9,36/9,36/9,2,University of South Florida
+00-0039850,Edgerrin Cooper,GB,LB,56,2001-11-17,24,Scorpio,Snake,Metal Snake,Snake,false,31/4,13/4,13/4,2,Texas A&M
+00-0039813,Evan Williams,GB,DB,33,2001-07-28,25,Leo,Snake,Metal Snake,Snake,false,38/11,20/2,20/2,2,Oregon; Fresno State
+00-0036658,Isaiah McDuffie,GB,LB,58,1999-07-21,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,56/11,38/11,38/11,5,Boston College
+00-0040948,J. Michael Sturdivant,GB,WR,87,2002-09-06,24,Virgo,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,0,Florida; UCLA; California
+00-0039817,Jacob Monk,GB,OL,62,2001-06-04,25,Gemini,Snake,Metal Snake,Snake,false,13/4,13/4,13/4,2,Duke
+00-0040884,Jager Burton,GB,OL,52,2002-08-24,24,Virgo,Horse,Water Horse,Horse,false,36/9,18/9,18/9,0,Kentucky
+00-0039867,Javon Bullard,GB,DB,7,2002-09-05,24,Virgo,Horse,Water Horse,Horse,false,18/9,18/9,18/9,2,Georgia
+00-0039146,Jayden Reed,GB,WR,11,2000-04-28,26,Taurus,Dragon,Metal Dragon,Dragon,false,34/7,16/7,16/7,3,Michigan State; Western Michigan
+00-0037094,Jonathan Ford,GB,DL,96,1998-09-29,27,Libra,Tiger,Earth Tiger,Tiger,false,65/11,47/11,47/11,4,Miami
+00-0033858,Jonnu Smith,GB,TE,18,1995-08-22,31,Leo,Pig,Wood Pig,Pig,false,54/9,36/9,36/9,9,Florida International
+00-0036264,Jordan Love,GB,QB,10,1998-11-02,27,Scorpio,Tiger,Earth Tiger,Tiger,false,40/4,31/4,31/4,6,Utah State
+00-0039904,Jordan Morgan,GB,OL,77,2001-08-04,25,Leo,Snake,Metal Snake,Snake,false,15/6,15/6,15/6,2,Arizona
+00-0038589,Josh Whyle,GB,TE,81,1999-09-08,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,45/9,45/9,45/9,3,Cincinnati
+00-0040142,Kaleb Johnson,GB,RB,26,2003-08-14,23,Leo,Goat,Water Goat,Goat,false,27/9,18/9,18/9,1,Iowa
+00-0039831,Kamal Hadden,GB,DB,36,2001-01-17,25,Capricorn,Dragon,Metal Dragon,Snake,true,21/3,12/3,12/3,2,Tennessee; Independence Comm. College; Auburn
+00-0038398,Karl Brooks,GB,DL,94,2000-05-08,26,Taurus,Dragon,Metal Dragon,Dragon,false,15/6,15/6,15/6,3,Bowling Green
+00-0035133,Keisean Nixon,GB,DB,25,1997-06-22,29,Cancer,Ox,Fire Ox,Ox,false,54/9,36/9,36/9,7,South Carolina
+00-0039818,Kitan Oladapo,GB,DB,27,2000-10-10,25,Libra,Dragon,Metal Dragon,Dragon,false,22,4,4,2,Oregon State
+00-0039112,Lukas Van Ness,GB,LB,90,2001-07-06,25,Cancer,Snake,Metal Snake,Snake,false,16/7,16/7,16/7,3,Iowa
+00-0040598,Mark Redman,GB,TE,86,2002-01-20,24,Aquarius,Snake,Metal Snake,Horse,true,25/7,7,7,1,Louisville; San Diego State
+00-0039811,MarShawn Lloyd,GB,RB,32,2001-01-05,25,Capricorn,Dragon,Metal Dragon,Snake,true,9,9,9,2,USC; South Carolina
+00-0040667,Matthew Golden,GB,WR,0,2003-08-01,23,Leo,Goat,Water Goat,Goat,false,14/5,14/5,14/5,1,Texas; Houston
+00-0035118,Matthew Orzech,GB,LS,42,1995-04-12,31,Aries,Pig,Wood Pig,Pig,false,40/4,31/4,31/4,7,Azusa Pacific
+00-0036648,Nick Niemann,GB,LB,31,1997-12-02,28,Sagittarius,Ox,Fire Ox,Ox,false,40/4,31/4,31/4,5,Iowa
+00-0037076,Sean Rhyan,GB,OL,75,2000-09-15,26,Virgo,Dragon,Metal Dragon,Dragon,false,26/8,17/8,17/8,4,UCLA
+00-0038090,Skyy Moore,GB,WR,23,2000-09-10,26,Virgo,Dragon,Metal Dragon,Dragon,false,21/3,12/3,12/3,4,Western Michigan
+00-0040899,Trey Smack,GB,K,28,2003-07-12,23,Cancer,Goat,Water Goat,Goat,false,24/6,15/6,15/6,0,Florida
+00-0038996,Tucker Kraft,GB,TE,85,2000-11-03,25,Scorpio,Dragon,Metal Dragon,Dragon,false,16/7,7,7,3,South Dakota State
+00-0039812,Ty'Ron Hopper,GB,LB,59,2001-04-26,25,Taurus,Snake,Metal Snake,Snake,false,33,15/6,15/6,2,Missouri; Florida
+00-0028118,Tyrod Taylor,GB,QB,6,1989-08-03,37,Leo,Snake,Earth Snake,Snake,false,38/11,38/11,38/11,15,Virginia Tech
+00-0036388,Xavier McKinney,GB,DB,29,1999-08-09,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,45/9,45/9,45/9,6,Alabama
+00-0037817,Zach Bako-Bewele,GB,OL,50,1999-03-26,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,57/12/3,39/12/3,39/12/3,4,Wake Forest
+00-0034431,Zaire Franklin,GB,LB,44,1996-07-02,30,Cancer,Rat,Fire Rat,Rat,false,34/7,34/7,34/7,8,Syracuse
+00-0041449,Aiden Fisher,HOU,LB,59,2003-12-23,22,Capricorn,Goat,Water Goat,Goat,false,40/4,13/4,13/4,0,Indiana; James Madison
+00-0040745,Aireontae Ersery,HOU,OL,79,2002-02-19,24,Pisces,Horse,Water Horse,Horse,false,25/7,16/7,16/7,1,Minnesota
+00-0040409,Austin Brinkman,HOU,LS,40,2002-06-20,24,Gemini,Horse,Water Horse,Horse,false,30/3,12/3,12/3,1,West Virginia
+00-0035166,Azeez Al-Shaair,HOU,LB,0,1997-08-04,29,Leo,Ox,Fire Ox,Ox,false,38/11,38/11,38/11,7,Florida Atlantic
+00-0039857,Blake Fisher,HOU,OL,57,2003-03-25,23,Aries,Goat,Water Goat,Goat,false,33,15/6,15/6,2,Notre Dame
+00-0039603,British Brooks,HOU,RB,44,1999-11-18,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,57/12/3,39/12/3,39/12/3,2,North Carolina
+00-0039163,C.J. Stroud,HOU,QB,7,2001-10-03,24,Libra,Snake,Metal Snake,Snake,false,16/7,7,7,3,Ohio State
+00-0039359,Cade Stover,HOU,TE,8,2000-06-12,26,Gemini,Dragon,Metal Dragon,Dragon,false,20/2,11,11,2,Ohio State
+00-0039838,Calen Bullock,HOU,DB,2,2003-04-30,23,Taurus,Goat,Water Goat,Goat,false,39/12/3,12/3,12/3,2,USC
+00-0034383,Dalton Schultz,HOU,TE,86,1996-07-11,30,Cancer,Rat,Fire Rat,Rat,false,43/7,34/7,34/7,8,Stanford
+00-0031565,Danielle Hunter,HOU,DL,55,1994-10-29,31,Scorpio,Dog,Wood Dog,Dog,false,62/8,35/8,35/8,11,LSU
+00-0035685,David Montgomery,HOU,RB,32,1997-06-07,29,Gemini,Ox,Fire Ox,Ox,false,39/12/3,39/12/3,39/12/3,7,Iowa State
+00-0036898,Davis Mills,HOU,QB,10,1998-10-21,27,Libra,Tiger,Earth Tiger,Tiger,false,58/13/4,31/4,31/4,5,Stanford
+00-0037237,Derek Stingley Jr.,HOU,DB,24,2001-06-20,25,Gemini,Snake,Metal Snake,Snake,false,29/11,11,11,4,LSU
+00-0037082,Dominique Robinson,HOU,DL,94,1998-07-02,28,Cancer,Tiger,Earth Tiger,Tiger,false,36/9,36/9,36/9,4,Miami (Ohio)
+00-0034495,Evan Brown,HOU,OL,63,1996-09-16,30,Virgo,Rat,Fire Rat,Rat,false,50/5,41/5,41/5,8,SMU
+00-0041559,Febechi Nwaiwu,HOU,OL,64,2003-02-17,23,Aquarius,Goat,Water Goat,Goat,false,24/6,15/6,15/6,0,Oklahoma; North Texas
+00-0034981,Foster Moreau,HOU,TE,87,1997-05-06,29,Taurus,Ox,Fire Ox,Ox,false,37/10/1,37/10/1,37/10/1,7,LSU
+00-0034091,George Odum,HOU,DB,36,1993-11-03,32,Scorpio,Rooster,Water Rooster,Rooster,false,36/9,27/9,27/9,8,Central Arkansas
+00-0039402,Jaden Crumedy,HOU,DL,95,2000-07-30,26,Leo,Dragon,Metal Dragon,Dragon,false,39/12/3,12/3,12/3,2,Mississippi State
+00-0039030,Jake Andrews,HOU,OL,60,1999-11-11,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,50/5,32/5,32/5,3,Troy
+00-0037457,Jake Hansen,HOU,LB,35,1998-06-19,28,Gemini,Tiger,Earth Tiger,Tiger,false,52/7,43/7,43/7,4,Illinois
+00-0037246,Jalen Pitre,HOU,DB,5,1999-06-03,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,37/10/1,37/10/1,37/10/1,4,Baylor
+00-0039395,Jamal Hill,HOU,LB,56,2001-04-01,25,Aries,Snake,Metal Snake,Snake,false,8,8,8,2,Oregon
+00-0038728,Jared Wayne,HOU,WR,17,2000-10-07,25,Libra,Dragon,Metal Dragon,Dragon,false,19/10/1,10/1,10/1,3,Pittsburgh
+00-0040138,Jaylin Noel,HOU,WR,13,2002-09-04,24,Virgo,Horse,Water Horse,Horse,false,17/8,17/8,17/8,1,Iowa State
+00-0040149,Jaylin Smith,HOU,DB,22,2003-11-05,22,Scorpio,Goat,Water Goat,Goat,false,21/3,12/3,12/3,1,USC
+00-0032726,Ka'imi Fairbairn,HOU,K,15,1994-01-29,32,Aquarius,Rooster,Water Rooster,Dog,true,53/8,35/8,35/8,10,UCLA
+00-0040654,Kai Kroeger,HOU,P,38,2002-06-11,24,Gemini,Horse,Water Horse,Horse,false,21/3,12/3,12/3,1,South Carolina
+00-0039343,Kamari Lassiter,HOU,DB,3,2003-01-23,23,Aquarius,Horse,Water Horse,Goat,true,29/11,11,11,2,Georgia
+00-0041466,Kamari Ramsey,HOU,DB,27,2004-08-24,22,Virgo,Monkey,Wood Monkey,Monkey,false,38/11,20/2,20/2,0,USC; UCLA
+00-0038608,Kayshon Boutte,HOU,WR,14,2002-05-07,24,Taurus,Horse,Water Horse,Horse,false,16/7,16/7,16/7,3,LSU
+00-0041532,Keylan Rutledge,HOU,OL,66,2003-09-02,23,Virgo,Goat,Water Goat,Goat,false,16/7,16/7,16/7,0,Georgia Tech; Middle Tennessee State
+00-0041467,Lewis Bond,HOU,WR,82,2003-05-29,23,Gemini,Goat,Water Goat,Goat,false,39/12/3,21/3,21/3,0,Boston College
+00-0038127,Logan Hall,HOU,DL,96,2000-04-22,26,Taurus,Dragon,Metal Dragon,Dragon,false,28/10/1,10/1,10/1,4,Houston
+00-0032265,Mario Edwards,HOU,DL,97,1994-01-25,32,Aquarius,Rooster,Water Rooster,Dog,true,49/13/4,31/4,31/4,11,Florida State
+00-0041472,Marlin Klein,HOU,TE,83,2002-09-17,24,Virgo,Horse,Water Horse,Horse,false,30/3,21/3,21/3,0,Michigan
+00-0037130,Reed Blankenship,HOU,DB,6,1999-03-02,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,33,33,33,4,Middle Tennessee State
+00-0041305,Sabastian Harsh,HOU,DL,54,2001-11-28,24,Sagittarius,Snake,Metal Snake,Snake,false,42/6,15/6,15/6,0,N.C. State; Wyoming
+00-0032759,Sheldon Rankins,HOU,DL,98,1994-04-02,32,Aries,Dog,Wood Dog,Dog,false,29/11,29/11,29/11,10,Louisville
+00-0036883,Tommy Togiai,HOU,DL,72,1999-09-19,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,56/11,47/11,47/11,5,Ohio State
+00-0034278,Tremon Smith,HOU,DB,11,1996-07-20,30,Cancer,Rat,Fire Rat,Rat,false,52/7,34/7,34/7,8,Central Arkansas
+00-0032071,Trent Brown,HOU,OL,77,1993-04-13,33,Aries,Rooster,Water Rooster,Rooster,false,39/12/3,30/3,30/3,11,Florida; Georgia Military
+00-0041465,Wade Woodaz,HOU,LB,30,2004-02-04,22,Aquarius,Monkey,Wood Monkey,Monkey,false,12/3,12/3,12/3,0,Clemson
+00-0039108,Will Anderson Jr.,HOU,DL,51,2001-09-02,25,Virgo,Snake,Metal Snake,Snake,false,14/5,14/5,14/5,3,Alabama
+00-0040583,Woody Marks,HOU,RB,4,2000-12-29,25,Capricorn,Dragon,Metal Dragon,Dragon,false,43/7,16/7,16/7,1,USC; Mississippi State
+00-0034399,Wyatt Teller,HOU,OL,75,1994-11-21,31,Scorpio,Dog,Wood Dog,Dog,false,55/10/1,28/10/1,28/10/1,8,Virginia Tech
+00-0038618,Xavier Hutchinson,HOU,WR,19,2000-06-01,26,Gemini,Dragon,Metal Dragon,Dragon,false,9,9,9,3,Iowa State
+00-0041043,A.J. Haulcy,IND,DB,25,2004-01-10,22,Capricorn,Goat,Water Goat,Monkey,true,17/8,8,8,0,LSU; Houston; New Mexico
+00-0039031,Adetomiwa Adebawore,IND,DL,95,2001-03-04,25,Pisces,Snake,Metal Snake,Snake,false,10/1,10/1,10/1,3,Northwestern
+00-0036298,Akeem Davis-Gaither,IND,LB,51,1997-09-21,29,Virgo,Ox,Fire Ox,Ox,false,56/11,38/11,38/11,6,Appalachian State
+00-0037664,Alec Pierce,IND,WR,14,2000-05-02,26,Taurus,Dragon,Metal Dragon,Dragon,false,9,9,9,4,Cincinnati
+00-0037292,Andrew Ogletree,IND,TE,85,1998-07-28,28,Leo,Tiger,Earth Tiger,Tiger,false,62/8,44/8,44/8,4,Youngstown State
+00-0039816,Anthony Gould,IND,WR,6,2001-04-06,25,Aries,Snake,Metal Snake,Snake,false,13/4,13/4,13/4,2,Oregon State
+00-0039164,Anthony Richardson,IND,QB,5,2002-05-22,24,Gemini,Horse,Water Horse,Horse,false,31/4,13/4,13/4,3,Florida
+00-0034825,Arden Key,IND,DL,98,1996-05-03,30,Taurus,Rat,Fire Rat,Rat,false,33,33,33,8,LSU
+00-0037757,Bernhard Raimann,IND,OL,79,1997-09-23,28,Libra,Ox,Fire Ox,Ox,false,58/13/4,40/4,40/4,4,Central Michigan
+00-0041518,Bryce Boettcher,IND,LB,50,2002-07-08,24,Cancer,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,0,Oregon
+00-0041111,Caden Curry,IND,DL,55,2003-05-24,23,Gemini,Goat,Water Goat,Goat,false,34/7,16/7,16/7,0,Ohio State
+00-0037753,Cam Taylor-Britt,IND,DB,29,1999-10-15,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,53/8,35/8,35/8,4,Nebraska
+00-0036629,Camryn Bynum,IND,DB,0,1998-07-19,28,Cancer,Tiger,Earth Tiger,Tiger,false,53/8,44/8,44/8,5,California
+00-0034573,Charvarius Ward,IND,DB,7,1996-05-16,30,Taurus,Rat,Fire Rat,Rat,false,46/10/1,37/10/1,37/10/1,8,Middle Tennessee State; Hinds CC
+00-0041039,CJ Allen,IND,LB,53,2005-03-01,21,Pisces,Rooster,Wood Rooster,Rooster,false,11,11,11,0,Georgia
+00-0035710,Daniel Jones,IND,QB,17,1997-05-27,29,Gemini,Ox,Fire Ox,Ox,false,58/13/4,40/4,40/4,7,Duke
+00-0032378,DeForest Buckner,IND,DL,99,1994-03-17,32,Pisces,Dog,Wood Dog,Dog,false,43/7,34/7,34/7,10,Oregon
+00-0041132,Deion Burks,IND,WR,80,2003-01-08,23,Capricorn,Horse,Water Horse,Goat,true,14/5,14/5,14/5,0,Oklahoma; Purdue
+00-0033952,Grover Stewart,IND,DL,90,1993-10-20,32,Libra,Rooster,Water Rooster,Rooster,false,52/7,25/7,25/7,9,Albany State (GA)
+00-0040235,Hunter Wohler,IND,DB,30,2003-01-12,23,Capricorn,Horse,Water Horse,Goat,true,18/9,9,9,1,Wisconsin
+00-0041517,Jalen Farmer,IND,OL,62,2004-07-27,22,Leo,Monkey,Wood Monkey,Monkey,false,40/4,22,22,0,Kentucky
+00-0040163,Jalen Travis,IND,OL,75,2002-04-19,24,Aries,Horse,Water Horse,Horse,false,27/9,18/9,18/9,1,Iowa State; Princeton
+00-0040744,Jaylahn Tuimoloau,IND,DL,91,2003-05-10,23,Taurus,Goat,Water Goat,Goat,false,20/2,11,11,1,Ohio State
+00-0039377,Jaylon Carlies,IND,LB,57,2001-09-13,25,Virgo,Snake,Metal Snake,Snake,false,25/7,16/7,16/7,2,Missouri
+00-0035674,Jerry Tillery,IND,DL,94,1996-10-08,29,Libra,Rat,Fire Rat,Rat,false,43/7,34/7,34/7,7,Notre Dame
+00-0034485,Jonathan Owens,IND,DB,38,1995-07-22,31,Cancer,Pig,Wood Pig,Pig,false,53/8,35/8,35/8,8,Missouri Western
+00-0036223,Jonathan Taylor,IND,RB,28,1999-01-19,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,48/12/3,39/12/3,39/12/3,6,Wisconsin
+00-0038997,Josh Downs,IND,WR,2,2001-08-12,25,Leo,Snake,Metal Snake,Snake,false,23/5,14/5,14/5,3,North Carolina
+00-0040139,Justin Walley,IND,DB,27,2002-09-22,24,Virgo,Horse,Water Horse,Horse,false,35/8,17/8,17/8,1,Minnesota
+00-0040928,Kapena Gushiken,IND,DB,34,2002-08-15,24,Leo,Horse,Water Horse,Horse,false,27/9,18/9,18/9,0,Mississippi; Washington State; Saddleback Community College
+00-0030279,Keenan Allen,IND,WR,10,1992-04-27,34,Taurus,Monkey,Water Monkey,Monkey,false,52/7,34/7,34/7,13,California
+00-0039340,Laiatu Latu,IND,DL,97,2000-12-31,25,Capricorn,Dragon,Metal Dragon,Dragon,false,45/9,9,9,2,UCLA; Washington
+00-0032951,Laquon Treadwell,IND,WR,13,1995-06-14,31,Gemini,Pig,Wood Pig,Pig,false,44/8,35/8,35/8,10,Mississippi
+00-0032753,Luke Rhodes,IND,LS,46,1992-12-02,33,Sagittarius,Monkey,Water Monkey,Monkey,false,35/8,26/8,26/8,10,William & Mary
+00-0037305,Luke Tenuta,IND,OL,67,1999-09-01,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,38/11,38/11,38/11,4,Virginia Tech
+00-0039736,Matt Goncalves,IND,OL,71,2001-01-26,25,Aquarius,Snake,Metal Snake,Snake,false,30/3,12/3,12/3,2,Pittsburgh
+00-0038107,Micheal Clemons,IND,DL,72,1997-08-21,29,Leo,Ox,Fire Ox,Ox,false,55/10/1,37/10/1,37/10/1,4,Texas A&M
+00-0033217,Mo Alie-Cox,IND,TE,81,1993-09-19,33,Virgo,Rooster,Water Rooster,Rooster,false,50/5,41/5,41/5,9,Virginia Commonwealth Univ.
+00-0034342,Quenton Nelson,IND,OL,56,1996-03-19,30,Pisces,Rat,Fire Rat,Rat,false,47/11,38/11,38/11,8,Notre Dame
+00-0033269,Rigoberto Sanchez,IND,P,8,1994-09-08,32,Virgo,Dog,Wood Dog,Dog,false,40/4,40/4,40/4,9,Hawaii; Butte College
+00-0037190,Sauce Gardner,IND,DB,1,2001-08-31,25,Virgo,Snake,Metal Snake,Snake,false,42/6,15/6,15/6,4,Cincinnati
+00-0039876,Sedrick Van Pran-Granger,IND,OL,63,2001-10-23,24,Scorpio,Snake,Metal Snake,Snake,false,36/9,9,9,2,Georgia
+00-0041125,Seth McGowan,IND,RB,20,2001-10-23,24,Scorpio,Snake,Metal Snake,Snake,false,36/9,9,9,0,Kentucky; New Mexico State; Butler University; Oklahoma
+00-0039576,Spencer Shrader,IND,K,3,1999-05-19,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,52/7,43/7,43/7,2,Notre Dame; University of South Florida
+00-0041227,Tahj Chambers,IND,LB,44,2000-04-09,26,Aries,Dragon,Metal Dragon,Dragon,false,15/6,15/6,15/6,0,Mississippi; Missouri State
+00-0039744,Tanor Bortolini,IND,OL,60,2002-06-17,24,Gemini,Horse,Water Horse,Horse,false,27/9,18/9,18/9,2,Wisconsin
+00-0040207,Tim Smith,IND,DL,93,2002-08-09,24,Leo,Horse,Water Horse,Horse,false,21/3,21/3,21/3,1,Alabama
+00-0040128,Tyler Warren,IND,TE,84,2002-05-24,24,Gemini,Horse,Water Horse,Horse,false,33,15/6,15/6,1,Penn State
+00-0041045,Albert Regis,JAX,DL,98,2003-05-17,23,Taurus,Goat,Water Goat,Goat,false,27/9,18/9,18/9,0,Texas A&M
+00-0032104,Ameer Abdullah,JAX,RB,20,1993-06-13,33,Gemini,Rooster,Water Rooster,Rooster,false,41/5,32/5,32/5,11,Nebraska
+00-0038934,Anton Harrison,JAX,OL,77,2002-02-02,24,Aquarius,Snake,Metal Snake,Horse,true,8,8,8,3,Oklahoma
+00-0038596,Antonio Johnson,JAX,DB,6,2001-10-29,24,Scorpio,Snake,Metal Snake,Snake,false,42/6,15/6,15/6,3,Texas A&M
+00-0032164,Arik Armstead,JAX,DL,91,1993-11-15,32,Scorpio,Rooster,Water Rooster,Rooster,false,48/12/3,30/3,30/3,11,Oregon
+00-0040719,Bhayshul Tuten,JAX,RB,33,2002-02-14,24,Aquarius,Horse,Water Horse,Horse,false,20/2,11,11,1,Virginia Tech; North Carolina A&T
+00-0040326,Branson Combs,JAX,LB,50,2000-07-14,26,Cancer,Dragon,Metal Dragon,Dragon,false,23/5,14/5,14/5,1,Wake Forest
+00-0038935,Brenton Strange,JAX,TE,85,2000-12-27,25,Capricorn,Dragon,Metal Dragon,Dragon,false,41/5,14/5,14/5,3,Penn State
+00-0039893,Brian Thomas Jr.,JAX,WR,7,2002-10-08,23,Libra,Horse,Water Horse,Horse,false,22,13/4,13/4,2,LSU
+00-0041218,Bryan Thomas Jr.,JAX,DL,57,2004-06-28,22,Cancer,Monkey,Wood Monkey,Monkey,false,40/4,22,22,0,South Carolina
+00-0040145,Caleb Ransaw,JAX,DB,27,2002-12-22,23,Capricorn,Horse,Water Horse,Horse,false,38/11,11,11,1,Tulane; Troy
+00-0039409,Cam Little,JAX,K,39,2003-08-17,23,Leo,Goat,Water Goat,Goat,false,30/3,21/3,21/3,2,Arkansas
+00-0038611,Chris Rodriguez Jr.,JAX,RB,24,1999-09-26,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,63/9,45/9,45/9,3,Kentucky
+00-0038616,Christian Braswell,JAX,DB,21,1999-09-27,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,64/10/1,46/10/1,46/10/1,3,Rutgers; Temple
+00-0036655,Cole Van Lanen,JAX,OL,70,1998-04-23,28,Taurus,Tiger,Earth Tiger,Tiger,false,54/9,36/9,36/9,5,Wisconsin
+00-0040342,Danny Striggow,JAX,DL,92,2002-07-24,24,Leo,Horse,Water Horse,Horse,false,35/8,17/8,17/8,1,Minnesota
+00-0036262,DaVon Hamilton,JAX,DL,52,1997-02-01,29,Aquarius,Rat,Fire Rat,Ox,true,29/11,29/11,29/11,6,Ohio State
+00-0034473,Dennis Gardeck,JAX,LB,47,1994-08-09,32,Leo,Dog,Wood Dog,Dog,false,40/4,40/4,40/4,8,Sioux Falls; West Virginia State
+00-0041050,Emmanuel Pregnon,JAX,OL,75,2002-02-14,24,Aquarius,Horse,Water Horse,Horse,false,20/2,11,11,0,Oregon; USC; Wyoming
+00-0033038,Eric Murray,JAX,DB,29,1994-01-07,32,Capricorn,Rooster,Water Rooster,Dog,true,31/4,31/4,31/4,10,Minnesota
+00-0036327,Ezra Cleveland,JAX,OL,76,1998-05-08,28,Taurus,Tiger,Earth Tiger,Tiger,false,40/4,40/4,40/4,6,Boise State
+00-0034413,Foye Oluokun,JAX,LB,23,1995-08-02,31,Leo,Pig,Wood Pig,Pig,false,34/7,34/7,34/7,8,Yale
+00-0035240,Jahlani Tavai,JAX,LB,31,1996-09-28,29,Libra,Rat,Fire Rat,Rat,false,62/8,44/8,44/8,7,Hawaii
+00-0034960,Jakobi Meyers,JAX,WR,3,1996-11-09,29,Scorpio,Rat,Fire Rat,Rat,false,45/9,36/9,36/9,7,N.C. State
+00-0040209,Jalen McLeod,JAX,LB,35,2002-06-05,24,Gemini,Horse,Water Horse,Horse,false,15/6,15/6,15/6,1,Auburn; Appalachian State
+00-0039353,Jarrian Jones,JAX,DB,4,2001-05-08,25,Taurus,Snake,Metal Snake,Snake,false,16/7,16/7,16/7,2,Florida State; Mississippi State
+00-0040227,Jonah Monheim,JAX,OL,60,2002-06-07,24,Gemini,Horse,Water Horse,Horse,false,17/8,17/8,17/8,1,USC
+00-0041100,Josh Cameron,JAX,WR,19,2003-03-18,23,Pisces,Goat,Water Goat,Goat,false,26/8,17/8,17/8,0,Baylor
+00-0035642,Josh Hines-Allen,JAX,DL,41,1997-07-13,29,Cancer,Ox,Fire Ox,Ox,false,46/10/1,37/10/1,37/10/1,7,Kentucky
+00-0033928,Jourdan Lewis,JAX,DB,2,1995-08-31,31,Virgo,Pig,Wood Pig,Pig,false,63/9,36/9,36/9,9,Michigan
+00-0040238,LeQuint Allen Jr.,JAX,RB,5,2004-08-05,22,Leo,Monkey,Wood Monkey,Monkey,false,19/10/1,19/10/1,19/10/1,1,Syracuse
+00-0034437,Logan Cooke,JAX,P,9,1995-07-28,31,Leo,Pig,Wood Pig,Pig,false,59/14/5,41/5,41/5,8,Mississippi State
+00-0034657,Matt Dickerson,JAX,DL,93,1995-11-09,30,Scorpio,Pig,Wood Pig,Pig,false,44/8,35/8,35/8,8,UCLA
+00-0037313,Montaric Brown,JAX,DB,1,1999-08-24,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,60/6,42/6,42/6,4,Arkansas
+00-0041503,Nate Boerkircher,JAX,TE,87,2001-09-04,25,Virgo,Snake,Metal Snake,Snake,false,16/7,16/7,16/7,0,Texas A&M; Nebraska
+00-0033319,Nick Mullens,JAX,QB,14,1995-03-21,31,Aries,Pig,Wood Pig,Pig,false,48/12/3,30/3,30/3,9,Southern Mississippi
+00-0038606,Parker Washington,JAX,WR,11,2002-03-21,24,Aries,Horse,Water Horse,Horse,false,28/10/1,10/1,10/1,3,Penn State
+00-0036590,Quintin Morris,JAX,TE,80,1999-01-21,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,50/5,32/5,32/5,5,Bowling Green
+00-0040213,Rayuan Lane III,JAX,DB,25,2003-07-21,23,Cancer,Goat,Water Goat,Goat,false,33,15/6,15/6,1,Navy
+00-0036985,Robert Hainsey,JAX,OL,73,1998-08-12,28,Leo,Tiger,Earth Tiger,Tiger,false,47/11,38/11,38/11,5,Notre Dame
+00-0035827,Ross Matiscik,JAX,LS,46,1996-09-13,30,Virgo,Rat,Fire Rat,Rat,false,47/11,38/11,38/11,6,Baylor
+00-0039733,Ruke Orhorhoro,JAX,DL,99,2001-10-13,24,Libra,Snake,Metal Snake,Snake,false,26/8,8,8,2,Clemson
+00-0040718,Travis Hunter,JAX,WR,12,2003-05-18,23,Taurus,Goat,Water Goat,Goat,false,28/10/1,19/10/1,19/10/1,1,Colorado; Jackson State University
+00-0037235,Travon Walker,JAX,DL,44,2000-12-18,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,32/5,14/5,14/5,4,Georgia
+00-0036971,Trevor Lawrence,JAX,QB,16,1999-10-06,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,44/8,35/8,35/8,5,Clemson
+00-0038570,Ventrell Miller,JAX,LB,51,1999-01-15,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,44/8,35/8,35/8,3,Florida
+00-0036975,Walker Little,JAX,OL,72,1999-04-01,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,33,33,33,5,Stanford
+00-0040146,Wyatt Milum,JAX,OL,64,2002-12-27,23,Capricorn,Horse,Water Horse,Horse,false,43/7,16/7,16/7,1,West Virginia
+00-0036380,Alohi Gilman,KC,DB,17,1997-09-17,29,Virgo,Ox,Fire Ox,Ox,false,52/7,43/7,43/7,6,Notre Dame
+00-0040640,Ashton Gillotte,KC,DL,97,2002-10-30,23,Scorpio,Horse,Water Horse,Horse,false,44/8,8,8,1,Louisville
+00-0038489,Ben VanSumeren,KC,RB,47,2000-05-05,26,Taurus,Dragon,Metal Dragon,Dragon,false,12/3,12/3,12/3,3,Michigan State; Michigan
+00-0040078,Brashard Smith,KC,RB,24,2003-04-11,23,Aries,Goat,Water Goat,Goat,false,20/2,11,11,1,SMU; Miami
+00-0032762,Chris Jones,KC,DL,95,1994-07-03,32,Cancer,Dog,Wood Dog,Dog,false,33,33,33,10,Mississippi State
+00-0039324,Christian Roland-Wallace,KC,DB,30,2001-11-23,24,Sagittarius,Snake,Metal Snake,Snake,false,37/10/1,10/1,10/1,2,USC; Arizona
+00-0035900,Cole Christiansen,KC,LB,48,1997-07-30,29,Leo,Ox,Fire Ox,Ox,false,63/9,36/9,36/9,6,Army
+00-0036623,Creed Humphrey,KC,OL,52,1999-06-28,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,62/8,44/8,44/8,5,Oklahoma
+00-0040890,Cyrus Allen,KC,WR,13,2003-02-11,23,Aquarius,Goat,Water Goat,Goat,false,18/9,9,9,0,Cincinnati; Texas A&M; Louisiana Tech
+00-0035262,Drue Tranquill,KC,LB,23,1995-08-15,31,Leo,Pig,Wood Pig,Pig,false,47/11,38/11,38/11,7,Notre Dame
+00-0041013,Emmett Johnson,KC,RB,10,2003-10-10,22,Libra,Goat,Water Goat,Goat,false,25/7,7,7,0,Nebraska
+00-0039006,Felix Anudike-Uzomah,KC,DL,91,2002-01-24,24,Aquarius,Snake,Metal Snake,Horse,true,29/11,11,11,3,Kansas State
+00-0037192,George Karlaftis,KC,DL,56,2001-04-03,25,Aries,Snake,Metal Snake,Snake,false,10/1,10/1,10/1,4,Purdue
+00-0033303,Harrison Butker,KC,K,7,1995-07-14,31,Cancer,Pig,Wood Pig,Pig,false,45/9,36/9,36/9,9,Georgia Tech
+00-0039827,Hunter Nourzad,KC,OL,64,2000-11-26,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,39/12/3,12/3,12/3,2,Penn State; Cornell
+00-0037208,Jack Cochrane,KC,LB,43,1999-02-09,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,39/12/3,39/12/3,39/12/3,4,South Dakota
+00-0039825,Jaden Hicks,KC,DB,21,2002-08-16,24,Leo,Horse,Water Horse,Horse,false,28/10/1,19/10/1,19/10/1,2,Washington State
+00-0041497,Jadon Canady,KC,DB,22,2003-05-01,23,Taurus,Goat,Water Goat,Goat,false,11,11,11,0,Oregon; Mississippi; Tulane
+00-0040081,Jake Briningstool,KC,TE,88,2002-12-09,23,Sagittarius,Horse,Water Horse,Horse,false,25/7,16/7,16/7,1,Clemson
+00-0040646,Jalen Royals,KC,WR,11,2003-02-18,23,Aquarius,Goat,Water Goat,Goat,false,25/7,16/7,16/7,1,Utah State
+00-0030615,James Winchester,KC,LS,41,1989-08-06,37,Leo,Snake,Earth Snake,Snake,false,41/5,41/5,41/5,13,Oklahoma
+00-0036557,Jaylon Moore,KC,OL,77,1998-01-09,28,Capricorn,Ox,Fire Ox,Tiger,true,37/10/1,37/10/1,37/10/1,5,Western Michigan
+00-0040072,Jeffrey Bassa,KC,LB,31,2002-09-20,24,Virgo,Horse,Water Horse,Horse,false,33,15/6,15/6,1,Oregon
+00-0037807,Joshua Ezeudu,KC,OL,73,1999-09-19,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,56/11,47/11,47/11,4,North Carolina
+00-0036945,Justin Fields,KC,QB,6,1999-03-05,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,36/9,36/9,36/9,5,Ohio State
+00-0041019,Kahlil Benson,KC,OL,70,2002-08-30,24,Virgo,Horse,Water Horse,Horse,false,42/6,15/6,15/6,0,Indiana; Colorado
+00-0038134,Kenneth Walker III,KC,RB,9,2000-10-20,25,Libra,Dragon,Metal Dragon,Dragon,false,32/5,5,5,4,Michigan State; Wake Forest
+00-0036909,Khyiris Tonga,KC,DL,92,1996-07-07,30,Cancer,Rat,Fire Rat,Rat,false,39/12/3,39/12/3,39/12/3,5,BYU
+00-0039844,Kingsley Suamataia,KC,OL,76,2003-01-18,23,Capricorn,Horse,Water Horse,Goat,true,24/6,15/6,15/6,2,BYU; Oregon
+00-0036416,Kristian Fulton,KC,DB,8,1998-09-03,28,Virgo,Tiger,Earth Tiger,Tiger,false,39/12/3,39/12/3,39/12/3,6,LSU
+00-0036374,L'Jarius Sneed,KC,DB,38,1997-01-21,29,Aquarius,Rat,Fire Rat,Ox,true,48/12/3,30/3,30/3,6,Louisiana Tech
+00-0041543,Mansoor Delane,KC,DB,5,2003-12-15,22,Sagittarius,Goat,Water Goat,Goat,false,32/5,14/5,14/5,0,LSU; Virginia Tech
+00-0039433,Marcus Harris,KC,DL,96,2000-09-27,25,Libra,Dragon,Metal Dragon,Dragon,false,38/11,20/2,20/2,2,Auburn; Kansas
+00-0037284,Matt Araiza,KC,P,14,2000-05-16,26,Taurus,Dragon,Metal Dragon,Dragon,false,23/5,14/5,14/5,4,San Diego State
+00-0037207,Mike Caliendo,KC,OL,66,1997-10-21,28,Libra,Ox,Fire Ox,Ox,false,57/12/3,30/3,30/3,4,Western Michigan
+00-0036621,Nick Bolton,KC,LB,32,2000-03-10,26,Pisces,Dragon,Metal Dragon,Dragon,false,15/6,6,6,5,Missouri
+00-0038519,Nikko Remigio,KC,WR,81,1999-11-04,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,43/7,34/7,34/7,3,Fresno State
+00-0036637,Noah Gray,KC,TE,83,1999-04-30,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,62/8,35/8,35/8,5,Duke
+00-0040670,Nohl Williams,KC,DB,20,2002-09-23,23,Libra,Horse,Water Horse,Horse,false,36/9,18/9,18/9,1,California
+00-0033873,Patrick Mahomes,KC,QB,15,1995-09-17,31,Virgo,Pig,Wood Pig,Pig,false,50/5,41/5,41/5,9,Texas Tech
+00-0041545,Peter Woods,KC,DL,99,2005-03-05,21,Pisces,Rooster,Wood Rooster,Rooster,false,15/6,15/6,15/6,0,Clemson
+00-0041501,R Mason Thomas,KC,DL,51,2004-08-25,22,Virgo,Monkey,Wood Monkey,Monkey,false,39/12/3,21/3,21/3,0,Oklahoma
+00-0039067,Rashee Rice,KC,WR,4,2000-04-22,26,Taurus,Dragon,Metal Dragon,Dragon,false,28/10/1,10/1,10/1,3,SMU
+00-0030506,Travis Kelce,KC,TE,87,1989-10-05,36,Libra,Snake,Earth Snake,Snake,false,42/6,33,33,13,Cincinnati
+00-0036660,Trey Smith,KC,OL,65,1999-06-16,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,50/5,41/5,41/5,5,Tennessee
+00-0038104,Tyquan Thornton,KC,WR,2,2000-08-07,26,Leo,Dragon,Metal Dragon,Dragon,false,17/8,17/8,17/8,4,Baylor
+00-0040957,Xavier Nwankpa,KC,DB,29,2003-12-08,22,Sagittarius,Goat,Water Goat,Goat,false,25/7,16/7,16/7,0,Iowa
+00-0039894,Xavier Worthy,KC,WR,1,2003-04-27,23,Taurus,Goat,Water Goat,Goat,false,36/9,18/9,18/9,2,Texas
+00-0031388,Aaron Donald,LA,DL,99,1991-05-23,35,Gemini,Goat,Metal Goat,Goat,false,48/12/3,30/3,30/3,12,Pittsburgh
+00-0036603,Alaric Jackson,LA,OL,77,1998-07-14,28,Cancer,Tiger,Earth Tiger,Tiger,false,48/12/3,39/12/3,39/12/3,5,Iowa
+00-0039753,Beaux Limmer,LA,OL,50,2001-06-10,25,Gemini,Snake,Metal Snake,Snake,false,19/10/1,10/1,10/1,2,Arkansas
+00-0036093,Bill Murray,LA,OL,66,1997-07-03,29,Cancer,Ox,Fire Ox,Ox,false,36/9,36/9,36/9,6,William & Mary
+00-0039738,Blake Corum,LA,RB,24,2000-11-25,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,38/11,11,11,2,Michigan
+00-0039734,Braden Fiske,LA,DL,55,2000-01-18,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,21/3,12/3,12/3,2,Florida State; Western Michigan
+00-0039137,Byron Young,LA,LB,0,1998-03-13,28,Pisces,Tiger,Earth Tiger,Tiger,false,43/7,34/7,34/7,3,Tennessee
+00-0041399,CJ Daniels,LA,WR,6,2002-01-04,24,Capricorn,Snake,Metal Snake,Horse,true,9,9,9,0,Miami; LSU; Liberty
+00-0036244,Colby Parkinson,LA,TE,84,1999-01-07,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,36/9,36/9,36/9,6,Stanford
+00-0034114,Coleman Shelton,LA,OL,65,1995-07-28,31,Leo,Pig,Wood Pig,Pig,false,59/14/5,41/5,41/5,8,Washington
+00-0031381,Davante Adams,LA,WR,17,1992-12-24,33,Capricorn,Monkey,Water Monkey,Monkey,false,57/12/3,30/3,30/3,12,Fresno State
+00-0030097,David Quessenberry,LA,OL,68,1990-08-24,36,Virgo,Horse,Metal Horse,Horse,false,51/6,33,33,13,San Jose State
+00-0039074,Davis Allen,LA,TE,87,2001-02-03,25,Aquarius,Snake,Metal Snake,Snake,false,8,8,8,3,Clemson
+00-0039061,Desjuan Johnson,LA,LB,94,1999-09-02,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,39/12/3,39/12/3,39/12/3,3,Toledo
+00-0039830,Dylan McMahon,LA,OL,63,2001-01-22,25,Aquarius,Dragon,Metal Dragon,Snake,true,26/8,8,8,2,N.C. State
+00-0039151,Emmanuel Forbes,LA,DB,1,2001-01-13,25,Capricorn,Dragon,Metal Dragon,Snake,true,17/8,8,8,3,Mississippi State
+00-0039059,Ethan Evans,LA,P,42,2001-07-19,25,Cancer,Snake,Metal Snake,Snake,false,29/11,20/2,20/2,3,Wingate
+00-0036672,Grant Stuard,LA,LB,44,1998-10-15,27,Libra,Tiger,Earth Tiger,Tiger,false,52/7,34/7,34/7,5,Houston
+00-0039498,Harrison Mevis,LA,K,92,2002-03-27,24,Aries,Horse,Water Horse,Horse,false,34/7,16/7,16/7,2,Missouri
+00-0039776,Jaylen McCollough,LA,DB,2,2000-10-12,25,Libra,Dragon,Metal Dragon,Dragon,false,24/6,6,6,2,Tennessee
+00-0037195,Jaylen Watson,LA,DB,35,1998-09-17,28,Virgo,Tiger,Earth Tiger,Tiger,false,53/8,44/8,44/8,4,Washington State; Ventura
+00-0032228,Joe Cardona,LA,LS,49,1992-04-16,34,Aries,Monkey,Water Monkey,Monkey,false,41/5,32/5,32/5,11,Navy
+00-0039751,Jordan Whittington,LA,WR,88,2000-10-01,25,Libra,Dragon,Metal Dragon,Dragon,false,13/4,4,4,2,Texas
+00-0040580,Josaiah Stewart,LA,LB,10,2003-04-26,23,Taurus,Goat,Water Goat,Goat,false,35/8,17/8,17/8,1,Michigan; Coastal Carolina
+00-0039772,Josh Wallace,LA,DB,30,2000-07-05,26,Cancer,Dragon,Metal Dragon,Dragon,false,14/5,14/5,14/5,2,Michigan; UMass Amherst
+00-0036349,Kam Curl,LA,DB,3,1999-03-03,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,34/7,34/7,34/7,6,Arkansas
+00-0039834,Kamren Kinchens,LA,DB,5,2002-09-29,23,Libra,Horse,Water Horse,Horse,false,42/6,24/6,24/6,2,Miami
+00-0036339,Kevin Dotson,LA,OL,69,1996-09-18,30,Virgo,Rat,Fire Rat,Rat,false,52/7,43/7,43/7,6,Louisiana-Lafayette
+00-0039138,Kobie Turner,LA,DL,91,1999-04-26,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,58/13/4,40/4,40/4,3,Wake Forest
+00-0040590,Konata Mumpfield,LA,WR,4,2002-10-24,23,Scorpio,Horse,Water Horse,Horse,false,38/11,11,11,1,Pittsburgh; Akron
+00-0037840,Kyren Williams,LA,RB,23,2000-08-26,26,Virgo,Dragon,Metal Dragon,Dragon,false,36/9,18/9,18/9,4,Notre Dame
+00-0026498,Matthew Stafford,LA,QB,9,1988-02-07,38,Aquarius,Rabbit,Fire Rabbit,Dragon,true,35/8,35/8,35/8,17,Georgia
+00-0041510,Max Klare,LA,TE,86,2003-07-08,23,Cancer,Goat,Water Goat,Goat,false,20/2,20/2,20/2,0,Ohio State; Purdue
+00-0037587,Nate Landman,LA,LB,53,1998-11-19,27,Scorpio,Tiger,Earth Tiger,Tiger,false,57/12/3,39/12/3,39/12/3,4,Colorado
+00-0039774,Omar Speights,LA,LB,48,2001-03-02,25,Pisces,Snake,Metal Snake,Snake,false,8,8,8,2,LSU; Oregon State
+00-0034234,Poona Ford,LA,DL,97,1995-11-19,30,Scorpio,Pig,Wood Pig,Pig,false,54/9,36/9,36/9,8,Texas
+00-0039075,Puka Nacua,LA,WR,12,2001-05-29,25,Gemini,Snake,Metal Snake,Snake,false,37/10/1,19/10/1,19/10/1,3,BYU; Washington
+00-0037841,Quentin Lake,LA,DB,37,1999-01-29,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,58/13/4,40/4,40/4,4,UCLA
+00-0037557,Ronnie Rivers,LA,RB,20,1999-01-31,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,60/6,33,33,4,Fresno State
+00-0040613,Shaun Dolac,LA,LB,56,2001-09-14,25,Virgo,Snake,Metal Snake,Snake,false,26/8,17/8,17/8,1,Buffalo
+00-0039107,Stetson Bennett,LA,QB,13,1997-10-28,28,Scorpio,Ox,Fire Ox,Ox,false,64/10/1,37/10/1,37/10/1,3,Georgia; Jones County JC
+00-0039058,Steve Avila,LA,OL,73,1999-10-16,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,54/9,36/9,36/9,3,TCU
+00-0038366,Tanner Ingle,LA,DB,34,1999-10-29,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,67/13/4,40/4,40/4,3,N.C. State
+00-0040737,Terrance Ferguson,LA,TE,18,2003-03-07,23,Pisces,Goat,Water Goat,Goat,false,15/6,15/6,15/6,1,Oregon
+00-0037191,Trent McDuffie,LA,DB,22,2000-09-13,26,Virgo,Dragon,Metal Dragon,Dragon,false,24/6,15/6,15/6,4,Washington
+00-0036849,Tutu Atwell,LA,WR,8,1999-10-07,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,45/9,36/9,36/9,5,Louisville
+00-0040585,Ty Hamilton,LA,DL,57,2002-04-15,24,Aries,Horse,Water Horse,Horse,false,23/5,14/5,14/5,1,Ohio State
+00-0041568,Ty Simpson,LA,QB,15,2002-12-21,23,Sagittarius,Horse,Water Horse,Horse,false,37/10/1,10/1,10/1,0,Alabama
+00-0039749,Tyler Davis,LA,DL,90,2000-11-01,25,Scorpio,Dragon,Metal Dragon,Dragon,false,14/5,5,5,2,Clemson
+00-0033110,Tyler Higbee,LA,TE,89,1993-01-01,33,Capricorn,Monkey,Water Monkey,Rooster,true,24/6,24/6,24/6,10,Western Kentucky
+00-0039077,Warren McClendon Jr.,LA,OL,71,2001-04-11,25,Aries,Snake,Metal Snake,Snake,false,18/9,9,9,3,Georgia
+00-0041404,Wesley Bailey,LA,LB,47,2001-04-26,25,Taurus,Snake,Metal Snake,Snake,false,33,15/6,15/6,0,Louisville; Rutgers
+00-0038359,Xavier Smith,LA,WR,19,1997-09-21,29,Virgo,Ox,Fire Ox,Ox,false,56/11,38/11,38/11,3,Florida A&M
+00-0041544,Akheem Mesidor,LAC,LB,90,2001-04-05,25,Aries,Snake,Metal Snake,Snake,false,12/3,12/3,12/3,0,Miami; West Virginia
+00-0035125,Alec Ingold,LAC,RB,30,1996-07-09,30,Cancer,Rat,Fire Rat,Rat,false,41/5,41/5,41/5,7,Wisconsin
+00-0041550,Brenen Thompson,LAC,WR,89,2003-07-25,23,Leo,Goat,Water Goat,Goat,false,37/10/1,19/10/1,19/10/1,0,Mississippi State; Texas
+00-0032146,Bud Dupree,LAC,LB,48,1993-02-12,33,Aquarius,Rooster,Water Rooster,Rooster,false,36/9,27/9,27/9,11,Kentucky
+00-0039369,Cam Hart,LAC,DB,20,2000-12-05,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,19/10/1,10/1,10/1,2,Notre Dame
+00-0037224,Cameron Dicker,LAC,K,11,2000-05-06,26,Taurus,Dragon,Metal Dragon,Dragon,false,13/4,13/4,13/4,4,Texas
+00-0038046,Charlie Kolar,LAC,TE,88,1999-02-10,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,40/4,31/4,31/4,4,Iowa State
+00-0038103,Cole Strange,LAC,OL,69,1998-07-31,28,Leo,Tiger,Earth Tiger,Tiger,false,65/11,38/11,38/11,4,Tennessee-Chattanooga
+00-0038553,Daiyan Henley,LAC,LB,0,1999-11-18,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,57/12/3,39/12/3,39/12/3,3,Washington State; Nevada
+00-0033546,Dalvin Tomlinson,LAC,DL,94,1994-02-18,32,Aquarius,Dog,Wood Dog,Dog,false,43/7,34/7,34/7,9,Alabama
+00-0033885,David Njoku,LAC,TE,83,1996-07-10,30,Cancer,Rat,Fire Rat,Rat,false,42/6,33,33,9,Miami
+00-0035202,Del'Shawn Phillips,LAC,LB,53,1996-10-09,29,Libra,Rat,Fire Rat,Rat,false,44/8,35/8,35/8,7,Illinois
+00-0038573,Derius Davis,LAC,WR,12,2000-09-11,26,Virgo,Dragon,Metal Dragon,Dragon,false,22,13/4,13/4,3,TCU
+00-0034790,Derwin James,LAC,DB,3,1996-08-03,30,Leo,Rat,Fire Rat,Rat,false,36/9,36/9,36/9,8,Florida State
+00-0034356,Donte Jackson,LAC,DB,26,1995-11-08,30,Scorpio,Pig,Wood Pig,Pig,false,43/7,34/7,34/7,8,LSU
+00-0035589,Gary Jennings,LAC,WR,87,1997-03-07,29,Pisces,Ox,Fire Ox,Ox,false,36/9,36/9,36/9,7,West Virginia
+00-0041064,Genesis Smith,LAC,DB,22,2004-11-05,21,Scorpio,Monkey,Wood Monkey,Monkey,false,22,13/4,13/4,0,Arizona
+00-0034162,J.K. Scott,LAC,P,16,1995-10-30,30,Scorpio,Pig,Wood Pig,Pig,false,64/10/1,28/10/1,28/10/1,8,Alabama
+00-0041383,Jacob Spomer,LAC,OL,60,2001-01-24,25,Aquarius,Snake,Metal Snake,Snake,false,28/10/1,10/1,10/1,0,Fresno State; Diablo Valley College
+00-0041392,Jake Slaughter,LAC,OL,66,2002-12-19,23,Sagittarius,Horse,Water Horse,Horse,false,35/8,17/8,17/8,0,Florida
+00-0040144,Jamaree Caldwell,LAC,DL,99,2000-08-30,26,Virgo,Dragon,Metal Dragon,Dragon,false,40/4,13/4,13/4,1,Oregon; Houston; Independence Comm. College
+00-0039897,Joe Alt,LAC,OL,76,2003-02-28,23,Pisces,Goat,Water Goat,Goat,false,35/8,17/8,17/8,2,Notre Dame
+00-0028845,Josh Harris,LAC,LS,47,1989-04-27,37,Taurus,Snake,Earth Snake,Snake,false,58/13/4,40/4,40/4,14,Auburn
+00-0039835,Justin Eboigbe,LAC,DL,92,2001-04-09,25,Aries,Snake,Metal Snake,Snake,false,16/7,16/7,16/7,2,Alabama
+00-0036355,Justin Herbert,LAC,QB,10,1998-03-10,28,Pisces,Tiger,Earth Tiger,Tiger,false,40/4,31/4,31/4,6,Oregon
+00-0036736,Kayode Awosika,LAC,OL,74,1998-10-27,27,Scorpio,Tiger,Earth Tiger,Tiger,false,64/10/1,37/10/1,37/10/1,5,Buffalo
+00-0038454,Keaton Mitchell,LAC,RB,34,2002-01-17,24,Capricorn,Snake,Metal Snake,Horse,true,22,13/4,13/4,3,East Carolina
+00-0038414,Kendall Williamson,LAC,DB,32,2000-08-24,26,Virgo,Dragon,Metal Dragon,Dragon,false,34/7,16/7,16/7,3,Stanford
+00-0031040,Khalil Mack,LAC,LB,52,1991-02-22,35,Pisces,Goat,Metal Goat,Goat,false,44/8,26/8,26/8,12,Buffalo
+00-0039391,Kimani Vidal,LAC,RB,28,2001-08-28,25,Virgo,Snake,Metal Snake,Snake,false,39/12/3,21/3,21/3,2,Troy
+00-0039915,Ladd McConkey,LAC,WR,15,2001-11-11,24,Scorpio,Snake,Metal Snake,Snake,false,25/7,7,7,2,Georgia
+00-0040460,Marlowe Wax,LAC,LB,58,2002-12-13,23,Sagittarius,Horse,Water Horse,Horse,false,29/11,11,11,1,Syracuse
+00-0041072,Nick Barrett,LAC,DL,91,2003-07-28,23,Leo,Goat,Water Goat,Goat,false,40/4,22,22,0,South Carolina
+00-0040666,Omarion Hampton,LAC,RB,8,2003-03-16,23,Pisces,Goat,Water Goat,Goat,false,24/6,15/6,15/6,1,North Carolina
+00-0040189,Oronde Gadsden II,LAC,TE,86,2003-06-25,23,Cancer,Goat,Water Goat,Goat,false,36/9,18/9,18/9,1,Syracuse
+00-0038544,Quentin Johnston,LAC,WR,1,2001-09-06,25,Virgo,Snake,Metal Snake,Snake,false,18/9,18/9,18/9,3,TCU
+00-0040221,R.J. Mickens,LAC,DB,27,2001-07-10,25,Cancer,Snake,Metal Snake,Snake,false,20/2,11,11,1,Clemson
+00-0037009,Rashawn Slater,LAC,OL,70,1999-03-26,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,57/12/3,39/12/3,39/12/3,5,Northwestern
+00-0041381,Rodney Shelley,LAC,DB,24,2002-08-14,24,Leo,Horse,Water Horse,Horse,false,26/8,17/8,17/8,0,Georgia Tech
+00-0039366,Tarheeb Still,LAC,DB,4,2002-06-09,24,Gemini,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,2,Maryland
+00-0036181,Teair Tart,LAC,DL,93,1997-02-28,29,Pisces,Ox,Fire Ox,Ox,false,56/11,38/11,38/11,6,Florida International
+00-0030294,Tony Jefferson,LAC,DB,23,1992-01-27,34,Aquarius,Goat,Metal Goat,Monkey,true,49/13/4,31/4,31/4,13,Oklahoma
+00-0041058,Travis Burke,LAC,OL,77,2003-01-06,23,Capricorn,Horse,Water Horse,Goat,true,12/3,12/3,12/3,0,Memphis; Florida International; Gardner-Webb
+00-0040727,Tre Harris,LAC,WR,9,2002-02-28,24,Pisces,Horse,Water Horse,Horse,false,34/7,16/7,16/7,1,Mississippi; Louisiana Tech
+00-0037241,Trevor Penning,LAC,OL,75,1999-05-15,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,48/12/3,39/12/3,39/12/3,4,Northern Iowa
+00-0037012,Trey Lance,LAC,QB,5,2000-05-09,26,Taurus,Dragon,Metal Dragon,Dragon,false,16/7,16/7,16/7,5,North Dakota State
+00-0036338,Troy Dye,LAC,LB,43,1996-09-18,30,Virgo,Rat,Fire Rat,Rat,false,52/7,43/7,43/7,6,Oregon
+00-0039111,Tuli Tuipulotu,LAC,LB,45,2002-09-03,24,Virgo,Horse,Water Horse,Horse,false,16/7,16/7,16/7,3,USC
+00-0033381,Adam Butler,LV,DL,69,1994-04-12,32,Aries,Dog,Wood Dog,Dog,false,39/12/3,30/3,30/3,9,Vanderbilt
+00-0035190,AJ Cole,LV,P,6,1995-11-27,30,Sagittarius,Pig,Wood Pig,Pig,false,62/8,35/8,35/8,7,N.C. State
+00-0038360,Alex Ward,LV,LS,47,1999-04-21,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,53/8,35/8,35/8,3,UCF
+00-0040122,Ashton Jeanty,LV,RB,2,2003-12-02,22,Sagittarius,Goat,Water Goat,Goat,false,19/10/1,10/1,10/1,1,Boise State
+00-0040150,Caleb Rogers,LV,OL,76,2001-10-03,24,Libra,Snake,Metal Snake,Snake,false,16/7,7,7,1,Texas Tech
+00-0040151,Charles Grant,LV,OL,60,2002-03-22,24,Aries,Horse,Water Horse,Horse,false,29/11,11,11,1,William & Mary
+00-0035345,Chris Myarick,LV,TE,41,1995-10-06,30,Libra,Pig,Wood Pig,Pig,false,40/4,31/4,31/4,7,Temple
+00-0040228,Cody Lindenberg,LV,LB,55,2002-01-15,24,Capricorn,Snake,Metal Snake,Horse,true,20/2,11,11,1,Minnesota
+00-0035891,Cody White,LV,WR,82,1998-11-28,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,66/12/3,39/12/3,39/12/3,6,Michigan State
+00-0037304,Connor Heyward,LV,RB,34,1999-01-22,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,51/6,33,33,4,Michigan State
+00-0037093,Dareke Young,LV,WR,81,1999-06-04,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,38/11,38/11,38/11,4,Lenoir Rhyne
+00-0038594,Darrell Luter Jr.,LV,DB,25,2000-04-24,26,Taurus,Dragon,Metal Dragon,Dragon,false,30/3,12/3,12/3,3,South Alabama
+00-0039349,DJ Glaze,LV,OL,71,2002-08-04,24,Leo,Horse,Water Horse,Horse,false,16/7,16/7,16/7,2,Maryland
+00-0039407,Dylan Laube,LV,RB,23,1999-12-14,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,54/9,36/9,36/9,2,New Hampshire
+00-0036901,Eric Stokes,LV,DB,5,1999-03-01,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,32/5,32/5,32/5,5,Georgia
+00-0041562,Fernando Mendoza,LV,QB,15,2003-10-01,22,Libra,Goat,Water Goat,Goat,false,16/7,7,7,0,Indiana; California
+00-0034275,Foley Fatukasi,LV,DL,94,1995-03-04,31,Pisces,Pig,Wood Pig,Pig,false,31/4,31/4,31/4,8,Connecticut
+00-0040889,Hezekiah Masses,LV,DB,35,2004-06-30,22,Cancer,Monkey,Wood Monkey,Monkey,false,42/6,15/6,15/6,0,California; Florida International
+00-0034365,Ian Thomas,LV,TE,80,1996-06-06,30,Gemini,Rat,Fire Rat,Rat,false,37/10/1,37/10/1,37/10/1,8,Indiana; Nassau CC
+00-0037512,Isaiah Pola-Mao,LV,DB,20,1999-06-30,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,64/10/1,37/10/1,37/10/1,4,USC
+00-0040729,Jack Bech,LV,WR,18,2002-12-18,23,Sagittarius,Horse,Water Horse,Horse,false,34/7,16/7,16/7,1,TCU; LSU
+00-0039735,Jackson Powers-Johnson,LV,OL,58,2003-01-23,23,Aquarius,Horse,Water Horse,Goat,true,29/11,11,11,2,Oregon
+00-0037291,Jalen Nailor,LV,WR,9,1999-03-02,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,33,33,33,4,Michigan State
+00-0036293,Jeremy Chinn,LV,DB,11,1998-02-26,28,Pisces,Tiger,Earth Tiger,Tiger,false,55/10/1,37/10/1,37/10/1,6,Southern Illinois
+00-0041563,Jermod McCoy,LV,DB,28,2005-08-16,21,Leo,Rooster,Wood Rooster,Rooster,false,31/4,22,22,0,Tennessee; Oregon State
+00-0039423,Jonah Laulu,LV,DL,96,2000-06-30,26,Cancer,Dragon,Metal Dragon,Dragon,false,38/11,11,11,2,Oklahoma; Hawaii
+00-0029604,Kirk Cousins,LV,QB,8,1988-08-19,38,Leo,Dragon,Earth Dragon,Dragon,false,53/8,44/8,44/8,14,Michigan State
+00-0034759,Kolton Miller,LV,OL,74,1995-10-09,30,Libra,Pig,Wood Pig,Pig,false,43/7,34/7,34/7,8,UCLA
+00-0036479,Kwity Paye,LV,DL,95,1998-11-19,27,Scorpio,Tiger,Earth Tiger,Tiger,false,57/12/3,39/12/3,39/12/3,5,Michigan
+00-0036989,Malcolm Koonce,LV,DL,51,1998-06-06,28,Gemini,Tiger,Earth Tiger,Tiger,false,39/12/3,39/12/3,39/12/3,5,Buffalo
+00-0040894,Malik Benson,LV,WR,19,2002-10-17,23,Libra,Horse,Water Horse,Horse,false,31/4,13/4,13/4,0,Oregon; Florida State; Alabama; Hutchinson CC
+00-0035269,Matt Gay,LV,K,14,1994-03-15,32,Pisces,Dog,Wood Dog,Dog,false,41/5,32/5,32/5,7,Utah; Utah Valley
+00-0034973,Maxx Crosby,LV,DL,98,1997-08-22,29,Leo,Ox,Fire Ox,Ox,false,56/11,38/11,38/11,7,Eastern Michigan
+00-0039066,Michael Mayer,LV,TE,87,2001-07-06,25,Cancer,Snake,Metal Snake,Snake,false,16/7,16/7,16/7,3,Notre Dame
+00-0040878,Mike Washington Jr.,LV,RB,4,2003-07-03,23,Cancer,Goat,Water Goat,Goat,false,15/6,15/6,15/6,0,Arkansas; New Mexico State; Buffalo
+00-0037615,Nakobe Dean,LV,LB,17,2000-12-13,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,27/9,9,9,4,Georgia
+00-0036922,Patrick Johnson,LV,LB,93,1998-01-10,28,Capricorn,Ox,Fire Ox,Tiger,true,38/11,29/11,29/11,5,Tulane
+00-0037074,Quay Walker,LV,LB,7,2000-05-08,26,Taurus,Dragon,Metal Dragon,Dragon,false,15/6,15/6,15/6,4,Georgia
+00-0037527,Segun Olubi,LV,LB,50,1999-11-01,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,40/4,31/4,31/4,4,San Diego State
+00-0037829,Spencer Burford,LV,OL,70,2000-07-19,26,Cancer,Dragon,Metal Dragon,Dragon,false,28/10/1,19/10/1,19/10/1,4,Texas-San Antonio
+00-0034376,Taron Johnson,LV,DB,3,1996-07-27,30,Leo,Rat,Fire Rat,Rat,false,59/14/5,41/5,41/5,8,Weber State
+00-0037262,Thomas Booker,LV,DL,99,1999-11-11,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,50/5,32/5,32/5,4,Stanford
+00-0039374,Tommy Eichenberg,LV,LB,44,2001-01-11,25,Capricorn,Dragon,Metal Dragon,Snake,true,15/6,6,6,2,Ohio State
+00-0040169,Tonka Hemingway,LV,DL,97,2001-10-31,24,Scorpio,Snake,Metal Snake,Snake,false,44/8,8,8,1,South Carolina
+00-0038563,Tre Tucker,LV,WR,1,2001-03-08,25,Pisces,Snake,Metal Snake,Snake,false,14/5,14/5,14/5,3,Cincinnati
+00-0040871,Trey Zuhn III,LV,OL,66,2002-10-12,23,Libra,Horse,Water Horse,Horse,false,26/8,8,8,0,Texas A&M
+00-0040868,Treydan Stukes,LV,DB,31,2001-09-11,25,Virgo,Snake,Metal Snake,Snake,false,23/5,14/5,14/5,0,Arizona
+00-0037825,Tyler Linderbaum,LV,OL,65,2000-04-07,26,Aries,Dragon,Metal Dragon,Dragon,false,13/4,13/4,13/4,4,Iowa
+00-0036171,Aaron Brewer,MIA,OL,55,1997-10-28,28,Scorpio,Ox,Fire Ox,Ox,false,64/10/1,37/10/1,37/10/1,6,Texas State-San Marcos
+00-0039485,Andrew Meyer,MIA,OL,60,2000-01-14,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,17/8,8,8,2,Texas-El Paso
+00-0036248,Austin Jackson,MIA,OL,73,1999-08-11,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,47/11,38/11,38/11,6,USC
+00-0032065,Bradley Pinion,MIA,P,48,1994-06-01,32,Gemini,Dog,Wood Dog,Dog,false,30/3,30/3,30/3,11,Clemson
+00-0039863,Caedan Wallace,MIA,OL,77,2000-04-18,26,Aries,Dragon,Metal Dragon,Dragon,false,24/6,15/6,15/6,2,Penn State; West Virginia
+00-0041523,Caleb Douglas,MIA,WR,7,2003-09-09,23,Virgo,Goat,Water Goat,Goat,false,23/5,23/5,23/5,0,Texas Tech; Florida
+00-0041525,Chris Bell,MIA,WR,18,2004-06-07,22,Gemini,Monkey,Wood Monkey,Monkey,false,19/10/1,19/10/1,19/10/1,0,Louisville
+00-0041533,Chris Johnson,MIA,DB,3,2004-11-09,21,Scorpio,Monkey,Wood Monkey,Monkey,false,26/8,17/8,17/8,0,San Diego State
+00-0035692,Clelin Ferrell,MIA,DL,98,1997-05-17,29,Taurus,Ox,Fire Ox,Ox,false,48/12/3,39/12/3,39/12/3,7,Clemson
+00-0040182,Dante Trader Jr.,MIA,DB,11,2003-02-13,23,Aquarius,Goat,Water Goat,Goat,false,20/2,11,11,1,Maryland
+00-0039040,De'Von Achane,MIA,RB,28,2001-10-13,24,Libra,Snake,Metal Snake,Snake,false,26/8,8,8,3,Texas A&M
+00-0041436,DJ Herman,MIA,RB,34,2002-03-17,24,Pisces,Horse,Water Horse,Horse,false,24/6,15/6,15/6,0,San Diego State
+00-0037252,Greg Dulcich,MIA,TE,85,2000-03-26,26,Aries,Dragon,Metal Dragon,Dragon,false,31/4,13/4,13/4,4,UCLA
+00-0040066,Jackson Woodard,MIA,LB,42,2002-07-02,24,Cancer,Horse,Water Horse,Horse,false,13/4,13/4,13/4,1,UNLV; Arkansas
+00-0041522,Jacob Rodriguez,MIA,LB,10,2002-09-06,24,Virgo,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,0,Texas Tech; Virginia
+00-0039832,Jarrett Kingston,MIA,OL,62,1999-12-02,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,42/6,33,33,2,USC; Washington State
+00-0040178,Jason Marshall Jr.,MIA,DB,4,2002-09-06,24,Virgo,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,1,Florida
+00-0039874,Jaylen Wright,MIA,RB,5,2003-04-01,23,Aries,Goat,Water Goat,Goat,false,10/1,10/1,10/1,2,Tennessee
+00-0039383,Jaylin Simpson,MIA,DB,32,2000-03-17,26,Pisces,Dragon,Metal Dragon,Dragon,false,22,13/4,13/4,2,Auburn
+00-0040742,Jonah Savaiinaea,MIA,OL,71,2004-01-13,22,Capricorn,Goat,Water Goat,Monkey,true,20/2,11,11,1,Arizona
+00-0040175,Jordan Phillips,MIA,DL,94,2004-06-30,22,Cancer,Monkey,Wood Monkey,Monkey,false,42/6,15/6,15/6,1,Maryland; Tennessee
+00-0036409,Jordyn Brooks,MIA,LB,20,1997-10-21,28,Libra,Ox,Fire Ox,Ox,false,57/12/3,30/3,30/3,6,Texas Tech
+00-0036159,Joshua Uche,MIA,LB,9,1998-09-18,28,Virgo,Tiger,Earth Tiger,Tiger,false,54/9,45/9,45/9,6,Michigan
+00-0039156,Julius Brents,MIA,DB,8,2000-01-18,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,21/3,12/3,12/3,3,Kansas State
+00-0039532,Julius Wood,MIA,DB,25,2001-05-02,25,Taurus,Snake,Metal Snake,Snake,false,10/1,10/1,10/1,2,East Carolina; Blinn College
+00-0041521,Kadyn Proctor,MIA,OL,74,2005-06-04,21,Gemini,Rooster,Wood Rooster,Rooster,false,17/8,17/8,17/8,0,Alabama
+00-0040655,Keith Cooper Jr.,MIA,DL,97,2003-03-30,23,Aries,Goat,Water Goat,Goat,false,38/11,11,11,1,Houston; Tulane
+00-0041529,Kevin Coleman Jr.,MIA,WR,21,2003-09-10,23,Virgo,Goat,Water Goat,Goat,false,24/6,15/6,15/6,0,Missouri; Mississippi State; Louisville; Jackson State University
+00-0040014,Kyle McCord,MIA,QB,14,2002-09-19,24,Virgo,Horse,Water Horse,Horse,false,32/5,23/5,23/5,1,Syracuse; Ohio State
+00-0038429,Liam Anderson,MIA,LB,50,2000-04-30,26,Taurus,Dragon,Metal Dragon,Dragon,false,36/9,9,9,3,Holy Cross
+00-0036682,Malik Herring,MIA,DL,90,1997-11-09,28,Scorpio,Ox,Fire Ox,Ox,false,46/10/1,37/10/1,37/10/1,5,Georgia
+00-0039880,Malik Washington,MIA,WR,6,2000-10-20,25,Libra,Dragon,Metal Dragon,Dragon,false,32/5,5,5,2,Virginia; Northwestern
+00-0038128,Malik Willis,MIA,QB,2,1999-05-25,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,58/13/4,40/4,40/4,4,Liberty; Auburn
+00-0041531,Max Llewellyn,MIA,DL,57,2002-08-16,24,Leo,Horse,Water Horse,Horse,false,28/10/1,19/10/1,19/10/1,0,Iowa
+00-0041528,Michael Taaffe,MIA,DB,16,2003-02-18,23,Aquarius,Goat,Water Goat,Goat,false,25/7,16/7,16/7,0,Texas
+00-0040198,Ollie Gordon II,MIA,RB,0,2004-01-15,22,Capricorn,Goat,Water Goat,Monkey,true,22,13/4,13/4,1,Oklahoma State
+00-0039899,Patrick Paul,MIA,OL,52,2001-11-01,24,Scorpio,Snake,Metal Snake,Snake,false,15/6,6,6,2,Houston
+00-0038521,Reese Taylor,MIA,DB,35,1999-08-27,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,63/9,45/9,45/9,3,Purdue
+00-0036816,Riley Patterson,MIA,K,47,1999-09-07,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,44/8,44/8,44/8,5,Memphis
+00-0038603,Rob Beal Jr.,MIA,DL,51,1999-08-18,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,54/9,45/9,45/9,3,Georgia
+00-0038824,Ryan Miller,MIA,WR,84,2000-02-20,26,Pisces,Dragon,Metal Dragon,Dragon,false,24/6,6,6,3,Furman
+00-0041579,Seydou Traore,MIA,TE,83,2002-08-12,24,Leo,Horse,Water Horse,Horse,false,24/6,15/6,15/6,0,Mississippi State; Arkansas State
+00-0037686,Tucker Addington,MIA,LS,46,1997-07-16,29,Cancer,Ox,Fire Ox,Ox,false,49/13/4,40/4,40/4,5,Sam Houston State
+00-0041524,Will Kacmarek,MIA,TE,89,2003-02-12,23,Aquarius,Goat,Water Goat,Goat,false,19/10/1,10/1,10/1,0,Ohio State; Ohio
+00-0036362,Willie Gay Jr.,MIA,LB,40,1998-02-15,28,Aquarius,Tiger,Earth Tiger,Tiger,false,44/8,35/8,35/8,6,Mississippi State
+00-0034285,Zach Sieler,MIA,DL,92,1995-09-07,31,Virgo,Pig,Wood Pig,Pig,false,40/4,40/4,40/4,8,Ferris State
+00-0036677,Zayne Anderson,MIA,DB,23,1997-01-03,29,Capricorn,Rat,Fire Rat,Ox,true,30/3,30/3,30/3,5,BYU
+00-0040248,Zeek Biggers,MIA,DL,93,2003-10-04,22,Libra,Goat,Water Goat,Goat,false,19/10/1,10/1,10/1,1,Georgia Tech
+00-0033293,Aaron Jones,MIN,RB,33,1994-12-02,31,Sagittarius,Dog,Wood Dog,Dog,false,37/10/1,28/10/1,28/10/1,9,Texas-El Paso
+00-0029714,Andrew DePaola,MIN,LS,42,1987-07-28,39,Leo,Rabbit,Fire Rabbit,Rabbit,false,60/6,42/6,42/6,14,Rutgers
+00-0035272,Andrew Van Ginkel,MIN,LB,43,1995-07-01,31,Cancer,Pig,Wood Pig,Pig,false,32/5,32/5,32/5,7,Wisconsin; Iowa Western CC; South Dakota
+00-0036347,Blake Brandel,MIN,OL,64,1997-01-23,29,Aquarius,Rat,Fire Rat,Ox,true,50/5,32/5,32/5,6,Oregon State
+00-0035276,Blake Cashman,MIN,LB,51,1996-05-10,30,Taurus,Rat,Fire Rat,Rat,false,40/4,31/4,31/4,7,Minnesota
+00-0039718,Bo Richter,MIN,LB,98,2000-08-13,26,Leo,Dragon,Metal Dragon,Dragon,false,23/5,14/5,14/5,2,Air Force
+00-0041581,Brett Thorson,MIN,P,19,2000-01-06,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,9,9,9,0,Georgia
+00-0034158,Brian O'Neill,MIN,OL,75,1995-09-15,31,Virgo,Pig,Wood Pig,Pig,false,48/12/3,39/12/3,39/12/3,8,Pittsburgh
+00-0035236,Byron Murphy,MIN,DB,7,1998-01-18,28,Capricorn,Ox,Fire Ox,Tiger,true,46/10/1,37/10/1,37/10/1,7,Washington
+00-0041033,Caleb Banks,MIN,DL,95,2003-03-12,23,Pisces,Goat,Water Goat,Goat,false,20/2,11,11,0,Florida; Louisville
+00-0032950,Carson Wentz,MIN,QB,11,1992-12-30,33,Capricorn,Monkey,Water Monkey,Monkey,false,63/9,27/9,27/9,10,North Dakota State
+00-0041083,Charles Demmings,MIN,DB,20,2003-04-05,23,Aries,Goat,Water Goat,Goat,false,14/5,14/5,14/5,0,Stephen F. Austin State
+00-0040496,Chaz Chambliss,MIN,LB,32,2002-10-25,23,Scorpio,Horse,Water Horse,Horse,false,39/12/3,12/3,12/3,1,Georgia
+00-0036616,Christian Darrisaw,MIN,OL,71,1999-06-02,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,36/9,36/9,36/9,5,Virginia Tech
+00-0039924,Dallas Turner,MIN,LB,15,2003-02-02,23,Aquarius,Goat,Water Goat,Goat,false,9,9,9,2,Alabama
+00-0036425,DeeJay Dallas,MIN,RB,31,1998-09-16,28,Virgo,Tiger,Earth Tiger,Tiger,false,52/7,43/7,43/7,6,Miami
+00-0041104,Demond Claiborne,MIN,RB,21,2003-10-09,22,Libra,Goat,Water Goat,Goat,false,24/6,15/6,15/6,0,Wake Forest
+00-0041342,Dillon Bell,MIN,WR,89,2003-11-06,22,Scorpio,Goat,Water Goat,Goat,false,22,13/4,13/4,0,Georgia
+00-0041046,Domonique Orange,MIN,DL,97,2004-03-11,22,Pisces,Monkey,Wood Monkey,Monkey,false,20/2,11,11,0,Iowa State
+00-0040661,Donovan Jackson,MIN,OL,74,2002-12-04,23,Sagittarius,Horse,Water Horse,Horse,false,20/2,11,11,1,Ohio State
+00-0033336,Eric Wilson,MIN,LB,55,1994-09-26,31,Libra,Dog,Wood Dog,Dog,false,58/13/4,40/4,40/4,9,Cincinnati; Northwestern
+00-0040215,Gavin Bartholomew,MIN,TE,86,2003-04-30,23,Taurus,Goat,Water Goat,Goat,false,39/12/3,12/3,12/3,1,Pittsburgh
+00-0029606,Harrison Smith,MIN,DB,22,1989-02-02,37,Aquarius,Dragon,Earth Dragon,Snake,true,31/4,31/4,31/4,14,Notre Dame
+00-0036222,Isaiah Rodgers,MIN,DB,2,1998-01-07,28,Capricorn,Ox,Fire Ox,Tiger,true,35/8,35/8,35/8,6,UMass Amherst
+00-0038807,Ivan Pace Jr.,MIN,LB,0,2000-12-16,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,30/3,12/3,12/3,3,Cincinnati; Miami (Ohio)
+00-0039923,J.J. McCarthy,MIN,QB,9,2003-01-20,23,Aquarius,Horse,Water Horse,Goat,true,26/8,8,8,2,Michigan
+00-0041354,Jacob Thomas,MIN,DB,29,2004-05-30,22,Gemini,Monkey,Wood Monkey,Monkey,false,41/5,14/5,14/5,0,James Madison
+00-0041495,Jake Golday,MIN,LB,41,2003-05-23,23,Gemini,Goat,Water Goat,Goat,false,33,15/6,15/6,0,Cincinnati; Central Arkansas
+00-0038778,Jalen Redmond,MIN,DL,61,1999-03-12,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,43/7,34/7,34/7,3,Oklahoma
+00-0035795,James Pierre,MIN,DB,23,1996-09-16,30,Virgo,Rat,Fire Rat,Rat,false,50/5,41/5,41/5,6,Florida Atlantic
+00-0038578,Jay Ward,MIN,DB,24,2000-07-13,26,Cancer,Dragon,Metal Dragon,Dragon,false,22,13/4,13/4,3,LSU
+00-0040500,Joe Huber,MIN,OL,60,2002-05-02,24,Taurus,Horse,Water Horse,Horse,false,11,11,11,1,Wisconsin
+00-0038994,Jordan Addison,MIN,WR,3,2002-01-27,24,Aquarius,Snake,Metal Snake,Horse,true,32/5,14/5,14/5,3,USC; Pittsburgh
+00-0036348,Josh Metellus,MIN,DB,44,1998-01-21,28,Aquarius,Ox,Fire Ox,Tiger,true,49/13/4,31/4,31/4,6,Michigan
+00-0035249,Josh Oliver,MIN,TE,84,1997-03-21,29,Aries,Ox,Fire Ox,Ox,false,50/5,32/5,32/5,7,San Jose State
+00-0036322,Justin Jefferson,MIN,WR,18,1999-06-16,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,50/5,41/5,41/5,6,LSU
+00-0031360,Kyle Van Noy,MIN,LB,17,1991-03-26,35,Aries,Goat,Metal Goat,Goat,false,49/13/4,31/4,31/4,12,BYU
+00-0039421,Levi Drake Rodriguez,MIN,DL,50,2000-08-04,26,Leo,Dragon,Metal Dragon,Dragon,false,14/5,14/5,14/5,2,East Texas A&M
+00-0041081,Max Bredeson,MIN,RB,45,2002-10-04,23,Libra,Horse,Water Horse,Horse,false,18/9,9,9,0,Michigan
+00-0040506,Myles Price,MIN,WR,4,2001-12-16,24,Sagittarius,Snake,Metal Snake,Snake,false,31/4,13/4,13/4,1,Indiana; Texas Tech
+00-0037404,Ryan Van Demark,MIN,OL,72,1998-03-22,28,Aries,Tiger,Earth Tiger,Tiger,false,52/7,34/7,34/7,4,Connecticut
+00-0035229,T.J. Hockenson,MIN,TE,87,1997-07-03,29,Cancer,Ox,Fire Ox,Ox,false,36/9,36/9,36/9,7,Iowa
+00-0040154,Tai Felton,MIN,WR,13,2003-03-15,23,Pisces,Goat,Water Goat,Goat,false,23/5,14/5,14/5,1,Maryland
+00-0037301,Theo Jackson,MIN,DB,26,1998-10-02,27,Libra,Tiger,Earth Tiger,Tiger,false,39/12/3,30/3,30/3,4,Tennessee
+00-0039310,Trevor Keegan,MIN,OL,69,2000-08-30,26,Virgo,Dragon,Metal Dragon,Dragon,false,40/4,13/4,13/4,2,Michigan
+00-0040173,Tyrion Ingram-Dawkins,MIN,DL,90,2003-06-26,23,Cancer,Goat,Water Goat,Goat,false,37/10/1,19/10/1,19/10/1,1,Georgia
+00-0036483,Will Fries,MIN,OL,76,1998-04-04,28,Aries,Tiger,Earth Tiger,Tiger,false,35/8,35/8,35/8,5,Penn State
+00-0039404,Will Reichard,MIN,K,16,2001-01-09,25,Capricorn,Dragon,Metal Dragon,Snake,true,13/4,13/4,13/4,2,Alabama
+00-0036979,Alijah Vera-Tucker,NE,OL,75,1999-06-17,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,51/6,42/6,42/6,5,USC
+00-0040200,Andy Borregales,NE,K,8,2003-01-02,23,Capricorn,Horse,Water Horse,Goat,true,8,8,8,1,Miami
+00-0037413,Ben Brown,NE,OL,77,1998-05-19,28,Taurus,Tiger,Earth Tiger,Tiger,false,51/6,42/6,42/6,4,Mississippi
+00-0041541,Caleb Lomu,NE,OL,74,2004-12-23,21,Capricorn,Monkey,Wood Monkey,Monkey,false,41/5,14/5,14/5,0,Utah
+00-0038564,Cameron Latu,NE,TE,36,2000-02-24,26,Pisces,Dragon,Metal Dragon,Dragon,false,28/10/1,10/1,10/1,3,Alabama
+00-0041316,Channing Canada,NE,DB,29,2002-08-17,24,Leo,Horse,Water Horse,Horse,false,29/11,20/2,20/2,0,TCU; Trinity Valley CC
+00-0039770,Charles Woods,NE,DB,22,2000-06-17,26,Gemini,Dragon,Metal Dragon,Dragon,false,25/7,16/7,16/7,2,SMU; West Virginia; Illinois State
+00-0036981,Christian Barmore,NE,DL,90,1999-07-28,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,63/9,45/9,45/9,5,Alabama
+00-0036813,Christian Elliss,NE,LB,53,1999-01-02,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,31/4,31/4,31/4,5,Idaho
+00-0039147,Christian Gonzalez,NE,DB,0,2002-06-28,24,Cancer,Horse,Water Horse,Horse,false,38/11,20/2,20/2,3,Oregon
+00-0040556,Corey Kiner,NE,RB,9,2002-01-21,24,Aquarius,Snake,Metal Snake,Horse,true,26/8,8,8,1,Cincinnati; LSU
+00-0038653,Cory Durden,NE,DL,94,1999-01-26,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,55/10/1,37/10/1,37/10/1,3,N.C. State; Florida State
+00-0040716,Craig Woodson,NE,DB,4,2001-02-20,25,Pisces,Snake,Metal Snake,Snake,false,25/7,7,7,1,California
+00-0031054,DaQuan Jones,NE,DL,99,1991-12-27,34,Capricorn,Goat,Metal Goat,Goat,false,59/14/5,32/5,32/5,12,Penn State
+00-0039829,Darius Muasau,NE,LB,54,2001-02-10,25,Aquarius,Snake,Metal Snake,Snake,false,15/6,6,6,2,UCLA; Hawaii
+00-0039692,Dell Pettus,NE,DB,24,2001-06-02,25,Gemini,Snake,Metal Snake,Snake,false,11,11,11,2,Troy
+00-0038621,DeMario Douglas,NE,WR,3,2000-12-08,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,22,13/4,13/4,3,Liberty
+00-0039851,Drake Maye,NE,QB,10,2002-08-30,24,Virgo,Horse,Water Horse,Horse,false,42/6,15/6,15/6,2,North Carolina
+00-0035678,Dre'Mont Jones,NE,LB,5,1997-01-05,29,Capricorn,Rat,Fire Rat,Ox,true,32/5,32/5,32/5,7,Ohio State
+00-0040563,Efton Chism III,NE,WR,86,2001-10-26,24,Scorpio,Snake,Metal Snake,Snake,false,39/12/3,12/3,12/3,1,Eastern Washington
+00-0041395,Eli Raridon,NE,TE,82,2004-02-12,22,Aquarius,Monkey,Wood Monkey,Monkey,false,20/2,11,11,0,Notre Dame
+00-0040574,Elijah Ponder,NE,LB,91,2002-08-29,24,Virgo,Horse,Water Horse,Horse,false,41/5,23/5,23/5,1,Cal Poly (San Luis Obispo)
+00-0041455,Erick Hunter,NE,LB,49,2003-02-26,23,Pisces,Goat,Water Goat,Goat,false,33,15/6,15/6,0,Morgan State
+00-0041569,Gabe Jacas,NE,LB,50,2004-05-27,22,Gemini,Monkey,Wood Monkey,Monkey,false,38/11,20/2,20/2,0,Illinois
+00-0029685,Greg Van Roten,NE,OL,70,1990-02-26,36,Pisces,Horse,Metal Horse,Horse,false,47/11,29/11,29/11,14,Penn
+00-0033090,Hunter Henry,NE,TE,85,1994-12-07,31,Sagittarius,Dog,Wood Dog,Dog,false,42/6,33,33,10,Arkansas
+00-0040147,Jared Wilson,NE,OL,55,2003-06-05,23,Gemini,Goat,Water Goat,Goat,false,16/7,16/7,16/7,1,Georgia
+00-0040204,Jaylen Reed,NE,DB,23,2003-01-29,23,Aquarius,Horse,Water Horse,Goat,true,35/8,17/8,17/8,1,Penn State
+00-0040171,Joshua Farmer,NE,DL,92,2003-01-17,23,Capricorn,Horse,Water Horse,Goat,true,23/5,14/5,14/5,1,Florida State
+00-0040246,Julian Ashby,NE,LS,47,2002-07-08,24,Cancer,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,1,Vanderbilt; Furman
+00-0041088,Karon Prunty,NE,DB,21,2001-12-24,24,Capricorn,Snake,Metal Snake,Snake,false,39/12/3,12/3,12/3,0,Wake Forest
+00-0033132,Kevin Byard,NE,DB,31,1993-08-17,33,Leo,Rooster,Water Rooster,Rooster,false,47/11,38/11,38/11,10,Middle Tennessee State
+00-0040131,Kyle Williams,NE,WR,18,2002-11-13,23,Scorpio,Horse,Water Horse,Horse,false,28/10/1,10/1,10/1,1,Washington State
+00-0033555,Mack Hollins,NE,WR,13,1993-09-16,33,Virgo,Rooster,Water Rooster,Rooster,false,47/11,38/11,38/11,9,North Carolina
+00-0037253,Marcus Jones,NE,DB,25,1998-10-22,27,Libra,Tiger,Earth Tiger,Tiger,false,59/14/5,32/5,32/5,4,Houston; Troy
+00-0036198,Mike Onwenu,NE,OL,71,1997-12-10,28,Sagittarius,Ox,Fire Ox,Ox,false,48/12/3,30/3,30/3,6,Michigan
+00-0036916,Milton Williams,NE,DL,97,1999-04-06,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,38/11,38/11,38/11,5,Louisiana Tech
+00-0034941,Mitch Wishnowsky,NE,P,19,1992-03-02,34,Pisces,Monkey,Water Monkey,Monkey,false,26/8,26/8,26/8,7,Utah; Santa Barbara
+00-0031330,Morgan Moses,NE,OL,76,1991-03-03,35,Pisces,Goat,Metal Goat,Goat,false,26/8,26/8,26/8,12,Virginia
+00-0041109,Namdi Obiazor,NE,LB,48,2002-04-19,24,Aries,Horse,Water Horse,Horse,false,27/9,18/9,18/9,0,TCU; Iowa Western CC
+00-0041402,Quintayvious Hutchins,NE,LB,45,2003-04-02,23,Aries,Goat,Water Goat,Goat,false,11,11,11,0,Boston College
+00-0036187,Reggie Gilliam,NE,RB,44,1997-08-20,29,Leo,Ox,Fire Ox,Ox,false,54/9,36/9,36/9,6,Toledo
+00-0036875,Rhamondre Stevenson,NE,RB,38,1998-02-23,28,Pisces,Tiger,Earth Tiger,Tiger,false,52/7,34/7,34/7,5,Oklahoma; Cerritos College
+00-0034720,Robert Spillane,NE,LB,14,1995-12-14,30,Sagittarius,Pig,Wood Pig,Pig,false,50/5,32/5,32/5,8,Western Michigan
+00-0037816,Romeo Doubs,NE,WR,87,2000-04-13,26,Aries,Dragon,Metal Dragon,Dragon,false,19/10/1,10/1,10/1,4,Nevada
+00-0038476,Tommy DeVito,NE,QB,16,1998-08-07,28,Leo,Tiger,Earth Tiger,Tiger,false,42/6,42/6,42/6,3,Illinois; Syracuse
+00-0040734,TreVeyon Henderson,NE,RB,32,2002-10-22,23,Libra,Horse,Water Horse,Horse,false,36/9,9,9,1,Ohio State
+00-0040699,Will Campbell,NE,OL,66,2004-01-06,22,Capricorn,Goat,Water Goat,Monkey,true,13/4,13/4,13/4,1,LSU
+00-0033906,Alvin Kamara,NO,RB,41,1995-07-25,31,Leo,Pig,Wood Pig,Pig,false,56/11,38/11,38/11,9,Tennessee; Hutchinson CC; Alabama
+00-0036193,Anfernee Jennings,NO,LB,33,1997-05-01,29,Taurus,Ox,Fire Ox,Ox,false,32/5,32/5,32/5,6,Alabama
+00-0038601,Asim Richards,NO,OL,72,2000-10-02,25,Libra,Dragon,Metal Dragon,Dragon,false,14/5,5,5,3,North Carolina
+00-0041099,Barion Brown,NO,WR,19,2003-12-12,22,Sagittarius,Goat,Water Goat,Goat,false,29/11,11,11,0,LSU; Kentucky
+00-0041067,Bryce Lance,NO,WR,18,2002-08-20,24,Leo,Horse,Water Horse,Horse,false,32/5,14/5,14/5,0,North Dakota State
+00-0027962,Cameron Jordan,NO,LB,94,1989-07-10,37,Cancer,Snake,Earth Snake,Snake,false,44/8,35/8,35/8,15,California
+00-0035402,Carl Granderson,NO,LB,96,1996-12-18,29,Sagittarius,Rat,Fire Rat,Rat,false,55/10/1,37/10/1,37/10/1,7,Wyoming
+00-0036408,Cesar Ruiz,NO,OL,51,1999-06-14,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,48/12/3,39/12/3,39/12/3,6,Michigan
+00-0036321,Chase Young,NO,LB,99,1999-04-14,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,46/10/1,37/10/1,37/10/1,6,Ohio State
+00-0037239,Chris Olave,NO,WR,12,2000-06-27,26,Cancer,Dragon,Metal Dragon,Dragon,false,35/8,17/8,17/8,4,Ohio State
+00-0036867,Chris Rumph II,NO,LB,58,1998-10-19,27,Libra,Tiger,Earth Tiger,Tiger,false,56/11,38/11,38/11,5,Duke
+00-0041326,CJ Donaldson,NO,RB,43,2004-07-09,22,Cancer,Monkey,Wood Monkey,Monkey,false,22,22,22,0,Ohio State; West Virginia
+00-0038387,Colby Wooden,NO,DL,50,2000-12-21,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,35/8,8,8,3,Auburn
+00-0034161,Daniel Carlson,NO,K,10,1995-01-23,31,Aquarius,Dog,Wood Dog,Pig,true,48/12/3,30/3,30/3,8,Auburn
+00-0040155,Danny Stutsman,NO,LB,28,2003-03-10,23,Pisces,Goat,Water Goat,Goat,false,18/9,9,9,1,Oklahoma
+00-0035668,David Edwards,NO,OL,76,1997-03-20,29,Pisces,Ox,Fire Ox,Ox,false,49/13/4,31/4,31/4,7,Wisconsin
+00-0033860,Davon Godchaux,NO,DL,92,1994-11-11,31,Scorpio,Dog,Wood Dog,Dog,false,45/9,27/9,27/9,9,LSU
+00-0039424,Devaughn Vele,NO,WR,14,1997-12-12,28,Sagittarius,Ox,Fire Ox,Ox,false,50/5,32/5,32/5,2,Utah
+00-0035242,Erik McCoy,NO,OL,78,1997-08-27,29,Virgo,Ox,Fire Ox,Ox,false,61/7,43/7,43/7,7,Texas A&M
+00-0039725,Jayden Price,NO,DB,38,2000-04-05,26,Aries,Dragon,Metal Dragon,Dragon,false,11,11,11,2,North Dakota State
+00-0041065,Jeremiah Wright,NO,OL,65,2001-09-05,25,Virgo,Snake,Metal Snake,Snake,false,17/8,17/8,17/8,0,Auburn
+00-0040643,Jonas Sanker,NO,DB,7,2002-11-23,23,Sagittarius,Horse,Water Horse,Horse,false,38/11,11,11,1,Virginia
+00-0038588,Jordan Howden,NO,DB,31,2000-05-14,26,Taurus,Dragon,Metal Dragon,Dragon,false,21/3,12/3,12/3,3,Minnesota
+00-0036253,Julian Blackmon,NO,DB,23,1998-08-24,28,Virgo,Tiger,Earth Tiger,Tiger,false,59/14/5,41/5,41/5,6,Utah
+00-0034361,Justin Reid,NO,DB,21,1997-02-15,29,Aquarius,Ox,Fire Ox,Ox,false,43/7,34/7,34/7,8,Stanford
+00-0036040,Juwan Johnson,NO,TE,83,1996-09-13,30,Virgo,Rat,Fire Rat,Rat,false,47/11,38/11,38/11,6,Oregon; Penn State
+00-0035316,Kaden Elliss,NO,LB,55,1995-06-10,31,Gemini,Pig,Wood Pig,Pig,false,40/4,31/4,31/4,7,Idaho
+00-0040125,Kelvin Banks Jr.,NO,OL,71,2004-03-10,22,Pisces,Monkey,Wood Monkey,Monkey,false,19/10/1,10/1,10/1,1,Texas
+00-0037231,Kevin Austin Jr.,NO,WR,81,2000-03-30,26,Aries,Dragon,Metal Dragon,Dragon,false,35/8,8,8,4,Notre Dame
+00-0039401,Khristian Boyd,NO,DL,97,2000-02-23,26,Pisces,Dragon,Metal Dragon,Dragon,false,27/9,9,9,2,Northern Iowa
+00-0039860,Kool-Aid McKinstry,NO,DB,1,2002-09-30,23,Libra,Horse,Water Horse,Horse,false,43/7,16/7,16/7,2,Alabama
+00-0037250,Martin Emerson,NO,DB,22,2000-09-27,25,Libra,Dragon,Metal Dragon,Dragon,false,38/11,20/2,20/2,4,Mississippi State
+00-0040293,Michael Reid,NO,DB,42,2002-05-24,24,Gemini,Horse,Water Horse,Horse,false,33,15/6,15/6,1,South Dakota; Monmouth
+00-0034760,Nathan Shepherd,NO,DL,93,1993-10-09,32,Libra,Rooster,Water Rooster,Rooster,false,41/5,32/5,32/5,8,Fort Hays; Simon Fraser
+00-0035644,Noah Fant,NO,TE,87,1997-11-20,28,Scorpio,Ox,Fire Ox,Ox,false,57/12/3,30/3,30/3,7,Iowa
+00-0041041,Oscar Delp,NO,TE,4,2003-08-04,23,Leo,Goat,Water Goat,Goat,false,17/8,17/8,17/8,0,Georgia
+00-0036927,Pete Werner,NO,LB,20,1999-06-05,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,39/12/3,39/12/3,39/12/3,5,Ohio State
+00-0040166,Quincy Riley,NO,DB,29,2001-05-26,25,Gemini,Snake,Metal Snake,Snake,false,34/7,16/7,16/7,1,Louisville; Middle Tennessee State
+00-0037500,Ryan Wright,NO,P,17,2000-06-01,26,Gemini,Dragon,Metal Dragon,Dragon,false,9,9,9,4,Tulane
+00-0034067,Scott Daly,NO,LS,46,1994-02-07,32,Aquarius,Rooster,Water Rooster,Dog,true,32/5,32/5,32/5,8,Notre Dame
+00-0039376,Spencer Rattler,NO,QB,2,2000-09-28,25,Libra,Dragon,Metal Dragon,Dragon,false,39/12/3,21/3,21/3,2,South Carolina; Oklahoma
+00-0039339,Taliese Fuaga,NO,OL,75,2002-04-05,24,Aries,Horse,Water Horse,Horse,false,13/4,13/4,13/4,2,Oregon State
+00-0036973,Travis Etienne,NO,RB,3,1999-01-26,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,55/10/1,37/10/1,37/10/1,5,Clemson
+00-0039518,Treyton Welch,NO,TE,82,2001-01-10,25,Capricorn,Dragon,Metal Dragon,Snake,true,14/5,5,5,2,Wyoming
+00-0040743,Tyler Shough,NO,QB,6,1999-09-28,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,65/11,47/11,47/11,1,Louisville; Texas Tech; Oregon
+00-0038541,Tyree Wilson,NO,LB,98,2000-05-20,26,Taurus,Dragon,Metal Dragon,Dragon,false,27/9,9,9,3,Texas Tech
+00-0040642,Vernon Broughton,NO,DL,91,2001-07-15,25,Cancer,Snake,Metal Snake,Snake,false,25/7,16/7,16/7,1,Texas
+00-0036535,Will Sherman,NO,OL,66,1999-05-27,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,60/6,42/6,42/6,5,Colorado
+00-0034668,Aaron Stinnie,NYG,OL,64,1994-02-18,32,Aquarius,Dog,Wood Dog,Dog,false,43/7,34/7,34/7,8,James Madison
+00-0040677,Abdul Carter,NYG,LB,3,2003-10-03,22,Libra,Goat,Water Goat,Goat,false,18/9,9,9,1,Penn State
+00-0036386,Andrew Thomas,NYG,OL,78,1999-01-22,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,51/6,33,33,6,Georgia
+00-0039821,Andru Phillips,NYG,DB,22,2001-11-30,24,Sagittarius,Snake,Metal Snake,Snake,false,44/8,8,8,2,Kentucky
+00-0036587,Ar'Darius Washington,NYG,DB,24,1999-11-02,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,41/5,32/5,32/5,5,TCU
+00-0041509,Arvell Reese,NYG,LB,52,2005-08-30,21,Virgo,Rooster,Wood Rooster,Rooster,false,45/9,18/9,18/9,0,Ohio State
+00-0039176,Basil Okoye,NYG,DL,99,2001-10-20,24,Libra,Snake,Metal Snake,Snake,false,33,6,6,3,
+00-0041143,Ben Mann,NYG,LS,58,2002-07-06,24,Cancer,Horse,Water Horse,Horse,false,17/8,17/8,17/8,0,Boston College; Yale
+00-0041095,Bobby Jamison-Travis,NYG,DL,97,2001-04-28,25,Taurus,Snake,Metal Snake,Snake,false,35/8,17/8,17/8,0,Auburn; Iowa Western CC
+00-0035713,Brian Burns,NYG,LB,0,1998-04-23,28,Taurus,Tiger,Earth Tiger,Tiger,false,54/9,36/9,36/9,7,Florida State
+00-0039446,Bryan Hudson,NYG,OL,60,2001-01-11,25,Capricorn,Dragon,Metal Dragon,Snake,true,15/6,6,6,2,Louisville
+00-0040715,Cam Skattebo,NYG,RB,44,2002-02-05,24,Aquarius,Snake,Metal Snake,Horse,true,11,11,11,1,Arizona State; Sacramento State
+00-0036982,Chauncey Golston,NYG,DL,57,1998-02-10,28,Aquarius,Tiger,Earth Tiger,Tiger,false,39/12/3,30/3,30/3,5,Iowa
+00-0031484,Chris Manhertz,NYG,TE,85,1992-04-10,34,Aries,Monkey,Water Monkey,Monkey,false,35/8,26/8,26/8,11,Canisius College
+00-0041462,Colton Hood,NYG,DB,12,2005-02-23,21,Pisces,Rooster,Wood Rooster,Rooster,false,32/5,14/5,14/5,0,Tennessee; Colorado; Auburn
+00-0040694,Darius Alexander,NYG,DL,91,2000-08-26,26,Virgo,Dragon,Metal Dragon,Dragon,false,36/9,18/9,18/9,1,Toledo
+00-0036309,Darnell Mooney,NYG,WR,17,1997-10-29,28,Scorpio,Ox,Fire Ox,Ox,false,65/11,38/11,38/11,6,Tulane
+00-0039000,Deonte Banks,NYG,DB,2,2001-04-03,25,Aries,Snake,Metal Snake,Snake,false,10/1,10/1,10/1,3,Maryland
+00-0035250,Devin Singletary,NYG,RB,26,1997-09-03,29,Virgo,Ox,Fire Ox,Ox,false,38/11,38/11,38/11,7,Florida Atlantic
+00-0032424,DJ Reader,NYG,DL,98,1994-07-01,32,Cancer,Dog,Wood Dog,Dog,false,31/4,31/4,31/4,10,Clemson
+00-0041145,Dominic Zvada,NYG,K,34,2003-10-25,22,Scorpio,Goat,Water Goat,Goat,false,40/4,13/4,13/4,0,Michigan; Arkansas State
+00-0034248,Elijah Campbell,NYG,DB,28,1995-08-24,31,Virgo,Pig,Wood Pig,Pig,false,56/11,38/11,38/11,8,Northern Iowa
+00-0041505,Francis Mauigoa,NYG,OL,65,2005-06-04,21,Gemini,Rooster,Wood Rooster,Rooster,false,17/8,17/8,17/8,0,Miami
+00-0036996,Greg Newsome II,NYG,DB,20,2000-05-18,26,Taurus,Dragon,Metal Dragon,Dragon,false,25/7,16/7,16/7,5,Northwestern
+00-0037838,Isaiah Likely,NYG,TE,9,2000-04-18,26,Aries,Dragon,Metal Dragon,Dragon,false,24/6,15/6,15/6,4,Coastal Carolina
+00-0041101,J.C. Davis,NYG,OL,74,2003-10-09,22,Libra,Goat,Water Goat,Goat,false,24/6,15/6,15/6,0,Illinois; New Mexico; Contra Costa
+00-0041102,Jack Kelly,NYG,LB,51,2003-01-02,23,Capricorn,Horse,Water Horse,Goat,true,8,8,8,0,BYU; Weber State
+00-0031503,Jameis Winston,NYG,QB,19,1994-01-06,32,Capricorn,Rooster,Water Rooster,Dog,true,30/3,30/3,30/3,11,Florida State
+00-0036502,Jason Pinnock,NYG,DB,25,1999-06-30,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,64/10/1,37/10/1,37/10/1,5,Pittsburgh
+00-0040691,Jaxson Dart,NYG,QB,6,2003-05-13,23,Taurus,Goat,Water Goat,Goat,false,23/5,14/5,14/5,1,Mississippi; USC
+00-0033290,Jermaine Eluemunor,NYG,OL,72,1994-12-13,31,Sagittarius,Dog,Wood Dog,Dog,false,48/12/3,30/3,30/3,9,Texas A&M; Lackawanna JC
+00-0036998,Jevon Holland,NYG,DB,8,2000-03-03,26,Pisces,Dragon,Metal Dragon,Dragon,false,8,8,8,5,Oregon
+00-0039019,John Michael Schmitz,NYG,OL,61,1999-04-19,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,51/6,42/6,42/6,3,Minnesota
+00-0036246,Jon Runyan,NYG,OL,76,1997-08-08,29,Leo,Ox,Fire Ox,Ox,false,42/6,42/6,42/6,6,Michigan
+00-0038094,Jordan Stout,NYG,P,15,1998-08-04,28,Leo,Tiger,Earth Tiger,Tiger,false,39/12/3,39/12/3,39/12/3,4,Penn State
+00-0033347,Josh Tupou,NYG,DL,94,1994-05-02,32,Taurus,Dog,Wood Dog,Dog,false,30/3,30/3,30/3,9,Colorado
+00-0037611,Kayvon Thibodeaux,NYG,LB,5,2000-12-15,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,29/11,11,11,4,Oregon
+00-0041042,Malachi Fields,NYG,WR,88,2003-08-26,23,Virgo,Goat,Water Goat,Goat,false,39/12/3,21/3,21/3,0,Notre Dame; Virginia
+00-0039337,Malik Nabers,NYG,WR,1,2003-07-28,23,Leo,Goat,Water Goat,Goat,false,40/4,22,22,2,LSU
+00-0040181,Marcus Mbow,NYG,OL,71,2003-04-02,23,Aries,Goat,Water Goat,Goat,false,11,11,11,1,Purdue
+00-0037259,Micah McFadden,NYG,LB,41,2000-01-03,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,6,6,6,4,Indiana
+00-0036893,Najee Harris,NYG,RB,23,1998-03-09,28,Pisces,Tiger,Earth Tiger,Tiger,false,39/12/3,39/12/3,39/12/3,5,Alabama
+00-0038986,Nic Jones,NYG,DB,31,2001-10-15,24,Libra,Snake,Metal Snake,Snake,false,28/10/1,10/1,10/1,3,Ball State
+00-0040471,Nikko Reed,NYG,DB,46,2003-03-03,23,Pisces,Goat,Water Goat,Goat,false,11,11,11,1,Oregon; Colorado
+00-0031235,Odell Beckham Jr.,NYG,WR,13,1992-11-05,33,Scorpio,Monkey,Water Monkey,Monkey,false,37/10/1,28/10/1,28/10/1,12,LSU
+00-0033376,Patrick Ricard,NYG,RB,45,1994-05-27,32,Gemini,Dog,Wood Dog,Dog,false,55/10/1,37/10/1,37/10/1,9,Maine
+00-0031270,Shelby Harris,NYG,DL,93,1991-08-11,35,Leo,Goat,Metal Goat,Goat,false,39/12/3,30/3,30/3,12,Illinois State; Wisconsin
+00-0039847,Theo Johnson,NYG,TE,84,2001-02-26,25,Pisces,Snake,Metal Snake,Snake,false,31/4,13/4,13/4,2,Penn State
+00-0040225,Thomas Fidone II,NYG,TE,86,2002-09-20,24,Virgo,Horse,Water Horse,Horse,false,33,15/6,15/6,1,Nebraska
+00-0034673,Tremaine Edmunds,NYG,LB,49,1998-05-02,28,Taurus,Tiger,Earth Tiger,Tiger,false,34/7,34/7,34/7,8,Virginia Tech
+00-0039861,Tyler Nubin,NYG,DB,27,2001-06-14,25,Gemini,Snake,Metal Snake,Snake,false,23/5,14/5,14/5,2,Minnesota
+00-0039384,Tyrone Tracy Jr.,NYG,RB,29,1999-11-23,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,62/8,35/8,35/8,2,Purdue; Iowa
+00-0038399,Zaire Barnes,NYG,LB,46,1999-09-03,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,40/4,40/4,40/4,3,Western Michigan
+00-0039890,Adonai Mitchell,NYJ,WR,15,2002-10-08,23,Libra,Horse,Water Horse,Horse,false,22,13/4,13/4,2,Texas; Georgia
+00-0036941,Andre Cisco,NYJ,DB,8,2000-03-23,26,Aries,Dragon,Metal Dragon,Dragon,false,28/10/1,10/1,10/1,5,Syracuse
+00-0034959,Andrew Beck,NYJ,RB,47,1996-05-15,30,Taurus,Rat,Fire Rat,Rat,false,45/9,36/9,36/9,7,Texas
+00-0040582,Arian Smith,NYJ,WR,82,2001-10-11,24,Libra,Snake,Metal Snake,Snake,false,24/6,6,6,1,Georgia
+00-0040123,Armand Membou,NYJ,OL,70,2004-03-27,22,Aries,Monkey,Wood Monkey,Monkey,false,36/9,18/9,18/9,1,Missouri
+00-0039634,Austin McNamara,NYJ,P,14,2001-02-24,25,Pisces,Snake,Metal Snake,Snake,false,29/11,11,11,2,Texas Tech
+00-0040133,Azareye'h Thomas,NYJ,DB,1,2004-07-06,22,Cancer,Monkey,Wood Monkey,Monkey,false,19/10/1,19/10/1,19/10/1,1,Florida State
+00-0039794,Braelon Allen,NYJ,RB,0,2004-01-20,22,Aquarius,Goat,Water Goat,Monkey,true,27/9,9,9,2,Wisconsin
+00-0039284,Braiden McGregor,NYJ,LB,55,2001-07-12,25,Cancer,Snake,Metal Snake,Snake,false,22,13/4,13/4,2,Michigan
+00-0036987,Brandon Stephens,NYJ,DB,21,1997-12-29,28,Capricorn,Ox,Fire Ox,Ox,false,67/13/4,40/4,40/4,5,SMU; UCLA
+00-0038120,Breece Hall,NYJ,RB,20,2001-05-31,25,Gemini,Snake,Metal Snake,Snake,false,39/12/3,12/3,12/3,4,Iowa State
+00-0041056,Cade Klubnik,NYJ,QB,10,2003-10-10,22,Libra,Goat,Water Goat,Goat,false,25/7,7,7,0,Clemson
+00-0034768,Chukwuma Okorafor,NYJ,OL,79,1997-08-08,29,Leo,Ox,Fire Ox,Ox,false,42/6,42/6,42/6,8,Western Michigan
+00-0038123,Dane Belton,NYJ,DB,6,2000-12-07,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,21/3,12/3,12/3,4,Iowa
+00-0041549,Darrell Jackson Jr.,NYJ,DL,95,2003-04-28,23,Taurus,Goat,Water Goat,Goat,false,37/10/1,19/10/1,19/10/1,0,Florida State; Maryland
+00-0041026,David Bailey,NYJ,LB,31,2003-08-28,23,Virgo,Goat,Water Goat,Goat,false,41/5,23/5,23/5,0,Texas Tech; Stanford
+00-0033051,David Onyemata,NYJ,DL,93,1992-11-13,33,Scorpio,Monkey,Water Monkey,Monkey,false,45/9,27/9,27/9,10,Manitoba (Canada)
+00-0029607,Demario Davis,NYJ,LB,56,1989-01-11,37,Capricorn,Dragon,Earth Dragon,Snake,true,39/12/3,30/3,30/3,14,Arkansas State
+00-0037255,Dylan Parham,NYJ,OL,64,1999-08-24,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,60/6,42/6,42/6,4,Memphis
+00-0040186,Francisco Mauigoa,NYJ,LB,51,2003-03-17,23,Pisces,Goat,Water Goat,Goat,false,25/7,16/7,16/7,1,Miami; Washington State
+00-0037740,Garrett Wilson,NYJ,WR,5,2000-07-22,26,Cancer,Dragon,Metal Dragon,Dragon,false,31/4,13/4,13/4,4,Ohio State
+00-0030565,Geno Smith,NYJ,QB,7,1990-10-10,35,Libra,Horse,Metal Horse,Horse,false,39/12/3,21/3,21/3,13,West Virginia
+00-0034782,Harrison Phillips,NYJ,DL,97,1996-01-25,30,Aquarius,Pig,Wood Pig,Rat,true,51/6,33,33,8,Stanford
+00-0039798,Isaiah Davis,NYJ,RB,32,2002-02-21,24,Pisces,Horse,Water Horse,Horse,false,27/9,9,9,2,South Dakota State
+00-0039451,Isaiah Williams,NYJ,WR,18,2001-01-29,25,Aquarius,Snake,Metal Snake,Snake,false,33,15/6,15/6,2,Illinois
+00-0036500,Jamien Sherwood,NYJ,LB,44,2000-01-12,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,15/6,6,6,5,Auburn
+00-0039372,Jarvis Brownlee Jr.,NYJ,DB,2,2001-07-13,25,Cancer,Snake,Metal Snake,Snake,false,23/5,14/5,14/5,2,Louisville; Florida
+00-0034794,Jason Sanders,NYJ,K,19,1995-11-16,30,Scorpio,Pig,Wood Pig,Pig,false,51/6,33,33,8,New Mexico
+00-0037755,Jelani Woods,NYJ,TE,86,1998-10-09,27,Libra,Tiger,Earth Tiger,Tiger,false,46/10/1,37/10/1,37/10/1,4,Virginia
+00-0037805,Jeremy Ruckert,NYJ,TE,89,2000-08-11,26,Leo,Dragon,Metal Dragon,Dragon,false,21/3,12/3,12/3,4,Ohio State
+00-0039145,Joe Tippmann,NYJ,OL,66,2001-03-24,25,Aries,Snake,Metal Snake,Snake,false,30/3,12/3,12/3,3,Wisconsin
+00-0040397,Jordan Clark,NYJ,DB,33,2001-04-22,25,Taurus,Snake,Metal Snake,Snake,false,29/11,11,11,1,Notre Dame; Arizona State
+00-0036604,Jordan Meredith,NYJ,OL,67,1998-01-04,28,Capricorn,Ox,Fire Ox,Tiger,true,32/5,32/5,32/5,5,Western Kentucky
+00-0036622,Josh Myers,NYJ,OL,71,1998-07-16,28,Cancer,Tiger,Earth Tiger,Tiger,false,50/5,41/5,41/5,5,Ohio State
+00-0039431,Jowon Briggs,NYJ,DL,91,2001-09-01,25,Virgo,Snake,Metal Snake,Snake,false,13/4,13/4,13/4,2,Cincinnati; Virginia
+00-0041032,Kenyon Sadiq,NYJ,TE,16,2005-03-04,21,Pisces,Rooster,Wood Rooster,Rooster,false,14/5,14/5,14/5,0,Oregon
+00-0037083,Kingsley Enagbare,NYJ,LB,52,2000-01-18,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,21/3,12/3,12/3,4,South Carolina
+00-0040165,Malachi Moore,NYJ,DB,27,2001-09-13,25,Virgo,Snake,Metal Snake,Snake,false,25/7,16/7,16/7,1,Alabama
+00-0037526,Marcelino McCrary-Ball,NYJ,LB,41,1999-03-23,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,54/9,36/9,36/9,4,Indiana
+00-0040736,Mason Taylor,NYJ,TE,85,2004-05-08,22,Taurus,Monkey,Wood Monkey,Monkey,false,19/10/1,19/10/1,19/10/1,1,LSU
+00-0038114,Max Mitchell,NYJ,OL,61,1999-10-12,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,50/5,32/5,32/5,4,Louisiana-Lafayette
+00-0036986,Nahshon Wright,NYJ,DB,26,1998-09-23,27,Libra,Tiger,Earth Tiger,Tiger,false,59/14/5,41/5,41/5,5,Oregon State
+00-0039790,Olumuyiwa Fashanu,NYJ,OL,74,2002-12-09,23,Sagittarius,Horse,Water Horse,Horse,false,25/7,16/7,16/7,2,Penn State
+00-0039789,Qwan'tez Stiggers,NYJ,DB,37,2002-01-08,24,Capricorn,Snake,Metal Snake,Horse,true,13/4,13/4,13/4,2,
+00-0039886,T'Vondre Sweat,NYJ,DL,99,2001-07-11,25,Cancer,Snake,Metal Snake,Snake,false,21/3,12/3,12/3,2,Texas
+00-0033260,Thomas Hennessy,NYJ,LS,42,1994-06-11,32,Gemini,Dog,Wood Dog,Dog,false,40/4,31/4,31/4,9,Duke
+00-0035617,Troy Reeder,NYJ,LB,50,1994-09-13,32,Virgo,Dog,Wood Dog,Dog,false,45/9,36/9,36/9,7,Delaware
+00-0039142,Will McDonald IV,NYJ,LB,9,1999-06-04,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,38/11,38/11,38/11,3,Iowa State
+00-0036192,A.J. Epenesa,PHI,DL,57,1998-09-15,28,Virgo,Tiger,Earth Tiger,Tiger,false,51/6,42/6,42/6,6,Iowa
+00-0040749,Andrew Mukuba,PHI,DB,24,2002-12-07,23,Sagittarius,Horse,Water Horse,Horse,false,23/5,14/5,14/5,1,Texas; Clemson
+00-0027973,Andy Dalton,PHI,QB,14,1987-10-29,38,Scorpio,Rabbit,Fire Rabbit,Rabbit,false,64/10/1,37/10/1,37/10/1,15,TCU
+00-0038116,Arnold Ebiketie,PHI,LB,17,1999-01-23,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,52/7,34/7,34/7,4,Penn State
+00-0036313,Braden Mann,PHI,P,10,1997-11-24,28,Sagittarius,Ox,Fire Ox,Ox,false,61/7,34/7,34/7,6,Texas A&M
+00-0037132,Britain Covey,PHI,WR,85,1997-03-18,29,Pisces,Ox,Fire Ox,Ox,false,47/11,38/11,38/11,4,Utah
+00-0038978,Byron Young,PHI,DL,94,2000-11-10,25,Scorpio,Dragon,Metal Dragon,Dragon,false,23/5,5,5,3,Alabama
+00-0038112,Cam Jurgens,PHI,OL,51,1999-08-21,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,57/12/3,39/12/3,39/12/3,4,Nebraska
+00-0039841,Cooper DeJean,PHI,DB,33,2003-02-09,23,Aquarius,Goat,Water Goat,Goat,false,16/7,16/7,16/7,2,Iowa
+00-0034351,Dallas Goedert,PHI,TE,88,1995-01-03,31,Capricorn,Dog,Wood Dog,Pig,true,28/10/1,28/10/1,28/10/1,8,South Dakota State
+00-0040024,Darius Cooper,PHI,WR,80,2001-11-22,24,Sagittarius,Snake,Metal Snake,Snake,false,36/9,9,9,1,Tarleton State
+00-0036912,DeVonta Smith,PHI,WR,6,1998-11-14,27,Scorpio,Tiger,Earth Tiger,Tiger,false,52/7,34/7,34/7,5,Alabama
+00-0038393,Dontayvion Wicks,PHI,WR,13,2001-06-16,25,Gemini,Snake,Metal Snake,Snake,false,25/7,16/7,16/7,3,Virginia
+00-0040587,Drew Kendall,PHI,OL,66,2001-11-27,24,Sagittarius,Snake,Metal Snake,Snake,false,41/5,14/5,14/5,1,Boston College
+00-0038498,E.J. Jenkins,PHI,TE,84,1998-11-03,27,Scorpio,Tiger,Earth Tiger,Tiger,false,41/5,32/5,32/5,3,Georgia Tech; South Carolina; St. Francis PA
+00-0034951,Fred Johnson,PHI,OL,74,1997-06-05,29,Gemini,Ox,Fire Ox,Ox,false,37/10/1,37/10/1,37/10/1,7,Florida
+00-0033787,Jake Elliott,PHI,K,4,1995-01-21,31,Aquarius,Dog,Wood Dog,Pig,true,46/10/1,28/10/1,28/10/1,9,Memphis
+00-0038386,Jalen Carter,PHI,DL,98,2001-04-04,25,Aries,Snake,Metal Snake,Snake,false,11,11,11,3,Georgia
+00-0036389,Jalen Hurts,PHI,QB,1,1998-08-07,28,Leo,Tiger,Earth Tiger,Tiger,false,42/6,42/6,42/6,6,Oklahoma; Alabama
+00-0039740,Jalyx Hunt,PHI,LB,58,2001-03-13,25,Pisces,Snake,Metal Snake,Snake,false,19/10/1,10/1,10/1,2,Houston Christian University; Cornell
+00-0039826,Jeremiah Trotter Jr.,PHI,LB,54,2002-12-24,23,Capricorn,Horse,Water Horse,Horse,false,40/4,13/4,13/4,2,Clemson
+00-0040708,Jihaad Campbell,PHI,LB,11,2004-02-24,22,Pisces,Monkey,Wood Monkey,Monkey,false,32/5,14/5,14/5,1,Alabama
+00-0033246,Johnny Mundt,PHI,TE,83,1994-11-23,31,Sagittarius,Dog,Wood Dog,Dog,false,57/12/3,30/3,30/3,9,Oregon
+00-0032580,Jonathan Jones,PHI,DB,31,1993-09-20,33,Virgo,Rooster,Water Rooster,Rooster,false,51/6,33,33,10,Auburn
+00-0037073,Jordan Davis,PHI,DL,90,2000-01-12,26,Capricorn,Rabbit,Earth Rabbit,Dragon,true,15/6,6,6,4,Georgia
+00-0034429,Jordan Mailata,PHI,OL,68,1997-03-31,29,Aries,Ox,Fire Ox,Ox,false,60/6,33,33,8,
+00-0039140,Kelee Ringo,PHI,DB,7,2002-06-27,24,Cancer,Horse,Water Horse,Horse,false,37/10/1,19/10/1,19/10/1,3,Georgia
+00-0030561,Lane Johnson,PHI,OL,65,1990-05-08,36,Taurus,Horse,Metal Horse,Horse,false,32/5,32/5,32/5,13,Oklahoma; Kilgore
+00-0040071,Mac McWilliams,PHI,DB,22,2001-11-29,24,Sagittarius,Snake,Metal Snake,Snake,false,43/7,16/7,16/7,1,UCF; UAB
+00-0040867,Makai Lemon,PHI,WR,9,2004-06-02,22,Gemini,Monkey,Wood Monkey,Monkey,false,14/5,14/5,14/5,0,USC
+00-0034993,Marcus Epps,PHI,DB,29,1996-01-27,30,Aquarius,Pig,Wood Pig,Rat,true,53/8,35/8,35/8,7,Wyoming
+00-0041554,Markel Bell,PHI,OL,72,2004-07-19,22,Cancer,Monkey,Wood Monkey,Monkey,false,32/5,23/5,23/5,0,Miami; Holmes County JC
+00-0035662,Marquise Brown,PHI,WR,0,1997-06-04,29,Gemini,Ox,Fire Ox,Ox,false,36/9,36/9,36/9,7,Oklahoma; College of the Canyons
+00-0040923,Maximus Pulley,PHI,DB,36,2002-09-11,24,Virgo,Horse,Water Horse,Horse,false,24/6,15/6,15/6,0,Wofford; Western Kentucky
+00-0036501,Michael Carter II,PHI,DB,35,1999-03-08,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,39/12/3,39/12/3,39/12/3,5,Duke
+00-0038412,Moro Ojomo,PHI,DL,97,2001-08-15,25,Leo,Snake,Metal Snake,Snake,false,26/8,17/8,17/8,3,Texas
+00-0039013,Nolan Smith,PHI,LB,3,2001-01-18,25,Capricorn,Dragon,Metal Dragon,Snake,true,22,13/4,13/4,3,Georgia
+00-0039888,Quinyon Mitchell,PHI,DB,27,2001-07-18,25,Cancer,Snake,Metal Snake,Snake,false,28/10/1,19/10/1,19/10/1,2,Toledo
+00-0037079,Riq Woolen,PHI,DB,2,1999-05-02,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,35/8,35/8,35/8,4,Texas-San Antonio
+00-0040925,Rocco Underwood,PHI,LS,41,2002-08-14,24,Leo,Horse,Water Horse,Horse,false,26/8,17/8,17/8,0,Florida
+00-0034844,Saquon Barkley,PHI,RB,26,1997-02-09,29,Aquarius,Ox,Fire Ox,Ox,false,37/10/1,37/10/1,37/10/1,8,Penn State
+00-0040013,Smael Mondon Jr.,PHI,LB,42,2003-02-13,23,Aquarius,Goat,Water Goat,Goat,false,20/2,11,11,1,Georgia
+00-0038555,Tank Bigsby,PHI,RB,8,2002-08-30,24,Virgo,Horse,Water Horse,Horse,false,42/6,15/6,15/6,3,Auburn
+00-0040662,Ty Robinson,PHI,DL,95,2001-05-03,25,Taurus,Snake,Metal Snake,Snake,false,11,11,11,1,Nebraska
+00-0039001,Tyler Steen,PHI,OL,56,2000-06-24,26,Cancer,Dragon,Metal Dragon,Dragon,false,32/5,14/5,14/5,3,Alabama; Vanderbilt
+00-0039746,Will Shipley,PHI,RB,28,2002-08-29,24,Virgo,Horse,Water Horse,Horse,false,41/5,23/5,23/5,2,Clemson
+00-0040631,Willie Lampkin,PHI,OL,61,2002-01-22,24,Aquarius,Snake,Metal Snake,Horse,true,27/9,9,9,1,North Carolina; Coastal Carolina
+00-0036418,Zack Baun,PHI,LB,53,1996-12-30,29,Capricorn,Rat,Fire Rat,Rat,false,67/13/4,31/4,31/4,6,Wisconsin
+00-0023459,Aaron Rodgers,PIT,QB,8,1983-12-02,42,Sagittarius,Pig,Water Pig,Pig,false,35/8,26/8,26/8,21,California; Butte College
+00-0036333,Alex Highsmith,PIT,LB,56,1997-08-07,29,Leo,Ox,Fire Ox,Ox,false,41/5,41/5,41/5,6,Charlotte
+00-0036617,Asante Samuel Jr.,PIT,DB,22,1999-10-03,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,41/5,32/5,32/5,5,Florida State
+00-0036862,Ben Skowronek,PIT,WR,15,1997-06-27,29,Cancer,Ox,Fire Ox,Ox,false,59/14/5,41/5,41/5,5,Notre Dame; Northwestern
+00-0036504,Brandin Echols,PIT,DB,26,1997-10-16,28,Libra,Ox,Fire Ox,Ox,false,52/7,34/7,34/7,5,Kentucky
+00-0037336,Brock Hoffman,PIT,OL,67,1999-07-02,27,Cancer,Rabbit,Earth Rabbit,Rabbit,false,37/10/1,37/10/1,37/10/1,4,Virginia Tech; Coastal Carolina
+00-0027969,Cameron Heyward,PIT,DL,97,1989-05-06,37,Taurus,Snake,Earth Snake,Snake,false,38/11,38/11,38/11,15,Ohio State
+00-0033729,Cameron Johnston,PIT,P,19,1992-02-24,34,Pisces,Monkey,Water Monkey,Monkey,false,47/11,29/11,29/11,9,Ohio State
+00-0040231,Carson Bruener,PIT,LB,44,2001-06-06,25,Gemini,Snake,Metal Snake,Snake,false,15/6,15/6,15/6,1,Washington
+00-0031136,Chris Boswell,PIT,K,9,1991-03-16,35,Pisces,Goat,Metal Goat,Goat,false,39/12/3,30/3,30/3,12,Rice
+00-0034051,Christian Kuntz,PIT,LS,46,1994-04-13,32,Aries,Dog,Wood Dog,Dog,false,40/4,31/4,31/4,9,Duquesne
+00-0035286,Cole Holcomb,PIT,LB,55,1996-07-30,30,Leo,Rat,Fire Rat,Rat,false,62/8,35/8,35/8,7,North Carolina
+00-0038558,Darnell Washington,PIT,TE,80,2001-08-17,25,Leo,Snake,Metal Snake,Snake,false,28/10/1,19/10/1,19/10/1,3,Georgia
+00-0041393,Daylen Everette,PIT,DB,23,2004-05-06,22,Taurus,Monkey,Wood Monkey,Monkey,false,17/8,17/8,17/8,0,Georgia
+00-0040678,Derrick Harmon,PIT,DL,99,2003-08-03,23,Leo,Goat,Water Goat,Goat,false,16/7,16/7,16/7,1,Oregon; Michigan State
+00-0035640,DK Metcalf,PIT,WR,4,1997-12-14,28,Sagittarius,Ox,Fire Ox,Ox,false,52/7,34/7,34/7,7,Mississippi
+00-0040341,Doneiko Slaughter,PIT,DB,40,2001-11-08,24,Scorpio,Snake,Metal Snake,Snake,false,22,13/4,13/4,1,Arkansas; Tennessee
+00-0037480,Dylan Cook,PIT,OL,60,1998-01-11,28,Capricorn,Ox,Fire Ox,Tiger,true,39/12/3,30/3,30/3,4,Montana; Northern Montana State University
+00-0041490,Eli Heidenreich,PIT,RB,29,2003-07-28,23,Leo,Goat,Water Goat,Goat,false,40/4,22,22,0,Navy
+00-0041489,Germie Bernard,PIT,WR,17,2003-12-02,22,Sagittarius,Goat,Water Goat,Goat,false,19/10/1,10/1,10/1,0,Alabama; Washington; Michigan State
+00-0040160,Jack Sawyer,PIT,LB,33,2002-05-06,24,Taurus,Horse,Water Horse,Horse,false,15/6,15/6,15/6,1,Ohio State
+00-0033055,Jalen Ramsey,PIT,DB,5,1994-10-24,31,Scorpio,Dog,Wood Dog,Dog,false,57/12/3,30/3,30/3,10,Florida State
+00-0035699,Jamel Dean,PIT,DB,35,1996-10-15,29,Libra,Rat,Fire Rat,Rat,false,50/5,32/5,32/5,7,Auburn; Ohio State
+00-0038135,Jaquan Brisker,PIT,DB,3,1999-04-20,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,52/7,34/7,34/7,4,Penn State; Lackawanna JC
+00-0037228,Jaylen Warren,PIT,RB,30,1998-11-01,27,Scorpio,Tiger,Earth Tiger,Tiger,false,39/12/3,30/3,30/3,4,Oklahoma State
+00-0041397,Kaden Wetjen,PIT,WR,10,2002-03-09,24,Pisces,Horse,Water Horse,Horse,false,16/7,16/7,16/7,0,Iowa; Iowa Western CC
+00-0039110,Keeanu Benton,PIT,DL,95,2001-07-17,25,Cancer,Snake,Metal Snake,Snake,false,27/9,18/9,18/9,3,Wisconsin
+00-0039358,Mason McCormick,PIT,OL,66,2000-05-25,26,Gemini,Dragon,Metal Dragon,Dragon,false,32/5,14/5,14/5,2,South Dakota State
+00-0034771,Mason Rudolph,PIT,QB,2,1995-07-17,31,Cancer,Pig,Wood Pig,Pig,false,48/12/3,39/12/3,39/12/3,8,Oklahoma State
+00-0041482,Max Iheanachor,PIT,OL,71,2003-10-19,22,Libra,Goat,Water Goat,Goat,false,34/7,16/7,16/7,0,Arizona State
+00-0038577,Nick Herbig,PIT,LB,51,2001-11-21,24,Scorpio,Snake,Metal Snake,Snake,false,35/8,8,8,3,Wisconsin
+00-0036894,Pat Freiermuth,PIT,TE,88,1998-10-25,27,Scorpio,Tiger,Earth Tiger,Tiger,false,62/8,35/8,35/8,5,Penn State
+00-0036323,Patrick Queen,PIT,LB,6,1999-08-13,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,49/13/4,40/4,40/4,6,LSU
+00-0039741,Payton Wilson,PIT,LB,41,2000-04-21,26,Taurus,Dragon,Metal Dragon,Dragon,false,27/9,9,9,2,N.C. State
+00-0033941,Rayshawn Jenkins,PIT,DB,20,1994-01-25,32,Aquarius,Rooster,Water Rooster,Dog,true,49/13/4,31/4,31/4,9,Miami
+00-0036139,Rico Dowdle,PIT,RB,13,1998-06-14,28,Gemini,Tiger,Earth Tiger,Tiger,false,47/11,38/11,38/11,6,South Carolina
+00-0041398,Riley Nowakowski,PIT,TE,37,2002-06-30,24,Cancer,Horse,Water Horse,Horse,false,40/4,13/4,13/4,0,Indiana; Wisconsin
+00-0041401,Robert Spears-Jennings,PIT,DB,28,2004-01-25,22,Aquarius,Monkey,Wood Monkey,Monkey,false,32/5,14/5,14/5,0,Oklahoma
+00-0033757,Robert Tonyan,PIT,TE,85,1994-04-30,32,Taurus,Dog,Wood Dog,Dog,false,57/12/3,30/3,30/3,9,Indiana State
+00-0039739,Roman Wilson,PIT,WR,14,2001-06-19,25,Gemini,Snake,Metal Snake,Snake,false,28/10/1,19/10/1,19/10/1,2,Michigan
+00-0036783,Ryan McCollum,PIT,OL,62,1998-03-04,28,Pisces,Tiger,Earth Tiger,Tiger,false,34/7,34/7,34/7,5,Texas A&M
+00-0034810,Sebastian Joseph-Day,PIT,DL,69,1995-03-21,31,Aries,Pig,Wood Pig,Pig,false,48/12/3,30/3,30/3,8,Rutgers
+00-0038645,Spencer Anderson,PIT,OL,74,2000-06-07,26,Gemini,Dragon,Metal Dragon,Dragon,false,15/6,15/6,15/6,3,Maryland
+00-0033886,T.J. Watt,PIT,LB,90,1994-10-11,31,Libra,Dog,Wood Dog,Dog,false,44/8,26/8,26/8,9,Wisconsin
+00-0035594,Travis Homer,PIT,RB,21,1998-08-07,28,Leo,Tiger,Earth Tiger,Tiger,false,42/6,42/6,42/6,7,Miami
+00-0039871,Troy Fautanu,PIT,OL,76,2000-10-11,25,Libra,Dragon,Metal Dragon,Dragon,false,23/5,5,5,2,Washington
+00-0040188,Yahya Black,PIT,DL,94,2002-04-21,24,Taurus,Horse,Water Horse,Horse,false,29/11,11,11,1,Iowa
+00-0039896,Zach Frazier,PIT,OL,54,2001-08-29,25,Virgo,Snake,Metal Snake,Snake,false,40/4,22,22,2,West Virginia
+00-0037812,Abraham Lucas,SEA,OL,72,1998-10-15,27,Libra,Tiger,Earth Tiger,Tiger,false,52/7,34/7,34/7,4,Washington State
+00-0039793,AJ Barner,SEA,TE,88,2002-05-03,24,Taurus,Horse,Water Horse,Horse,false,12/3,12/3,12/3,2,Michigan; Indiana
+00-0038866,AJ Finley,SEA,DB,30,2001-09-14,25,Virgo,Snake,Metal Snake,Snake,false,26/8,17/8,17/8,3,Mississippi
+00-0041382,Avery Smith,SEA,DB,27,2004-07-01,22,Cancer,Monkey,Wood Monkey,Monkey,false,14/5,14/5,14/5,0,Toledo
+00-0040882,Beau Stephens,SEA,OL,70,2002-11-01,23,Scorpio,Horse,Water Horse,Horse,false,16/7,7,7,0,Iowa
+00-0038488,Brady Russell,SEA,RB,38,1998-08-31,28,Virgo,Tiger,Earth Tiger,Tiger,false,66/12/3,39/12/3,39/12/3,3,Colorado
+00-0038694,Brandon Pili,SEA,DL,95,1999-04-02,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,34/7,34/7,34/7,3,USC
+00-0039309,Byron Murphy II,SEA,DL,91,2002-09-08,24,Virgo,Horse,Water Horse,Horse,false,21/3,21/3,21/3,2,Texas
+00-0037821,Charles Cross,SEA,OL,67,2000-11-25,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,38/11,11,11,4,Mississippi State
+00-0037003,Chazz Surratt,SEA,LB,44,1997-02-16,29,Aquarius,Ox,Fire Ox,Ox,false,44/8,35/8,35/8,5,North Carolina
+00-0038769,Chris Stoll,SEA,LS,41,1998-08-03,28,Leo,Tiger,Earth Tiger,Tiger,false,38/11,38/11,38/11,3,Penn State
+00-0039839,Christian Haynes,SEA,OL,64,2000-04-13,26,Aries,Dragon,Metal Dragon,Dragon,false,19/10/1,10/1,10/1,2,Connecticut
+00-0033908,Cooper Kupp,SEA,WR,10,1993-06-15,33,Gemini,Rooster,Water Rooster,Rooster,false,43/7,34/7,34/7,9,Eastern Washington
+00-0032052,Dante Fowler Jr.,SEA,LB,56,1994-08-03,32,Leo,Dog,Wood Dog,Dog,false,34/7,34/7,34/7,11,Florida
+00-0031411,DeMarcus Lawrence,SEA,LB,0,1992-04-28,34,Taurus,Monkey,Water Monkey,Monkey,false,53/8,35/8,35/8,12,Boise State; Butler County JC
+00-0039047,Derick Hall,SEA,LB,58,2001-03-19,25,Pisces,Snake,Metal Snake,Snake,false,25/7,16/7,16/7,3,Auburn
+00-0039169,Devon Witherspoon,SEA,DB,21,2000-12-11,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,25/7,7,7,3,Illinois
+00-0038922,Drake Thomas,SEA,LB,32,2000-02-25,26,Pisces,Dragon,Metal Dragon,Dragon,false,29/11,11,11,3,N.C. State
+00-0035704,Drew Lock,SEA,QB,2,1996-11-10,29,Scorpio,Rat,Fire Rat,Rat,false,46/10/1,28/10/1,28/10/1,7,Missouri
+00-0040739,Elijah Arroyo,SEA,TE,18,2003-04-05,23,Aries,Goat,Water Goat,Goat,false,14/5,14/5,14/5,1,Miami
+00-0038797,Emanuel Wilson,SEA,RB,23,1999-05-08,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,41/5,41/5,41/5,3,Fort Valley State College
+00-0033576,Eric Saubert,SEA,TE,81,1994-05-09,32,Taurus,Dog,Wood Dog,Dog,false,37/10/1,37/10/1,37/10/1,9,Drake
+00-0036994,Ernest Jones,SEA,LB,13,1999-11-22,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,61/7,34/7,34/7,5,South Carolina
+00-0039299,George Holani,SEA,RB,36,1999-12-16,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,56/11,38/11,38/11,2,Boise State
+00-0040639,Grey Zabel,SEA,OL,76,2002-03-30,24,Aries,Horse,Water Horse,Horse,false,37/10/1,10/1,10/1,1,North Dakota State
+00-0041512,Jadarian Price,SEA,RB,8,2003-10-09,22,Libra,Goat,Water Goat,Goat,false,24/6,15/6,15/6,0,Notre Dame
+00-0040673,Jalen Milroe,SEA,QB,6,2002-12-13,23,Sagittarius,Horse,Water Horse,Horse,false,29/11,11,11,1,Alabama
+00-0039926,Jalen Sundell,SEA,OL,61,1999-10-18,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,56/11,38/11,38/11,2,North Dakota State
+00-0032387,Jarran Reed,SEA,DL,90,1992-12-16,33,Sagittarius,Monkey,Water Monkey,Monkey,false,49/13/4,31/4,31/4,10,Alabama; East Mississippi JC
+00-0031492,Jason Myers,SEA,K,5,1991-05-12,35,Taurus,Goat,Metal Goat,Goat,false,37/10/1,28/10/1,28/10/1,11,Marist
+00-0038543,Jaxon Smith-Njigba,SEA,WR,11,2002-02-14,24,Aquarius,Horse,Water Horse,Horse,false,20/2,11,11,3,Ohio State
+00-0037137,Josh Jobe,SEA,DB,29,1998-04-09,28,Aries,Tiger,Earth Tiger,Tiger,false,40/4,40/4,40/4,4,Alabama
+00-0036363,Josh Jones,SEA,OL,74,1997-06-22,29,Cancer,Ox,Fire Ox,Ox,false,54/9,36/9,36/9,6,Houston
+00-0034974,Julian Love,SEA,DB,20,1998-03-19,28,Pisces,Tiger,Earth Tiger,Tiger,false,49/13/4,40/4,40/4,7,Notre Dame
+00-0040873,Julian Neal,SEA,DB,1,2003-02-12,23,Aquarius,Goat,Water Goat,Goat,false,19/10/1,10/1,10/1,0,Arkansas; Fresno State
+00-0031933,Leonard Williams,SEA,DL,99,1994-06-20,32,Gemini,Dog,Wood Dog,Dog,false,49/13/4,31/4,31/4,11,USC
+00-0034160,Michael Dickson,SEA,P,4,1996-01-04,30,Capricorn,Pig,Wood Pig,Rat,true,30/3,30/3,30/3,8,Texas
+00-0039795,Nehemiah Pritchett,SEA,DB,28,2001-02-11,25,Aquarius,Snake,Metal Snake,Snake,false,16/7,7,7,2,Auburn
+00-0040733,Nick Emmanwori,SEA,DB,3,2004-02-07,22,Aquarius,Monkey,Wood Monkey,Monkey,false,15/6,15/6,15/6,1,South Carolina
+00-0040058,Nick Kallerup,SEA,TE,89,2001-03-27,25,Aries,Snake,Metal Snake,Snake,false,33,15/6,15/6,1,Minnesota
+00-0038593,Olu Oluwatimi,SEA,OL,55,1999-08-05,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,41/5,41/5,41/5,3,Michigan; Virginia
+00-0038764,Patrick O'Connell,SEA,LB,52,1998-12-31,27,Capricorn,Tiger,Earth Tiger,Tiger,false,70/7,34/7,34/7,3,Montana
+00-0037545,Rashid Shaheed,SEA,WR,22,1998-08-31,28,Virgo,Tiger,Earth Tiger,Tiger,false,66/12/3,39/12/3,39/12/3,4,Weber State
+00-0037323,Rodney Thomas,SEA,DB,24,1998-06-26,28,Cancer,Tiger,Earth Tiger,Tiger,false,59/14/5,41/5,41/5,4,Yale
+00-0040647,Rylie Mills,SEA,DL,98,2001-08-20,25,Leo,Snake,Metal Snake,Snake,false,31/4,13/4,13/4,1,Notre Dame
+00-0040648,Tory Horton,SEA,WR,15,2002-11-29,23,Sagittarius,Horse,Water Horse,Horse,false,44/8,17/8,17/8,1,Colorado State; Nevada
+00-0039815,Tyrice Knight,SEA,LB,48,1999-12-20,26,Sagittarius,Rabbit,Earth Rabbit,Rabbit,false,60/6,33,33,2,Texas-El Paso; Independence Comm. College
+00-0034350,Uchenna Nwosu,SEA,LB,7,1996-12-28,29,Capricorn,Rat,Fire Rat,Rat,false,65/11,38/11,38/11,8,USC
+00-0036329,Ashtyn Davis,SF,DB,24,1996-10-10,29,Libra,Rat,Fire Rat,Rat,false,45/9,27/9,27/9,6,California
+00-0038643,Brayden Willis,SF,TE,9,1999-11-11,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,50/5,32/5,32/5,3,Oklahoma
+00-0037834,Brock Purdy,SF,QB,13,1999-12-27,26,Capricorn,Rabbit,Earth Rabbit,Rabbit,false,67/13/4,40/4,40/4,4,Iowa State
+00-0041061,Carver Willis,SF,OL,74,2002-04-20,24,Taurus,Horse,Water Horse,Horse,false,28/10/1,10/1,10/1,0,Washington; Kansas State
+00-0033280,Christian McCaffrey,SF,RB,23,1996-06-07,30,Gemini,Rat,Fire Rat,Rat,false,38/11,38/11,38/11,9,Stanford
+00-0040711,CJ West,SF,DL,99,2002-06-12,24,Gemini,Horse,Water Horse,Horse,false,22,13/4,13/4,1,Indiana; Kent State
+00-0036256,Colton McKivitz,SF,OL,68,1996-08-09,30,Leo,Rat,Fire Rat,Rat,false,42/6,42/6,42/6,6,West Virginia
+00-0040245,Connor Colby,SF,OL,75,2003-01-16,23,Capricorn,Horse,Water Horse,Goat,true,22,13/4,13/4,1,Iowa
+00-0035821,Corliss Waitman,SF,P,15,1995-07-21,31,Cancer,Pig,Wood Pig,Pig,false,52/7,34/7,34/7,6,South Alabama
+00-0035719,Deebo Samuel Sr.,SF,WR,19,1996-01-15,30,Capricorn,Pig,Wood Pig,Rat,true,41/5,32/5,32/5,7,South Carolina
+00-0032775,Demarcus Robinson,SF,WR,11,1994-09-21,32,Virgo,Dog,Wood Dog,Dog,false,53/8,35/8,35/8,10,Florida
+00-0036563,Deommodore Lenoir,SF,DB,2,1999-10-06,26,Libra,Rabbit,Earth Rabbit,Rabbit,false,44/8,35/8,35/8,5,Oregon
+00-0039351,Dominick Puni,SF,OL,77,2000-02-24,26,Pisces,Dragon,Metal Dragon,Dragon,false,28/10/1,10/1,10/1,2,Kansas; Central Missouri
+00-0034982,Dre Greenlaw,SF,LB,57,1997-05-25,29,Gemini,Ox,Fire Ox,Ox,false,56/11,38/11,38/11,7,Arkansas
+00-0034173,Eddy Pineiro,SF,K,18,1995-09-13,31,Virgo,Pig,Wood Pig,Pig,false,46/10/1,37/10/1,37/10/1,8,Florida
+00-0034815,Fred Warner,SF,LB,54,1996-11-19,29,Scorpio,Rat,Fire Rat,Rat,false,55/10/1,37/10/1,37/10/1,8,BYU
+00-0036844,Garret Wallow,SF,LB,49,1999-01-25,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,54/9,36/9,36/9,5,TCU
+00-0033288,George Kittle,SF,TE,85,1993-10-09,32,Libra,Rooster,Water Rooster,Rooster,false,41/5,32/5,32/5,9,Iowa
+00-0041557,Gracen Halton,SF,DL,93,2004-01-27,22,Aquarius,Monkey,Wood Monkey,Monkey,false,34/7,16/7,16/7,0,Oklahoma
+00-0038039,Jack Jones,SF,DB,25,1997-12-20,28,Sagittarius,Ox,Fire Ox,Ox,false,58/13/4,31/4,31/4,4,Arizona State
+00-0039365,Jacob Cowing,SF,WR,4,2001-02-04,25,Aquarius,Snake,Metal Snake,Snake,false,9,9,9,2,Arizona; Texas-El Paso
+00-0041078,Jaden Dugger,SF,LB,53,2004-02-26,22,Pisces,Monkey,Wood Monkey,Monkey,false,34/7,16/7,16/7,0,Louisiana; Georgetown
+00-0032701,Jake Brendel,SF,OL,64,1992-09-10,34,Virgo,Monkey,Water Monkey,Monkey,false,40/4,31/4,31/4,10,UCLA
+00-0041363,James Thompson Jr.,SF,DL,96,2002-08-29,24,Virgo,Horse,Water Horse,Horse,false,41/5,23/5,23/5,0,Illinois; Wisconsin
+00-0038615,Jarrett Patterson,SF,OL,58,1999-09-01,27,Virgo,Rabbit,Earth Rabbit,Rabbit,false,38/11,38/11,38/11,3,Notre Dame
+00-0038554,Ji'Ayir Brown,SF,DB,27,2000-01-25,26,Aquarius,Rabbit,Earth Rabbit,Dragon,true,28/10/1,10/1,10/1,3,Penn State; Lackawanna JC
+00-0027224,Jon Weeks,SF,LS,46,1986-02-17,40,Aquarius,Tiger,Fire Tiger,Tiger,false,43/7,34/7,34/7,16,Baylor
+00-0040177,Jordan James,SF,RB,29,2004-03-29,22,Aries,Monkey,Wood Monkey,Monkey,false,38/11,20/2,20/2,1,Oregon
+00-0041052,Kaelon Black,SF,RB,26,2001-10-17,24,Libra,Snake,Metal Snake,Snake,false,30/3,12/3,12/3,0,Indiana; James Madison
+00-0039148,Keion White,SF,DL,56,1999-01-20,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,49/13/4,31/4,31/4,3,Georgia Tech; Old Dominion
+00-0034854,KhaDarel Hodge,SF,WR,86,1994-01-03,32,Capricorn,Rooster,Water Rooster,Dog,true,27/9,27/9,27/9,8,Prairie View A&M; Hinds CC; Alcorn State
+00-0036341,Khalid Kareem,SF,DL,47,1998-04-28,28,Taurus,Tiger,Earth Tiger,Tiger,false,59/14/5,41/5,41/5,6,Notre Dame
+00-0029892,Kyle Juszczyk,SF,RB,44,1991-04-23,35,Taurus,Goat,Metal Goat,Goat,false,47/11,29/11,29/11,13,Harvard
+00-0036887,Luke Farrell,SF,TE,89,1997-10-14,28,Libra,Ox,Fire Ox,Ox,false,50/5,32/5,32/5,5,Ohio State
+00-0035413,Luke Gifford,SF,LB,51,1995-08-28,31,Virgo,Pig,Wood Pig,Pig,false,60/6,42/6,42/6,7,Nebraska
+00-0036972,Mac Jones,SF,QB,10,1998-09-05,28,Virgo,Tiger,Earth Tiger,Tiger,false,41/5,41/5,41/5,5,Alabama
+00-0039360,Malik Mustapha,SF,DB,6,2002-06-25,24,Cancer,Horse,Water Horse,Horse,false,35/8,17/8,17/8,2,Wake Forest
+00-0040185,Marques Sigle,SF,DB,36,2002-07-18,24,Cancer,Horse,Water Horse,Horse,false,29/11,20/2,20/2,1,Kansas State; North Dakota State
+00-0031408,Mike Evans,SF,WR,5,1993-08-21,33,Leo,Rooster,Water Rooster,Rooster,false,51/6,33,33,12,Texas A&M
+00-0035717,Nick Bosa,SF,DL,97,1997-10-23,28,Scorpio,Ox,Fire Ox,Ox,false,59/14/5,32/5,32/5,7,Ohio State
+00-0034807,Ogbo Okoronkwo,SF,DL,59,1995-04-24,31,Taurus,Pig,Wood Pig,Pig,false,52/7,34/7,34/7,8,Oklahoma
+00-0036942,Osa Odighizuwa,SF,DL,92,1998-08-13,28,Leo,Tiger,Earth Tiger,Tiger,false,48/12/3,39/12/3,39/12/3,5,UCLA
+00-0039345,Renardo Green,SF,DB,0,2000-11-09,25,Scorpio,Dragon,Metal Dragon,Dragon,false,22,13/4,13/4,2,Florida State
+00-0041556,Romello Height,SF,DL,94,2001-04-13,25,Aries,Snake,Metal Snake,Snake,false,20/2,11,11,0,Texas Tech; Georgia Tech; USC; Auburn
+00-0034391,Siran Neal,SF,DB,33,1994-08-04,32,Leo,Dog,Wood Dog,Dog,false,35/8,35/8,35/8,8,Jacksonville State
+00-0027857,Trent Williams,SF,OL,71,1988-07-19,38,Cancer,Dragon,Earth Dragon,Dragon,false,52/7,43/7,43/7,16,Oklahoma
+00-0040152,Upton Stout,SF,DB,20,2002-01-09,24,Capricorn,Snake,Metal Snake,Horse,true,14/5,14/5,14/5,1,Western Kentucky; North Texas
+00-0037287,Vederian Lowe,SF,OL,76,1999-04-17,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,49/13/4,40/4,40/4,4,Illinois
+00-0032889,A'Shawn Robinson,TB,DL,91,1995-03-21,31,Aries,Pig,Wood Pig,Pig,false,48/12/3,30/3,30/3,10,Alabama
+00-0033964,Al-Quadin Muhammad,TB,LB,97,1995-03-28,31,Aries,Pig,Wood Pig,Pig,false,55/10/1,37/10/1,37/10/1,9,Miami
+00-0033914,Alex Anzalone,TB,LB,34,1994-09-22,32,Virgo,Dog,Wood Dog,Dog,false,54/9,36/9,36/9,9,Florida
+00-0035254,Anthony Nelson,TB,LB,98,1997-03-04,29,Pisces,Ox,Fire Ox,Ox,false,33,33,33,7,Iowa
+00-0036411,Antoine Winfield Jr.,TB,DB,31,1998-08-16,28,Leo,Tiger,Earth Tiger,Tiger,false,51/6,42/6,42/6,6,Minnesota
+00-0034855,Baker Mayfield,TB,QB,6,1995-04-14,31,Aries,Pig,Wood Pig,Pig,false,42/6,33,33,8,Oklahoma; Texas Tech
+00-0041094,Bauer Sharp,TB,TE,84,2003-05-03,23,Taurus,Goat,Water Goat,Goat,false,13/4,13/4,13/4,0,LSU; Oklahoma; Southeastern Louisiana
+00-0036132,Ben Bredeson,TB,OL,68,1998-02-20,28,Pisces,Tiger,Earth Tiger,Tiger,false,49/13/4,31/4,31/4,6,Michigan
+00-0040417,Benjamin Chukwuma,TB,OL,70,2001-05-08,25,Taurus,Snake,Metal Snake,Snake,false,16/7,16/7,16/7,1,Georgia State
+00-0040747,Benjamin Morrison,TB,DB,21,2004-03-11,22,Pisces,Monkey,Wood Monkey,Monkey,false,20/2,11,11,1,Notre Dame
+00-0039361,Bucky Irving,TB,RB,7,2002-08-19,24,Leo,Horse,Water Horse,Horse,false,31/4,22,22,2,Oregon; Minnesota
+00-0038129,Cade Otton,TB,TE,88,1999-04-15,27,Aries,Rabbit,Earth Rabbit,Rabbit,false,47/11,38/11,38/11,4,Washington
+00-0039063,Calijah Kancey,TB,DL,94,2001-03-01,25,Pisces,Snake,Metal Snake,Snake,false,7,7,7,3,Pittsburgh
+00-0035358,Chase McLaughlin,TB,K,4,1996-04-09,30,Aries,Rat,Fire Rat,Rat,false,38/11,38/11,38/11,7,Illinois
+00-0033921,Chris Godwin Jr.,TB,WR,14,1996-02-27,30,Pisces,Rat,Fire Rat,Rat,false,54/9,36/9,36/9,9,Penn State
+00-0035942,Christian Rozeboom,TB,LB,52,1997-01-30,29,Aquarius,Rat,Fire Rat,Ox,true,57/12/3,30/3,30/3,6,South Dakota State
+00-0039157,Cody Mauch,TB,OL,69,1999-01-15,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,44/8,35/8,35/8,3,North Dakota State
+00-0033910,Dan Feeney,TB,OL,65,1994-05-29,32,Gemini,Dog,Wood Dog,Dog,false,57/12/3,39/12/3,39/12/3,9,Indiana
+00-0040158,David Walker,TB,LB,51,2000-06-03,26,Gemini,Dragon,Metal Dragon,Dragon,false,11,11,11,1,Central Arkansas; Southern Arkansas
+00-0040183,Elijah Roberts,TB,DL,95,2001-12-24,24,Capricorn,Snake,Metal Snake,Snake,false,39/12/3,12/3,12/3,1,SMU; Miami
+00-0040129,Emeka Egbuka,TB,WR,2,2002-10-14,23,Libra,Horse,Water Horse,Horse,false,28/10/1,10/1,10/1,1,Ohio State
+00-0038817,Evan Deckers,TB,LS,86,1999-02-23,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,53/8,35/8,35/8,3,Duke
+00-0039905,Graham Barton,TB,OL,62,2002-06-01,24,Gemini,Horse,Water Horse,Horse,false,11,11,11,2,Duke
+00-0036993,Ifeatu Melifonwu,TB,DB,5,1999-05-02,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,35/8,35/8,35/8,5,Syracuse
+00-0039855,Jalen McMillan,TB,WR,11,2001-12-07,24,Sagittarius,Snake,Metal Snake,Snake,false,22,13/4,13/4,2,Washington
+00-0041251,Jalon Daniels,TB,QB,10,2002-10-29,23,Scorpio,Horse,Water Horse,Horse,false,43/7,16/7,16/7,0,Kansas
+00-0041502,Josiah Trotter,TB,LB,45,2005-04-15,21,Aries,Rooster,Wood Rooster,Rooster,false,26/8,17/8,17/8,0,Missouri
+00-0034989,Justin Skule,TB,OL,77,1996-11-23,29,Sagittarius,Rat,Fire Rat,Rat,false,59/14/5,32/5,32/5,7,Vanderbilt
+00-0039589,Kameron Johnson,TB,WR,19,2002-03-17,24,Pisces,Horse,Water Horse,Horse,false,24/6,15/6,15/6,2,Barton College
+00-0041057,Keionte Scott,TB,DB,22,2001-08-11,25,Leo,Snake,Metal Snake,Snake,false,22,13/4,13/4,0,Miami; Auburn; Snow
+00-0036919,Kenny Gainwell,TB,RB,1,1999-03-14,27,Pisces,Rabbit,Earth Rabbit,Rabbit,false,45/9,36/9,36/9,5,Memphis
+00-0040089,Kevin Knowles,TB,DB,38,2003-04-09,23,Aries,Goat,Water Goat,Goat,false,18/9,18/9,18/9,1,Florida State
+00-0037311,Ko Kieft,TB,TE,41,1998-01-20,28,Aquarius,Ox,Fire Ox,Tiger,true,48/12/3,30/3,30/3,4,Minnesota
+00-0037835,Luke Goedeke,TB,OL,67,1998-11-21,27,Scorpio,Tiger,Earth Tiger,Tiger,false,59/14/5,32/5,32/5,4,Central Michigan
+00-0032399,Miles Killebrew,TB,DB,29,1993-05-10,33,Taurus,Rooster,Water Rooster,Rooster,false,37/10/1,28/10/1,28/10/1,10,Southern Utah State
+00-0039050,Payne Durham,TB,TE,87,2000-06-15,26,Gemini,Dragon,Metal Dragon,Dragon,false,23/5,14/5,14/5,3,Purdue
+00-0031957,Rakeem Nunez-Roches,TB,DL,56,1993-07-03,33,Cancer,Rooster,Water Rooster,Rooster,false,32/5,32/5,32/5,11,Southern Mississippi
+00-0032943,Riley Dixon,TB,P,9,1993-08-24,33,Virgo,Rooster,Water Rooster,Rooster,false,54/9,36/9,36/9,10,Syracuse
+00-0041031,Rueben Bain Jr.,TB,LB,3,2004-09-08,22,Virgo,Monkey,Wood Monkey,Monkey,false,23/5,23/5,23/5,0,Miami
+00-0038951,Sean Tucker,TB,RB,44,2001-10-25,24,Scorpio,Snake,Metal Snake,Snake,false,38/11,11,11,3,Syracuse
+00-0039049,SirVocea Dennis,TB,LB,8,2000-03-09,26,Pisces,Dragon,Metal Dragon,Dragon,false,14/5,14/5,14/5,3,Pittsburgh
+00-0041048,Ted Hurst III,TB,WR,17,2004-07-02,22,Cancer,Monkey,Wood Monkey,Monkey,false,15/6,15/6,15/6,0,Georgia State; Valdosta State
+00-0040237,Tez Johnson,TB,WR,15,2002-05-18,24,Taurus,Horse,Water Horse,Horse,false,27/9,18/9,18/9,1,Oregon; Troy
+00-0036406,Tristan Wirfs,TB,OL,78,1999-01-24,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,53/8,35/8,35/8,6,Iowa
+00-0039846,Tykee Smith,TB,DB,23,2001-02-18,25,Aquarius,Snake,Metal Snake,Snake,false,23/5,14/5,14/5,2,Georgia; West Virginia
+00-0034773,Vita Vea,TB,DL,50,1995-02-05,31,Aquarius,Pig,Wood Pig,Pig,false,31/4,31/4,31/4,8,Washington
+00-0039068,Yaya Diaby,TB,LB,0,1999-05-30,27,Gemini,Rabbit,Earth Rabbit,Rabbit,false,63/9,36/9,36/9,3,Louisville
+00-0037268,Zyon McCollum,TB,DB,27,1999-05-03,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,36/9,36/9,36/9,4,Sam Houston State
+00-0038121,Alontae Taylor,TEN,DB,24,1998-12-03,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,42/6,33,33,4,Tennessee
+00-0035632,Amani Hooker,TEN,DB,37,1998-06-14,28,Gemini,Tiger,Earth Tiger,Tiger,false,47/11,38/11,38/11,7,Iowa
+00-0041479,Anthony Hill Jr.,TEN,LB,53,2005-02-14,21,Aquarius,Rooster,Wood Rooster,Rooster,false,23/5,14/5,14/5,0,Texas
+00-0034112,Austin Schlottmann,TEN,OL,51,1995-09-18,31,Virgo,Pig,Wood Pig,Pig,false,51/6,42/6,42/6,8,TCU
+00-0034837,Calvin Ridley,TEN,WR,0,1994-12-20,31,Sagittarius,Dog,Wood Dog,Dog,false,55/10/1,28/10/1,28/10/1,8,Alabama
+00-0040676,Cam Ward,TEN,QB,1,2002-05-25,24,Gemini,Horse,Water Horse,Horse,false,34/7,16/7,16/7,1,Miami; Washington State; Incarnate Word
+00-0041438,Carnell Tate,TEN,WR,14,2005-01-19,21,Capricorn,Monkey,Wood Monkey,Rooster,true,27/9,18/9,18/9,0,Ohio State
+00-0039858,Cedric Gray,TEN,LB,33,2002-10-30,23,Scorpio,Horse,Water Horse,Horse,false,44/8,8,8,2,North Carolina
+00-0040705,Chimere Dike,TEN,WR,17,2001-12-14,24,Sagittarius,Snake,Metal Snake,Snake,false,29/11,11,11,1,Florida; Wisconsin
+00-0035672,Cody Barton,TEN,LB,50,1996-11-13,29,Scorpio,Rat,Fire Rat,Rat,false,49/13/4,31/4,31/4,7,Utah
+00-0036869,Dan Moore Jr.,TEN,OL,75,1998-09-28,27,Libra,Tiger,Earth Tiger,Tiger,false,64/10/1,46/10/1,46/10/1,5,Texas A&M
+00-0038115,Daniel Bellinger,TEN,TE,82,2000-09-22,26,Virgo,Dragon,Metal Dragon,Dragon,false,33,15/6,15/6,4,San Diego State
+00-0039648,David Martin-Robinson,TEN,TE,88,1999-12-26,26,Capricorn,Rabbit,Earth Rabbit,Rabbit,false,66/12/3,39/12/3,39/12/3,2,Temple
+00-0040170,Elic Ayomanor,TEN,WR,5,2003-06-03,23,Gemini,Goat,Water Goat,Goat,false,14/5,14/5,14/5,1,Stanford
+00-0038620,Erick Hallett,TEN,DB,41,2000-04-24,26,Taurus,Dragon,Metal Dragon,Dragon,false,30/3,12/3,12/3,3,Pittsburgh
+00-0040881,Fernando Carmona,TEN,OL,66,2002-07-08,24,Cancer,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,0,Arkansas; San Jose State
+00-0040584,Gunnar Helm,TEN,TE,84,2002-09-06,24,Virgo,Horse,Water Horse,Horse,false,19/10/1,19/10/1,19/10/1,1,Texas
+00-0040190,Jackson Slater,TEN,OL,64,2003-05-30,23,Gemini,Goat,Water Goat,Goat,false,40/4,13/4,13/4,1,Sacramento State
+00-0034163,Jacob Martin,TEN,DL,57,1995-12-11,30,Sagittarius,Pig,Wood Pig,Pig,false,47/11,29/11,29/11,8,Temple
+00-0036866,James Hudson,TEN,OL,59,1999-05-13,27,Taurus,Rabbit,Earth Rabbit,Rabbit,false,46/10/1,37/10/1,37/10/1,5,Cincinnati
+00-0038407,Jaylon Jones,TEN,DB,42,2002-04-03,24,Aries,Horse,Water Horse,Horse,false,11,11,11,3,Texas A&M
+00-0039731,JC Latham,TEN,OL,55,2003-02-08,23,Aquarius,Goat,Water Goat,Goat,false,15/6,15/6,15/6,2,Alabama
+00-0035643,Jeffery Simmons,TEN,DL,98,1997-07-28,29,Leo,Ox,Fire Ox,Ox,false,61/7,43/7,43/7,7,Mississippi State
+00-0037663,Jermaine Johnson II,TEN,LB,11,1999-01-08,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,37/10/1,37/10/1,37/10/1,4,Florida State
+00-0035192,Joey Slye,TEN,K,6,1996-04-10,30,Aries,Rat,Fire Rat,Rat,false,39/12/3,30/3,30/3,7,Virginia Tech
+00-0034805,John Franklin-Myers,TEN,DL,91,1996-09-26,29,Libra,Rat,Fire Rat,Rat,false,60/6,42/6,42/6,8,Stephen F. Austin State
+00-0036266,Jordan Elliott,TEN,DL,95,1997-11-23,28,Sagittarius,Ox,Fire Ox,Ox,false,60/6,33,33,6,Missouri; Texas
+00-0037594,Julius Chestnut,TEN,RB,36,2000-10-26,25,Scorpio,Dragon,Metal Dragon,Dragon,false,38/11,11,11,4,Sacred Heart University
+00-0041508,Keldric Faulk,TEN,LB,15,2005-09-07,21,Virgo,Rooster,Wood Rooster,Rooster,false,23/5,23/5,23/5,0,Auburn
+00-0040141,Kevin Winston Jr.,TEN,DB,23,2003-12-02,22,Sagittarius,Goat,Water Goat,Goat,false,19/10/1,10/1,10/1,1,Penn State
+00-0040201,Marcus Harris,TEN,DB,26,2001-03-06,25,Pisces,Snake,Metal Snake,Snake,false,12/3,12/3,12/3,1,California; Idaho; Oregon State
+00-0040020,Micah Robinson,TEN,DB,21,2002-02-05,24,Aquarius,Snake,Metal Snake,Horse,true,11,11,11,1,Tulane
+00-0033869,Mitchell Trubisky,TEN,QB,10,1994-08-20,32,Leo,Dog,Wood Dog,Dog,false,51/6,33,33,9,North Carolina
+00-0027557,Morgan Cox,TEN,LS,46,1986-04-26,40,Taurus,Tiger,Fire Tiger,Tiger,false,54/9,36/9,36/9,16,Tennessee
+00-0040041,Nazir Stackhouse,TEN,DL,93,2002-04-18,24,Aries,Horse,Water Horse,Horse,false,26/8,17/8,17/8,1,Georgia
+00-0040886,Nicholas Singleton,TEN,RB,32,2004-01-06,22,Capricorn,Goat,Water Goat,Monkey,true,13/4,13/4,13/4,0,Penn State
+00-0040752,Oluwafemi Oladejo,TEN,LB,7,2003-09-29,22,Libra,Goat,Water Goat,Goat,false,43/7,25/7,25/7,1,UCLA; California
+00-0038600,Owen Pappoe,TEN,LB,40,2000-09-29,25,Libra,Dragon,Metal Dragon,Dragon,false,40/4,22,22,3,Auburn
+00-0040893,Pat Coogan,TEN,OL,79,2002-11-18,23,Scorpio,Horse,Water Horse,Horse,false,33,15/6,15/6,0,Indiana; Notre Dame
+00-0039034,Peter Skoronski,TEN,OL,77,2001-07-31,25,Leo,Snake,Metal Snake,Snake,false,41/5,14/5,14/5,3,Northwestern
+00-0033870,Solomon Thomas,TEN,DL,90,1995-08-26,31,Virgo,Pig,Wood Pig,Pig,false,58/13/4,40/4,40/4,9,Stanford
+00-0036421,Terrell Burgess,TEN,DB,38,1998-11-12,27,Scorpio,Tiger,Earth Tiger,Tiger,false,50/5,32/5,32/5,6,Utah
+00-0035889,Tommy Townsend,TEN,P,3,1996-11-12,29,Scorpio,Rat,Fire Rat,Rat,false,48/12/3,30/3,30/3,6,Florida
+00-0037155,Tony Adams,TEN,DB,29,1999-01-24,27,Aquarius,Tiger,Earth Tiger,Rabbit,true,53/8,35/8,35/8,4,Illinois
+00-0035261,Tony Pollard,TEN,RB,20,1997-04-30,29,Taurus,Ox,Fire Ox,Ox,false,60/6,33,33,7,Memphis
+00-0038514,Truman Jones,TEN,DL,56,2000-05-13,26,Taurus,Dragon,Metal Dragon,Dragon,false,20/2,11,11,3,Harvard
+00-0039032,Tyjae Spears,TEN,RB,2,2001-06-15,25,Gemini,Snake,Metal Snake,Snake,false,24/6,15/6,15/6,3,Tulane
+00-0038117,Wan'Dale Robinson,TEN,WR,4,2001-01-05,25,Capricorn,Dragon,Metal Dragon,Snake,true,9,9,9,4,Kentucky
+00-0040318,Ale Kaho,WAS,LB,51,2000-04-07,26,Aries,Dragon,Metal Dragon,Dragon,false,13/4,13/4,13/4,1,UCLA; Alabama
+00-0036375,Amik Robertson,WAS,DB,2,1998-07-06,28,Cancer,Tiger,Earth Tiger,Tiger,false,40/4,40/4,40/4,6,Louisiana Tech
+00-0033831,Andrew Wylie,WAS,OL,71,1994-08-19,32,Leo,Dog,Wood Dog,Dog,false,50/5,41/5,41/5,9,Eastern Michigan
+00-0041040,Antonio Williams,WAS,WR,14,2004-07-14,22,Cancer,Monkey,Wood Monkey,Monkey,false,27/9,18/9,18/9,0,Clemson
+00-0039912,Ben Sinnott,WAS,TE,82,2002-06-14,24,Gemini,Horse,Water Horse,Horse,false,24/6,15/6,15/6,2,Kansas State
+00-0039913,Brandon Coleman,WAS,OL,74,2000-10-12,25,Libra,Dragon,Metal Dragon,Dragon,false,24/6,6,6,2,TCU; Trinity Valley CC
+00-0035279,Charles Omenihu,WAS,DL,90,1997-08-20,29,Leo,Ox,Fire Ox,Ox,false,54/9,36/9,36/9,7,Texas
+00-0037092,Chris Paul,WAS,OL,75,1998-11-19,27,Scorpio,Tiger,Earth Tiger,Tiger,false,57/12/3,39/12/3,39/12/3,4,Tulsa
+00-0039686,Colson Yankoff,WAS,TE,80,2000-03-01,26,Pisces,Dragon,Metal Dragon,Dragon,false,6,6,6,2,UCLA; Washington
+00-0034333,Daron Payne,WAS,DL,94,1997-05-27,29,Gemini,Ox,Fire Ox,Ox,false,58/13/4,40/4,40/4,8,Alabama
+00-0034373,Dorance Armstrong,WAS,LB,92,1997-06-10,29,Gemini,Ox,Fire Ox,Ox,false,42/6,33,33,8,Kansas
+00-0041182,Drew Stevens,WAS,K,19,2003-12-09,22,Sagittarius,Goat,Water Goat,Goat,false,26/8,17/8,17/8,0,Iowa
+00-0036626,Dyami Brown,WAS,WR,6,1999-11-01,26,Scorpio,Rabbit,Earth Rabbit,Rabbit,false,40/4,31/4,31/4,5,North Carolina
+00-0033918,Fabian Moreau,WAS,DB,24,1994-04-09,32,Aries,Dog,Wood Dog,Dog,false,36/9,36/9,36/9,9,UCLA
+00-0040242,Jacory Croskey-Merritt,WAS,RB,22,2001-04-12,25,Aries,Snake,Metal Snake,Snake,false,19/10/1,10/1,10/1,1,Arizona; New Mexico; Alabama State
+00-0036260,Javon Kinlaw,WAS,DL,99,1997-10-03,28,Libra,Ox,Fire Ox,Ox,false,39/12/3,30/3,30/3,6,South Carolina; Jones County JC
+00-0039412,Javontae Jean-Baptiste,WAS,LB,41,2000-05-16,26,Taurus,Dragon,Metal Dragon,Dragon,false,23/5,14/5,14/5,2,Notre Dame; Ohio State
+00-0039910,Jayden Daniels,WAS,QB,5,2000-12-18,25,Sagittarius,Dragon,Metal Dragon,Dragon,false,32/5,14/5,14/5,2,LSU; Arizona State
+00-0040164,Jaylin Lane,WAS,WR,83,2002-05-01,24,Taurus,Horse,Water Horse,Horse,false,10/1,10/1,10/1,1,Virginia Tech; Middle Tennessee State
+00-0034465,Jeremy Reaves,WAS,DB,39,1996-08-29,30,Virgo,Rat,Fire Rat,Rat,false,62/8,44/8,44/8,8,South Alabama
+00-0036628,John Bates,WAS,TE,87,1997-11-06,28,Scorpio,Ox,Fire Ox,Ox,false,43/7,34/7,34/7,5,Boise State
+00-0040686,Josh Conerly Jr.,WAS,OL,72,2003-11-05,22,Scorpio,Goat,Water Goat,Goat,false,21/3,12/3,12/3,1,Oregon
+00-0041074,Joshua Josephs,WAS,LB,48,2003-12-08,22,Sagittarius,Goat,Water Goat,Goat,false,25/7,16/7,16/7,0,Tennessee
+00-0036286,K'Lavon Chaisson,WAS,LB,45,1999-07-25,27,Leo,Rabbit,Earth Rabbit,Rabbit,false,60/6,42/6,42/6,6,LSU
+00-0040216,Kain Medrano,WAS,LB,56,2001-02-16,25,Aquarius,Snake,Metal Snake,Snake,false,21/3,12/3,12/3,1,UCLA
+00-0041096,Kaytron Allen,WAS,RB,31,2003-01-08,23,Capricorn,Horse,Water Horse,Goat,true,14/5,14/5,14/5,0,Penn State
+00-0037819,Leo Chenal,WAS,LB,54,2000-10-26,25,Scorpio,Dragon,Metal Dragon,Dragon,false,38/11,11,11,4,Wisconsin
+00-0033082,Lucas Patrick,WAS,OL,63,1993-07-30,33,Leo,Rooster,Water Rooster,Rooster,false,59/14/5,32/5,32/5,10,Duke
+00-0032268,Marcus Mariota,WAS,QB,8,1993-10-30,32,Scorpio,Rooster,Water Rooster,Rooster,false,62/8,26/8,26/8,11,Oregon
+00-0041108,Matt Gulbin,WAS,OL,66,2002-10-27,23,Scorpio,Horse,Water Horse,Horse,false,41/5,14/5,14/5,0,Michigan State; Wake Forest
+00-0039898,Mike Sainristil,WAS,DB,0,2000-10-03,25,Libra,Dragon,Metal Dragon,Dragon,false,15/6,6,6,2,Michigan
+00-0035149,Nick Allegretti,WAS,OL,67,1996-04-21,30,Taurus,Rat,Fire Rat,Rat,false,50/5,32/5,32/5,7,Illinois
+00-0037616,Nick Cross,WAS,DB,25,2001-09-10,25,Virgo,Snake,Metal Snake,Snake,false,22,13/4,13/4,4,Maryland
+00-0036940,Odafe Oweh,WAS,LB,98,1998-12-15,27,Sagittarius,Tiger,Earth Tiger,Tiger,false,54/9,36/9,36/9,5,Penn State
+00-0038100,Percy Butler,WAS,DB,35,2000-05-29,26,Gemini,Dragon,Metal Dragon,Dragon,false,36/9,18/9,18/9,4,Louisiana-Lafayette
+00-0039149,Quan Martin,WAS,DB,20,2000-04-17,26,Aries,Dragon,Metal Dragon,Dragon,false,23/5,14/5,14/5,3,Illinois
+00-0037256,Rachaad White,WAS,RB,1,1999-01-12,27,Capricorn,Tiger,Earth Tiger,Rabbit,true,41/5,32/5,32/5,4,Arizona State; Mt. San Antonio; Kearney State
+00-0033551,Rasul Douglas,WAS,DB,29,1994-08-29,32,Virgo,Dog,Wood Dog,Dog,false,60/6,42/6,42/6,9,West Virginia; Nassau CC
+00-0036618,Sam Cosmi,WAS,OL,76,1999-02-16,27,Aquarius,Rabbit,Earth Rabbit,Rabbit,false,46/10/1,37/10/1,37/10/1,5,Texas
+00-0035409,Shy Tuttle,WAS,DL,96,1995-10-20,30,Libra,Pig,Wood Pig,Pig,false,54/9,27/9,27/9,7,Tennessee
+00-0041028,Sonny Styles,WAS,LB,52,2004-11-24,21,Sagittarius,Monkey,Wood Monkey,Monkey,false,41/5,14/5,14/5,0,Ohio State
+00-0031588,Stefon Diggs,WAS,WR,3,1993-11-29,32,Sagittarius,Rooster,Water Rooster,Rooster,false,62/8,35/8,35/8,11,Maryland
+00-0035659,Terry McLaurin,WAS,WR,17,1995-09-15,31,Virgo,Pig,Wood Pig,Pig,false,48/12/3,39/12/3,39/12/3,7,Ohio State
+00-0034397,Tim Settle,WAS,DL,97,1997-07-11,29,Cancer,Ox,Fire Ox,Ox,false,44/8,35/8,35/8,8,Virginia Tech
+00-0030140,Tress Way,WAS,P,10,1990-04-18,36,Aries,Horse,Metal Horse,Horse,false,41/5,32/5,32/5,13,Oklahoma
+00-0037742,Treylon Burks,WAS,WR,13,2000-03-23,26,Aries,Dragon,Metal Dragon,Dragon,false,28/10/1,10/1,10/1,4,Arkansas
+00-0031156,Tyler Ott,WAS,LS,69,1992-02-28,34,Pisces,Monkey,Water Monkey,Monkey,false,51/6,33,33,12,Harvard
+00-0039681,Tyler Owens,WAS,DB,18,2001-05-12,25,Taurus,Snake,Metal Snake,Snake,false,20/2,11,11,2,Texas Tech; Texas
